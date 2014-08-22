@@ -1,0 +1,6 @@
+To run 
+source /opt/LOOS/setup.sh 
+#ipython notebook --pylab inline
+
+ipython notebook --pylab=inline --port=7000 --no-browser 
+
