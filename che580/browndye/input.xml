@@ -1,0 +1,53 @@
+<root>
+
+ <protein> true </protein>
+
+ <solvent>
+    <dielectric> 78 </dielectric>
+    <debye-length>  9.0 </debye-length>
+  </solvent>
+
+  <output> results.xml </output>
+
+  <n-trajectories> 2000 </n-trajectories>
+  <n-threads> 28 </n-threads>
+
+  <molecule0>
+    <prefix> M </prefix>
+    <atoms>  M-atoms.xml </atoms>
+    <apbs-grids>
+       <grid> M.dx </grid>
+    </apbs-grids>
+    <solute-dielectric> 4.0 </solute-dielectric>
+  </molecule0>
+
+  <molecule1>
+    <prefix> N </prefix>
+    <atoms>  N-atoms.xml </atoms>
+    <all-in-surface> false </all-in-surface>
+    <apbs-grids>
+       <grid> N.dx </grid>
+    </apbs-grids>
+    <solute-dielectric> 4.0 </solute-dielectric>
+  </molecule1>
+
+  <trajectory-file> traj </trajectory-file>
+  <n-steps-per-output > 10 </n-steps-per-output>
+
+  <include-desolvation-forces> true </include-desolvation-forces>
+
+  <time-step-tolerances>
+    <minimum-dx> 0.2 </minimum-dx>
+  </time-step-tolerances>
+  <reactions> M-N-rxns.xml </reactions>
+
+  <seed> 11111113 </seed>
+  <n-trajectories-per-output> 1 </n-trajectories-per-output>
+
+  <n-copies> 200 </n-copies>
+  <n-bin-copies> 200 </n-bin-copies>
+  <n-steps> 10000 </n-steps>
+  <n-we-steps-per-output> 1000 </n-we-steps-per-output>
+  <max-n-steps> 10000 </max-n-steps>
+
+</root>
