@@ -1,14 +1,14 @@
 #!/bin/bash
-#module load pdb2pqr
+module load pdb2pqr
 pdb2pqr --ff=amber N.pdb N.pqr
 pdb2pqr --ff=amber M.pdb M.pqr
 
 
+module load apbs 
 apbs M.in >& M.apbslog
 apbs N.in >& N.apbslog
 
 
-# module load ????
 pqr2xml < N.pqr > N-atoms.xml
 pqr2xml < M.pqr > M-atoms.xml
 
