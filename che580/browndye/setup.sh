@@ -4,8 +4,8 @@ pdb2pqr --ff=amber N.pdb N.pqr
 pdb2pqr --ff=amber M.pdb M.pqr
 
 
-apbs M.in > M.apbslog
-apbs N.in > N.apbslog
+apbs M.in >& M.apbslog
+apbs N.in >& N.apbslog
 
 
 # module load ????
