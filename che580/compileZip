@@ -1,0 +1,6 @@
+rm -rf ../files.zip
+zip -r ../files.zip ../che580
+scp ../files.zip pmke226@pkh.as.uky.edu:/home/AD/pmke226/html/files
+
+
+
