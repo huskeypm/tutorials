@@ -1,7 +1,7 @@
 %NProc=8
 %Mem=40MW
 %Chk=hnc.chk
-# HF/6-31G(d) Opt freq MaxDisk=1GW
+# HF/6-31G(d) Opt Freq MaxDisk=1GW
  
 Hydrogen isocyanide: geometry optimization (product)
 
