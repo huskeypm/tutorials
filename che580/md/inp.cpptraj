@@ -1,0 +1,7 @@
+trajin step5_production.dcd     
+autoimage 
+diffusion mask @CA
+run
+
+
+
