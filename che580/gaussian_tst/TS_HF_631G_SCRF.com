@@ -9,7 +9,7 @@ Hydrogen isocyanide: geometry optimization
  
 stoichiometry=C1H4O1
 solventname=methanol
-eps=32.63
+eps=78.63
 epsinf=1.758
 
 
