@@ -1,6 +1,10 @@
-export LD_LIBRARY_PATH=/usr/local/NAMD_2.11_Linux-x86_64-multicore:$LD_LIBRARY_PATH
 
-#cp /net/share/shared/Examples_and_Tutorials/namdExample/production30.* .
-#cp /net/share/shared/Examples_and_Tutorials/namdExample/plb_popcwi.p* .   
+module load NAMD/2.9 
 
-/usr/local/bin/namd2 production_iter30.conf
+# Run jobs
+NP=8
+charmrun ++p $NP ++mpiexec /share/apps/NAMD/2.9/Linux-x86_64-ibverbs/namd2 step5_production.inp >& steps4.out  
+charmrun ++p $NP ++mpiexec /share/apps/NAMD/2.9/Linux-x86_64-ibverbs/namd2 step5_production.inp >& step5.out 
+
+module load amber
+cpptraj ../step3_pbcsetup.xplor.ext.psf < inp.cpptraj
