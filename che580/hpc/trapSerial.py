@@ -3,7 +3,7 @@
 
 import numpy
 import sys
-print "WARNING: REWEITE DIFFERENTLY" 
+#print "WARNING: REWEITE DIFFERENTLY" 
 
 #takes in command-line arguments [a,b,n]
 a = float(sys.argv[1])
@@ -12,6 +12,7 @@ n = int(sys.argv[3])
 
 def f(x):
         return x*x
+        #return x
 
 def integrateRange(a, b, n):
         '''Numerically integrate with the trapezoid rule on the interval from

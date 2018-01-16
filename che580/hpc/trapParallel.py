@@ -4,7 +4,6 @@ import numpy
 import sys
 from mpi4py import MPI
 from mpi4py.MPI import ANY_SOURCE
-print "NEED TO REWRITE" 
 
 comm = MPI.COMM_WORLD
 rank = comm.Get_rank()
@@ -17,6 +16,7 @@ n = int(sys.argv[3])
 
 #we arbitrarily define a function to integrate
 def f(x):
+        #return x
         return x*x
 
 #this is the serial version of the trapezoidal rule
@@ -36,6 +36,11 @@ h = (b-a)/n
 #note that size must divide n
 local_n = n/size
 
+# give warnings if number of trapezoids is not appropriate
+if rank==0:
+  if n%size>0:
+    print "WARNING: choose number of trapezoids by #procs*n, where n is an integer" 
+
 #we calculate the interval that each process handles
 #local_a is the starting point and local_b is the endpoint
 local_a = a + rank*local_n*h
@@ -51,16 +56,18 @@ integral[0] = integrateRange(local_a, local_b, local_n)
 # communication
 # root node receives results from all processes and sums them
 if rank == 0:
+        #print size
         total = integral[0]
         for i in range(1, size):
                 comm.Recv(recv_buffer, ANY_SOURCE)
                 total += recv_buffer[0]
 else:
         # all other process send their result
-        comm.Send(integral)
+        #print local_a, local_b, rank
+        comm.Send(integral,dest=0)
 
 # root process prints results
 if comm.rank == 0:
-        print "With n =", n, "trapezoids, our estimate of the integral from"\
-        , a, "to", b, "is", total
+  print "Using %d trapezoids over %d nodes, we obtain %f"%\
+         (n,size,total)
 
