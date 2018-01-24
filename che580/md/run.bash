@@ -1,4 +1,4 @@
-
+#SBATCH -p limited # partition (queue) for CHE580 
 module load NAMD/2.9 
 
 # Run jobs

@@ -1,7 +1,7 @@
 #!/bin/bash 
+#SBATCH -p limited # partition (queue) for CHE580 
 #SBATCH --tasks=1
 #SBATCH --tasks-per-node=1
-##SBATCH --partition=GPU 
 
 sleep 10 
 # command will work 

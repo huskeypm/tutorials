@@ -1,4 +1,7 @@
 #!/bin/bash 
+#SBATCH -p limited # partition (queue) for CHE580 
+##SBATCH -N 1 # number of nodes /commented out
+##SBATCH -n 1 # number of cores /commented out
 #SBATCH --tasks=8  
 #SBATCH --tasks-per-node=8
 
