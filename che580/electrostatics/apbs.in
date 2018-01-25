@@ -1,6 +1,7 @@
 # READ IN MOLECULES
 read
-	mol pqr born.pqr
+#	mol pqr born.pqr
+ 	mol pqr glu.pqr
 end
 elec name solv # Electrostatics calculation on the solvated state
 	mg-manual # Specify the mode for APBS to run
