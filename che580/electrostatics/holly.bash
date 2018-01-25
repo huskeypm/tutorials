@@ -1,3 +1,4 @@
+#!/bin/bash 
 #SBATCH -p limited # partition (queue) for CHE580 
 
 module load apbs
