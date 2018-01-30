@@ -1,0 +1,5 @@
+apbs.in - dilute conditions
+apbs_ion.in - in 1 M electrolyte 
+
+Adjust the name of the pqr file in each .in file to point to the pqr file you'd like to run 
+
