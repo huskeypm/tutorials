@@ -1,0 +1,3 @@
+Interactive sessions
+salloc -N1 --partition=limited
+
