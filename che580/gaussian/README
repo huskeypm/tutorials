@@ -1,8 +1,5 @@
-Need to make a.a. and ion examples
 
-Add geom opt
-Add mulliken pop example 
+To run
 
-
-
+sbatch hollyJob.bash 
 
