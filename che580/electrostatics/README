@@ -1,10 +1,15 @@
-To generate the pqr file from a pdb:
+1. To generate the pqr file from a pdb:
 
 module load pdb2pqr
 pdb2pqr --with-ph=7.0 --ph-calc-method=propka --apbs-input --ff=charmm --ffout=charmm --verbose --summary 1cdm.pdb 1cdm.pqr
 
 last two arguments are the input pdb and output pqr name 
+This script should also generate a .in file for running apbs
 
+2. Run apbs via
+apbs apbs.in 
+
+where 
 apbs.in - dilute conditions
 apbs_ion.in - in 1 M electrolyte 
 
