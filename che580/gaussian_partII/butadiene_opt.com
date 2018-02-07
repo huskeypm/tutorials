@@ -1,4 +1,3 @@
-%NProcShared=8
 %Chk=butadiene.chk
 #n RHF/STO-3G Opt
 
