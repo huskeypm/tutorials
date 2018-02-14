@@ -1,8 +1,14 @@
+These routines perform ground state optimizations of HCN and HNC
+
 Run these in the following order: 
 HCN_HF_631G_Opt.com
 HNC_HF_631G_Opt.com
 TS_HF_631G_Opt.com
+#TS_HF_631G_IRC.com
 TS_HF_631G_SCRF.com
+
+
+An example input file is given: holly.bash 
 
 The dielectric constant can be changed for TS_HF_631G_SCRF.com by setting 'eps=' to a different value
 After the jobs complete, search your .log files for  
