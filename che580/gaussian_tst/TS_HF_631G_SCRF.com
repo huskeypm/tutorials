@@ -1,4 +1,3 @@
-%NProc=16
 %Mem=40MW
 %Chk=hcn_hnc_ts.chk
 #p HF/6-31G(d) SCF=Tight SCRF=(PCM,Read,Solvent=Generic) geom=check

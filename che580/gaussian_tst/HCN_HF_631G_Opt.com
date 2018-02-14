@@ -1,4 +1,3 @@
-%NProc=8
 %Mem=40MW
 %Chk=hcn.chk
 # HF/6-31G(d) Opt freq MaxDisk=1GW
