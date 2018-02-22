@@ -113,6 +113,18 @@ def saveImg(lattice,title=None,fname="ising.png"):
     ax.axis('equal')
     plt.gcf().savefig(fname)
     return 
+
+def run(n,nsteps=1e6,H=0,J=0,T=1):
+    lattice,latticeEnergies,energies = ising(n,nsteps,H,J,T)
+
+    saveImg(lattice,title="T=%f"%T)
+
+    plt.figure()
+    plt.plot(energies)
+    plt.gcf().savefig("energies.png") 
+    
+    return lattice,latticeEnergies,energies
+
     
 
 def main():
@@ -129,11 +141,7 @@ def main():
         elif key == '-h': H = float(val)
         elif key == '-j': J = float(val)
 	elif key == '-t': T = float(val)
-    lattice,latticeEnergies,energies = ising(n,nsteps,H,J,T)
-
-    saveImg(lattice,title="T=%f"%T)
-    plot(energies)
-    return
+    lattice,latticeEnergies,energies = run(n,nsteps,H,J,T)
 
 def plot(energies):
     plt.plot(energies)
