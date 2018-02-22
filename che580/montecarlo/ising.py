@@ -118,8 +118,12 @@ def run(n,nsteps=1e6,H=0,J=0,T=1):
     lattice,latticeEnergies,energies = ising(n,nsteps,H,J,T)
 
     saveImg(lattice,title="T=%f"%T)
-    plot(energies)
-    return
+
+    plt.figure()
+    plt.plot(energies)
+    plt.gcf().savefig("energies.png") 
+    
+    return lattice,latticeEnergies,energies
 
     
 
