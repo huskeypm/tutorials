@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pylab as plt
 
-data = np.loadtxt("diffusion_a.xmgr")
+data = np.loadtxt("msd.dat")
 dcdfreq = 1000 # dcd printed every N steps
 timestep = 2e-15 # timestep [s]
 stepIntoNs = dcdfreq*timestep * 1e9 # convert to ns
