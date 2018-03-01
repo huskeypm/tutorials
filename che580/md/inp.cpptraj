@@ -1,6 +1,6 @@
-trajin step5_production.dcd     
-diffusion @CA
+trajin MD.dcd     
+image 
+diffusion @CA out msd.dat
 run
-
 
 
