@@ -1,3 +1,5 @@
+import matplotlib
+matplotlib.use('Agg')
 import numpy as np
 import matplotlib.pylab as plt
 
@@ -6,7 +8,7 @@ dcdfreq = 1000 # dcd printed every N steps
 timestep = 2e-15 # timestep [s]
 stepIntoNs = dcdfreq*timestep * 1e9 # convert to ns
 ts = data[:,0] * stepIntoNs  
-msd = data[:,1] 
+msd = data[:,5] 
 plt.plot(ts,msd)
 plt.xlabel("t [ns]")
 plt.ylabel("MSD [A^2]") 
