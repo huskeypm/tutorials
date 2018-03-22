@@ -9,6 +9,7 @@ apbs M.in >& M.apbslog
 apbs N.in >& N.apbslog
 
 
+module load browndye/5Dec2016
 pqr2xml < N.pqr > N-atoms.xml
 pqr2xml < M.pqr > M-atoms.xml
 
