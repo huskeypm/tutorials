@@ -27,4 +27,4 @@ python $SRCLOC/geom_mk_msh.py $DATALOC/data/params/mesh/che580-sp18.yaml
 python $SRCLOC/geom_mk_xml.py $DATALOC/data/params/mesh/che580-sp18.yaml
 python $SRCLOC/solver_run.py $DATALOC/data/params/model/che580-sp18.yaml 
 AND/OR
-doit -f $SRCLOC/dodo.py
+doit -f $SRCLOC/dodo.py --db-file $DATALOC/.doit.db
