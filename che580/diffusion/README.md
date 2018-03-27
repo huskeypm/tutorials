@@ -10,16 +10,20 @@ Need to use the che580-sp18 branch
 # User 
 #
 
-export LOC=/home/pmke226/sources/nanopore_diffusion/src/
-export PYTHONPATH=$PYTHONPATH:$LOC
-export PYTHONPATH=$PYTHONPATH:$LOC/solvers/
-export PYTHONPATH=$PYTHONPATH:$LOC/customizations/
+#Edit this line to match your location for the tutorial files
+export DATALOC=~/tutorial/che580/diffusion/data/
+
+##export LOC=/home/pmke226/sources/nanopore_diffusion/src/
+export SRCLOC=/share/apps/che580/nanopore_diffusion/src
+export PYTHONPATH=$PYTHONPATH:$SRCLOC
+export PYTHONPATH=$PYTHONPATH:$SRCLOC/solvers/
+export PYTHONPATH=$PYTHONPATH:$SRCLOC/customizations/
 
 module load fenics.2016.2 
 
 
-python $LOC/buildgeom.py ../data/params/mesh/che580-sp18.yaml
-python $LOC/geom_mk_msh.py ../data/params/mesh/che580-sp18.yaml
-python $LOC/geom_mk_xml.py ../data/params/mesh/che580-sp18.yaml
-python $LOC/solver_run.py ../data/params/model/che580-sp18.yaml 
+python $SRCLOC/buildgeom.py $DATALOC/params/mesh/che580-sp18.yaml
+python $SRCLOC/geom_mk_msh.py $DATALOC/data/params/mesh/che580-sp18.yaml
+python $SRCLOC/geom_mk_xml.py $DATALOC/data/params/mesh/che580-sp18.yaml
+python $SRCLOC/solver_run.py $DATALOC/data/params/model/che580-sp18.yaml 
 
