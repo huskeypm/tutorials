@@ -1,0 +1,16 @@
+This BD tutorial simulates the association between the N-domain of CaM and pCaN, the 
+corresponding pdb structures of the two parts are extracted from PDB 4Q5U
+
+
+Before submitting the job (sbatch holly.bash), you should generate the .pqr files based on 
+the two pdb files by typing the following commands in the terminal:
+-----------------------
+module load pdb2pqr/2.1.1
+pdb2pqr --ff=amber CaM-N.pdb CaM-N.pqr
+pdb2pqr --ff=amber pCaN.pdb pCaN.pqr
+------------------------
+
+(bug on one of the installations somewhere)
+
+
+After this step is done, submit the holly.bash script

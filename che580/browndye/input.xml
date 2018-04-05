@@ -4,29 +4,29 @@
 
  <solvent>
     <dielectric> 78 </dielectric>
-    <debye-length>  9.0 </debye-length>
+    <debye-length>  2.99 </debye-length>
   </solvent>
 
   <output> results.xml </output>
 
-  <n-trajectories> 2000 </n-trajectories>
-  <n-threads> 28 </n-threads>
+  <n-trajectories> 10000 </n-trajectories>
+  <n-threads> 4  </n-threads>
 
   <molecule0>
-    <prefix> M </prefix>
-    <atoms>  M-atoms.xml </atoms>
+    <prefix> CaM-N </prefix>
+    <atoms>  CaM-N-atoms.xml </atoms>
     <apbs-grids>
-       <grid> M.dx </grid>
+       <grid> CaM-N.dx </grid>
     </apbs-grids>
     <solute-dielectric> 4.0 </solute-dielectric>
   </molecule0>
 
   <molecule1>
-    <prefix> N </prefix>
-    <atoms>  N-atoms.xml </atoms>
+    <prefix> pCaN </prefix>
+    <atoms>  pCaN-atoms.xml </atoms>
     <all-in-surface> false </all-in-surface>
     <apbs-grids>
-       <grid> N.dx </grid>
+       <grid> pCaN.dx </grid>
     </apbs-grids>
     <solute-dielectric> 4.0 </solute-dielectric>
   </molecule1>
@@ -39,15 +39,15 @@
   <time-step-tolerances>
     <minimum-dx> 0.2 </minimum-dx>
   </time-step-tolerances>
-  <reactions> M-N-rxns.xml </reactions>
+  <reactions> CaM-N-pCaN-rxns.xml </reactions>
 
   <seed> 11111113 </seed>
   <n-trajectories-per-output> 1 </n-trajectories-per-output>
 
   <n-copies> 200 </n-copies>
   <n-bin-copies> 200 </n-bin-copies>
-  <n-steps> 10000 </n-steps>
+  <n-steps> 100000 </n-steps>
   <n-we-steps-per-output> 1000 </n-we-steps-per-output>
-  <max-n-steps> 10000 </max-n-steps>
+  <max-n-steps> 100000 </max-n-steps>
 
 </root>

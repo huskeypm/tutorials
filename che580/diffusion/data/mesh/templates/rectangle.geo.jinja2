@@ -1,0 +1,27 @@
+{% extends "common.geo.jinja2" %}
+{# parameter definitions section for body-centered geometry #}
+
+{% block paramdefs %}
+//Mesh density control
+mcar={{ mscale }}*{{ mcar }};
+
+//Geometric inputs
+Lx={{ Lx }};
+Ly={{ Ly }};
+
+//Point ordinates
+X1=0;
+X2=Lx;
+Y1=0;
+Y2=Ly;
+
+//Parametric locations output
+paramlocsfile="{{ paramlocsfile }}";
+Printf("# Parametric locations output") > paramlocsfile;
+Printf("X1: %f", X1) >> paramlocsfile;
+Printf("X2: %f", X2) >> paramlocsfile;
+Printf("Y1: %f", Y1) >> paramlocsfile;
+Printf("Y2: %f", Y2) >> paramlocsfile;
+Printf("Xmid: %f", Lx/2) >> paramlocsfile;
+Printf("Ymid: %f", Ly/2) >> paramlocsfile;
+{% endblock %}
