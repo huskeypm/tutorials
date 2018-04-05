@@ -8,4 +8,10 @@ Second tutorial
  - memory
  - gillespie 
 
+todo 
+- compare ode vs gillespie for low vs high copy number
+- introduce strongly nonlinear ode vs gillespie and track std dev
+- add substrate dependence for substrate/prot binding
+hw remap ode mm channel to gillespie 
+
 
