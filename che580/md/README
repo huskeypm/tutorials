@@ -10,4 +10,4 @@ After job successfully completes, an MD.dcd file should be generated and a msd.d
 Run python MSD.py to generate rms analyses (will create a msd.png file) 
 
 
-
+Note: use the subdirectory aa to get pdb files for each amino acid that are compliant with QuickMD 
