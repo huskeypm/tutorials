@@ -4,6 +4,11 @@ To run this routine, do the following:
 use the notebooks from your locally-installed Anaconda distribution
 Relies on numpy, scipy, scipy integrate 
 
-tutorial 
+First tutorial 
  - markov.ipynb
+
+Second tutorial 
+ - memory
+ - Gillespie 
+
 
