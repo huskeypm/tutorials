@@ -1,0 +1,17 @@
+<rates>
+  <!-- 95% confidence intervals -->
+  <rate>
+    <name> association </name>
+    <rate-constant>
+      <low> 1.04358e+08 </low>
+      <mean> 1.27987e+08 </mean>
+      <high> 1.51615e+08 </high>
+    </rate-constant>
+
+    <reaction-probability>
+      <low> 0.00945846 </low>
+      <mean> 0.0116 </mean>
+      <high> 0.0137415 </high>
+    </reaction-probability>
+  </rate>
+</rates>

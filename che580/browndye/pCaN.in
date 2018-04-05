@@ -1,5 +1,5 @@
 read
-    mol pqr N.pqr
+    mol pqr pCaN.pqr
 end
 
 # CALCULATION IN SOLVENT solvent dielectric constant = 78.54
@@ -17,8 +17,9 @@ elec name acc
     lpbe                               # lpbe/npbe = linear/nonlinear PBE
     bcfl sdh                           # Boundary condition flag
                                        #  1 => Single DH sphere
-    ion charge 1 conc 0.150 radius 2.0  
-    ion charge -1 conc 0.150 radius 2.0     
+    ion 1 1.028 1.868                 # 0.1, Counterion declaration:  # Na+ from amber/parm99.dat
+    ion -1 1.028 1.948                   #  ion <charge> <conc (M)> <radius> # Cl- from amber/parm99.dat
+
 
     pdie 4.0                           # Solute dielectric 4.0
     sdie 78                          # Solvent dielectric 78.54
@@ -33,6 +34,6 @@ elec name acc
     calcenergy total                   # Energy I/O (to stdout)
                                        #  1 => write out total energy
     calcforce no                       # Atomic forces I/O (to stdout)
-    write pot dx N
+    write pot dx pCaN
 end
 quit
