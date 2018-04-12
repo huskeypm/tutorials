@@ -1,15 +1,8 @@
 To run this routine, do the following:
-Run gillespie.py
-Can also do
 python runner2comp.py -valid
 
-
-use the notebooks from your locally-installed Anaconda distribution
-Relies on numpy, scipy, scipy integrate 
-
-Second tutorial 
- - gillespie 
-
+Use the notebooks from your locally-installed Anaconda distribution
+Relies on numpy, scipy
 
 Notes:
 runner - A+B<-->C
