@@ -1,9 +1,0 @@
-To run this routine, do the following:
-python runner2comp.py -valid
-
-Use the notebooks from your locally-installed Anaconda distribution
-Relies on numpy, scipy
-
-Notes:
-runner - A+B<-->C
-runnerTwoComp A<-->B
