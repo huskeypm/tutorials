@@ -1,0 +1,6 @@
+After running 
+http://bioserv.rpbs.univ-paris-diderot.fr/services/MTiOpenScreen/#usage
+
+with the instructions provided in the tutorial, a pdb file with all autdock-vina formatted hits is provided. 
+I read that pdb file using pymol, printed this out into a new pdb file (to deal with weird branching commands), then parsed this into individual pdb files for each hit. 
+
