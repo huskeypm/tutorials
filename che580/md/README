@@ -11,3 +11,17 @@ Run python MSD.py to generate rms analyses (will create a msd.png file)
 
 
 Note: use the subdirectory aa to get pdb files for each amino acid that are compliant with QuickMD 
+
+
+
+To generate without quickmd
+Navigate to the ./aa directory and edit the prep.tcl to reflect your amino acid of choice. The script is currently written for lys. 
+module load NAMD
+psfgen < prep.tcl
+
+In the same directory, you will see a run.conf file that uses fin.psf/pdb. If your output file from the tcl script is called fin, you're all set. Otherwise update the name in run.conf
+
+namd2 run.conf
+
+Note: most likely you'll want to solvate the protein, add ions, etc. In this case, I'd strongly recommend following the NAMD tutorial at http://www.ks.uiuc.edu/Training/Tutorials/namd/namd-tutorial-html/node4.html, which will give additional suggests on setting up your structure as well as creating/running the appropriate run files for equilibration and minimization. 
+
