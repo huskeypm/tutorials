@@ -1,0 +1,1731 @@
+Down-log2(FC)	Down-entry	Down-mgi_symbol	Down-refseq_mrna	Down-entrezgene	Down-description
+-15	834	Cyp2ab1	0	224044	cytochrome P450
+-15	871	Saa1	0	20208	serum amyloid A 1 [Source:MGI Symbol
+-15	1184	Slc6a4	0	15567	solute carrier family 6 (neurotransmitter transporter
+-15	1272	Nrxn3	0	18191	neurexin III [Source:MGI Symbol
+-15	1641	4930417H01Rik	0	NA	RIKEN cDNA 4930417H01 gene [Source:MGI Symbol
+-15	2733	Krt16	NM_001313958	16666	keratin 16 [Source:MGI Symbol
+-15	2799	Olfr697	NM_146599	258592	olfactory receptor 697 [Source:MGI Symbol
+-15	3150	Nt5c1a	NM_001085502	230718	5'-nucleotidase
+-15	3305	Clvs1	0	74438	clavesin 1 [Source:MGI Symbol
+-15	3933	Gm20458	0	NA	predicted gene 20458 [Source:MGI Symbol
+-15	4281	Syt16	NM_172804	238266	synaptotagmin XVI [Source:MGI Symbol
+-15	4324	A930015D03Rik	0	NA	RIKEN cDNA A930015D03 gene [Source:MGI Symbol
+-12.2916759114328	3236	Gm14440	NM_001199308	100503353	predicted gene 14440 [Source:MGI Symbol
+-10.7934475843696	1462	Gm16685	0	NA	predicted gene
+-9.7020844539382	1639	Coch	NM_007728	12810	cochlin [Source:MGI Symbol
+-9.04944953351234	846	Il1a	NM_010554	16175	interleukin 1 alpha [Source:MGI Symbol
+-8.97215136735561	83	Cd200	NM_010818	17470	CD200 antigen [Source:MGI Symbol
+-8.87838355330004	992	Il1f9	NM_153511	215257	interleukin 1 family
+-8.56011788205518	722	Slfn4	NM_011410	20558	schlafen 4 [Source:MGI Symbol
+-8.42900080443919	515	Filip1	NM_001081243	70598	filamin A interacting protein 1 [Source:MGI Symbol
+-8.37729120234929	2397	Ankrd34c	0	330998	ankyrin repeat domain 34C [Source:MGI Symbol
+-8.34902277217251	1172	Pde10a	0	23984	phosphodiesterase 10A [Source:MGI Symbol
+-8.31862123609109	881	Lcn2	0	16819	lipocalin 2 [Source:MGI Symbol
+-8.25822309238832	1452	Mycl	0	16918	v-myc avian myelocytomatosis viral oncogene lung carcinoma derived [Source:MGI Symbol
+-8.14749249171289	1037	Slamf1	NM_013730	27218	signaling lymphocytic activation molecule family member 1 [Source:MGI Symbol
+-8.09282723478448	633	Inhba	0	16323	inhibin beta-A [Source:MGI Symbol
+-8.04895977650544	593	Akap2	0	11641	A kinase (PRKA) anchor protein 2 [Source:MGI Symbol
+-7.88454371077806	1119	4930438A08Rik	0	73988	RIKEN cDNA 4930438A08 gene [Source:MGI Symbol
+-7.80791656776298	1414	Serpine1	0	18787	serine (or cysteine) peptidase inhibitor
+-7.7998187891625	1157	Adora2a	NM_009630	11540	adenosine A2a receptor [Source:MGI Symbol
+-7.73205820074799	1259	Gm26584	0	NA	predicted gene
+-7.60467887768189	1093	Il6	NM_031168	16193	interleukin 6 [Source:MGI Symbol
+-7.60220264258404	440	Fpr1	NM_013521	14293	formyl peptide receptor 1 [Source:MGI Symbol
+-7.5729602153217	983	Gipr	NM_001080815	381853	gastric inhibitory polypeptide receptor [Source:MGI Symbol
+-7.57250871938948	2084	Adgrv1	NM_054053	110789	adhesion G protein-coupled receptor V1 [Source:MGI Symbol
+-7.56363444612887	1243	Tpbg	NM_011627	21983	trophoblast glycoprotein [Source:MGI Symbol
+-7.55829525982168	1267	0	0	NA	0
+-7.50848453235804	336	Cxcl3	NM_203320	330122	chemokine (C-X-C motif) ligand 3 [Source:MGI Symbol
+-7.38035904295917	1167	Gm43181	0	NA	predicted gene 43181 [Source:MGI Symbol
+-7.35926200295446	771	Ptges	NM_022415	64292	prostaglandin E synthase [Source:MGI Symbol
+-7.25486130612004	696	Apol9a	NM_001162883	223672	apolipoprotein L 9a [Source:MGI Symbol
+-7.10851455633619	1721	Gm18445	0	NA	predicted gene
+-7.04792416382349	1003	Flrt3	0	71436	fibronectin leucine rich transmembrane protein 3 [Source:MGI Symbol
+-6.98964809160758	48	Tarm1	0	245126	T cell-interacting
+-6.97218851466833	143	Saa3	NM_011315	20210	serum amyloid A 3 [Source:MGI Symbol
+-6.95860361205905	3807	Stc2	NM_011491	20856	stanniocalcin 2 [Source:MGI Symbol
+-6.90004273802749	1084	Tcp10b	NM_009341	21462	t-complex protein 10b [Source:MGI Symbol
+-6.78133179733854	4212	Dcn	NM_001190451	13179	decorin [Source:MGI Symbol
+-6.7394836625411	2296	Apobec4	NM_001081197	71281	apolipoprotein B mRNA editing enzyme
+-6.66929923235324	271	Nos2	NM_001313921	18126	nitric oxide synthase 2
+-6.65835238673739	3662	Lipg	NM_010720	16891	lipase
+-6.64352888836383	2749	Siglece	NM_031181	83382	sialic acid binding Ig-like lectin E [Source:MGI Symbol
+-6.63890913994025	1081	Il1b	NM_008361	16176	interleukin 1 beta [Source:MGI Symbol
+-6.56413129492572	182	Il1rn	NM_031167	16181	interleukin 1 receptor antagonist [Source:MGI Symbol
+-6.5454399418366	544	Slc6a19	0	74338	solute carrier family 6 (neurotransmitter transporter)
+-6.4737329137309	1064	Gm7592	0	NA	predicted gene 7592 [Source:MGI Symbol
+-6.45129934279165	1191	Slc7a2	NM_001044740	11988	solute carrier family 7 (cationic amino acid transporter
+-6.44934242625055	289	Wnk2	0	75607	WNK lysine deficient protein kinase 2 [Source:MGI Symbol
+-6.43313818983283	17	Procr	NM_011171	19124	protein C receptor
+-6.42232390180352	2465	Hes1	NM_008235	15205	hairy and enhancer of split 1 (Drosophila) [Source:MGI Symbol
+-6.41912625267955	243	AA467197	0	433470	expressed sequence AA467197 [Source:MGI Symbol
+-6.39016323101061	1051	Serpinb1a	0	66222	serine (or cysteine) peptidase inhibitor
+-6.37609180724268	574	Gprc5a	NM_181444	232431	G protein-coupled receptor
+-6.37527650206784	1473	Klf4	0	16600	Kruppel-like factor 4 (gut) [Source:MGI Symbol
+-6.35209970068816	914	Ccl7	NM_013654	20306	chemokine (C-C motif) ligand 7 [Source:MGI Symbol
+-6.32539039193276	2821	Ghr	NM_001286370	14600	growth hormone receptor [Source:MGI Symbol
+-6.32237732766578	1225	Ccl2	NM_011333	20296	chemokine (C-C motif) ligand 2 [Source:MGI Symbol
+-6.2865237109127	1941	2010110E17Rik	0	NA	RIKEN cDNA 2010110E17 gene [Source:MGI Symbol
+-6.27607637633031	15	Pdpn	NM_010329	14726	podoplanin [Source:MGI Symbol
+-6.27482593949011	736	Mx2	0	17858	MX dynamin-like GTPase 2 [Source:MGI Symbol
+-6.2264291702217	1072	Il23r	NM_144548	209590	interleukin 23 receptor [Source:MGI Symbol
+-6.22365937847428	1122	Il12b	NM_001303244	16160	interleukin 12b [Source:MGI Symbol
+-6.15030725036764	129	Serpinb9b	NM_011452	20706	serine (or cysteine) peptidase inhibitor
+-6.11124641269496	20	Naip1	NM_008670	17940	NLR family
+-6.10581337050257	680	Col4a2	NM_009932	12827	collagen
+-6.08921935402581	1458	Lta	NM_010735	16992	lymphotoxin A [Source:MGI Symbol
+-6.04375770776635	1584	Diras2	NM_001024474	68203	DIRAS family
+-6.02760856340303	310	Dusp13	0	27389	dual specificity phosphatase 13 [Source:MGI Symbol
+-6.02687691471318	93	F10	NM_007972	14058	coagulation factor X [Source:MGI Symbol
+-6.01621214489046	148	Tnfrsf9	0	21942	tumor necrosis factor receptor superfamily
+-5.98990165716894	787	Pde5a	NM_153422	242202	phosphodiesterase 5A
+-5.97980363743961	474	Rsad2	0	58185	radical S-adenosyl methionine domain containing 2 [Source:MGI Symbol
+-5.97761439571971	503	Apol9b	NM_173743	71898	apolipoprotein L 9b [Source:MGI Symbol
+-5.93194949595243	2595	Rasgrf1	0	19417	RAS protein-specific guanine nucleotide-releasing factor 1 [Source:MGI Symbol
+-5.92770228264994	117	Clcf1	NM_019952	56708	cardiotrophin-like cytokine factor 1 [Source:MGI Symbol
+-5.92679813486368	1638	Ptgs2os	0	NA	prostaglandin-endoperoxide synthase 2
+-5.907754863195	761	Gsta3	NM_010356	14859	glutathione S-transferase
+-5.83965007680251	1848	Ptgs2	NM_011198	19225	prostaglandin-endoperoxide synthase 2 [Source:MGI Symbol
+-5.82961402696298	1448	Car2	0	12349	carbonic anhydrase 2 [Source:MGI Symbol
+-5.82547659378912	746	Sema3c	NM_013657	20348	sema domain
+-5.78817004928213	96	Sdc1	0	20969	syndecan 1 [Source:MGI Symbol
+-5.77505999155385	2617	Gm27167	0	NA	predicted gene 27167 [Source:MGI Symbol
+-5.75889001483529	1542	Socs3	NM_007707	12702	suppressor of cytokine signaling 3 [Source:MGI Symbol
+-5.72897389811381	31	A530064D06Rik	NM_178796	328830	RIKEN cDNA A530064D06 gene [Source:MGI Symbol
+-5.72362535989863	3124	Sell	NM_001164059	20343	selectin
+-5.71160400321977	973	Trem1	0	58217	triggering receptor expressed on myeloid cells 1 [Source:MGI Symbol
+-5.69322616607444	1200	Cd38	NM_007646	12494	CD38 antigen [Source:MGI Symbol
+-5.61439157810465	162	Slc7a11	0	26570	solute carrier family 7 (cationic amino acid transporter
+-5.61162120784982	716	Lysmd2	NM_027309	70082	LysM
+-5.60750820022583	232	Fpr2	0	14289	formyl peptide receptor 2 [Source:MGI Symbol
+-5.58995309024302	6	Slc22a4	NM_019687	30805	solute carrier family 22 (organic cation transporter)
+-5.55152089450863	357	Gm13822	0	NA	predicted gene 13822 [Source:MGI Symbol
+-5.53140290803426	1539	Grhl1	NM_001161406	195733	grainyhead-like 1 (Drosophila) [Source:MGI Symbol
+-5.49344958543214	492	Dusp8	NM_008748	18218	dual specificity phosphatase 8 [Source:MGI Symbol
+-5.46244606170712	2330	Lhx2	NM_001290646	16870	LIM homeobox protein 2 [Source:MGI Symbol
+-5.45225750153236	1085	Ccdc148	0	227933	coiled-coil domain containing 148 [Source:MGI Symbol
+-5.45169591213852	147	Dnmt3l	0	54427	DNA (cytosine-5-)-methyltransferase 3-like [Source:MGI Symbol
+-5.42744175547923	210	Acpp	NM_207668	56318	acid phosphatase
+-5.40194115724763	684	Gadd45g	NM_011817	23882	growth arrest and DNA-damage-inducible 45 gamma [Source:MGI Symbol
+-5.38701659443265	2467	Slc28a2	NM_172980	269346	solute carrier family 28 (sodium-coupled nucleoside transporter)
+-5.38410901123199	878	Cmpk2	NM_020557	22169	cytidine monophosphate (UMP-CMP) kinase 2
+-5.36995555882717	240	Arhgap28	NM_172964	268970	Rho GTPase activating protein 28 [Source:MGI Symbol
+-5.3670801705215	845	Efcab6	0	77627	EF-hand calcium binding domain 6 [Source:MGI Symbol
+-5.3523875775623	529	Lims2	NM_144862	225341	LIM and senescent cell antigen like domains 2 [Source:MGI Symbol
+-5.35104275361161	154	Clec4e	NM_019948	56619	C-type lectin domain family 4
+-5.31617842334298	1504	Trim30b	0	244183	tripartite motif-containing 30B [Source:MGI Symbol
+-5.27962047610104	94	Hilpda	NM_001190461	69573	hypoxia inducible lipid droplet associated [Source:MGI Symbol
+-5.26696503665205	882	Serpinb2	NM_001174170	18788	serine (or cysteine) peptidase inhibitor
+-5.25978614308709	231	Wwc1	NM_170779	211652	WW
+-5.24514315716431	942	Ramp3	NM_019511	56089	receptor (calcitonin) activity modifying protein 3 [Source:MGI Symbol
+-5.21999295187091	121	Sgms2	NM_028943	74442	sphingomyelin synthase 2 [Source:MGI Symbol
+-5.21379806187325	2849	Mir155hg	0	NA	Mir155 host gene (non-protein coding) [Source:MGI Symbol
+-5.20389957015938	3143	Hist1h2bq	0	665596	histone cluster 1
+-5.19538016621698	1433	Traf1	0	22029	TNF receptor-associated factor 1 [Source:MGI Symbol
+-5.16617188718908	396	Isg20	NM_001291221	57444	interferon-stimulated protein [Source:MGI Symbol
+-5.15974825793841	892	Htr2a	NM_172812	15558	5-hydroxytryptamine (serotonin) receptor 2A [Source:MGI Symbol
+-5.12551028395287	126	Htr2b	NM_008311	15559	5-hydroxytryptamine (serotonin) receptor 2B [Source:MGI Symbol
+-5.107673261316	2792	Cxcl11	0	56066	chemokine (C-X-C motif) ligand 11 [Source:MGI Symbol
+-5.0840298031349	333	Gm21399	0	NA	predicted gene
+-5.0586350045899	3446	Slc17a8	NM_182959	216227	solute carrier family 17 (sodium-dependent inorganic phosphate cotransporter)
+-5.04129294866787	343	Spsb4	NM_145134	211949	splA/ryanodine receptor domain and SOCS box containing 4 [Source:MGI Symbol
+-5.03699508744584	848	Arnt2	NM_007488	11864	aryl hydrocarbon receptor nuclear translocator 2 [Source:MGI Symbol
+-5.03608744744427	1331	BC023105	0	NA	cDNA sequence BC023105 [Source:MGI Symbol
+-5.02645085413248	936	Marco	NM_010766	17167	macrophage receptor with collagenous structure [Source:MGI Symbol
+-5.0191019228036	801	Ccbe1	NM_178793	320924	collagen and calcium binding EGF domains 1 [Source:MGI Symbol
+-4.97794705396226	196	Clmp	0	71566	CXADR-like membrane protein [Source:MGI Symbol
+-4.97084378109755	377	Glipr2	NM_027450	384009	GLI pathogenesis-related 2 [Source:MGI Symbol
+-4.96792364698205	1494	Olfr433	NM_146717	258712	olfactory receptor 433 [Source:MGI Symbol
+-4.93487767086836	368	Pla1a	NM_134102	85031	phospholipase A1 member A [Source:MGI Symbol
+-4.90889316821257	786	Atp2b4	0	381290	ATPase
+-4.87746448951856	1724	Ly75	0	17076	lymphocyte antigen 75 [Source:MGI Symbol
+-4.86627585205203	750	Mfsd7a	NM_172883	243197	major facilitator superfamily domain containing 7A [Source:MGI Symbol
+-4.84473494662015	222	Rhou	0	69581	ras homolog family member U [Source:MGI Symbol
+-4.83035444290162	287	Cxcl2	0	20310	chemokine (C-X-C motif) ligand 2 [Source:MGI Symbol
+-4.81614935574722	7871	Pde2a	NM_001243757	207728	phosphodiesterase 2A
+-4.81073367821535	874	Mx1	0	NA	MX dynamin-like GTPase 1 [Source:MGI Symbol
+-4.78541212542005	605	Akap6	NM_198111	238161	A kinase (PRKA) anchor protein 6 [Source:MGI Symbol
+-4.7758771452368	921	Ednrb	NM_001136061	13618	endothelin receptor type B [Source:MGI Symbol
+-4.76423348549773	1551	Timp1	NM_011593	21857	tissue inhibitor of metalloproteinase 1 [Source:MGI Symbol
+-4.75257549771737	3009	Heatr9	NM_001045543	629303	HEAT repeat containing 9 [Source:MGI Symbol
+-4.7446683210417	888	Oas1b	0	23961	2'-5' oligoadenylate synthetase 1B [Source:MGI Symbol
+-4.74159665472539	463	Arg2	NM_009705	11847	arginase type II [Source:MGI Symbol
+-4.69727229995779	335	Acod1	NM_008392	16365	aconitate decarboxylase 1 [Source:MGI Symbol
+-4.69012926696988	164	Oit3	NM_010959	18302	oncoprotein induced transcript 3 [Source:MGI Symbol
+-4.68373894985445	213	Plpp3	NM_080555	67916	phospholipid phosphatase 3 [Source:MGI Symbol
+-4.67752534476965	423	BC094916	NM_001024721	545384	cDNA sequence BC094916 [Source:MGI Symbol
+-4.63328024696586	3000	Ido2	0	209176	indoleamine 2
+-4.61167648249109	1235	Cd40	0	21939	CD40 antigen [Source:MGI Symbol
+-4.52895770991294	657	Glrp1	NM_008132	14659	glutamine repeat protein 1 [Source:MGI Symbol
+-4.50063032083151	225	Bcl2a1a	NM_009742	12044	B cell leukemia/lymphoma 2 related protein A1a [Source:MGI Symbol
+-4.49189200922589	2040	Ftl2-ps	0	NA	ferritin light polypeptide 2
+-4.48359555222213	862	Trim30c	0	NA	tripartite motif-containing 30C [Source:MGI Symbol
+-4.47472625080407	2139	Col6a3	NM_001243009	12835	collagen
+-4.46689149930876	1778	9130230L23Rik	0	NA	RIKEN cDNA 9130230L23 gene [Source:MGI Symbol
+-4.45464789992495	873	Gm5345	0	NA	predicted gene 5345 [Source:MGI Symbol
+-4.42081042377092	4376	Chrna5	NM_176844	110835	cholinergic receptor
+-4.40980236635583	4180	Edn1	NM_010104	13614	endothelin 1 [Source:MGI Symbol
+-4.40966564292211	4083	Rnf225	NM_029809	381845	ring finger protein 225 [Source:MGI Symbol
+-4.39868177322465	131	Oasl1	NM_145209	231655	2'-5' oligoadenylate synthetase-like 1 [Source:MGI Symbol
+-4.38066767924616	754	Hspa1l	NM_013558	15482	heat shock protein 1-like [Source:MGI Symbol
+-4.35762260296046	530	Rtn4r	NM_022982	65079	reticulon 4 receptor [Source:MGI Symbol
+-4.35699991476512	1927	Intu	0	380614	inturned planar cell polarity protein [Source:MGI Symbol
+-4.34906730346151	397	Tenm4	NM_001310762	23966	teneurin transmembrane protein 4 [Source:MGI Symbol
+-4.34028518929429	268	Mmp12	0	17381	matrix metallopeptidase 12 [Source:MGI Symbol
+-4.33733498878691	166	Tnfrsf23	0	79201	tumor necrosis factor receptor superfamily
+-4.32961352838332	2975	Sema7a	NM_011352	20361	sema domain
+-4.32787550419411	2396	Fhod3	NM_001289655	225288	formin homology 2 domain containing 3 [Source:MGI Symbol
+-4.31693729936819	249	Lipn	NM_027340	70166	lipase
+-4.28683725630628	1876	Clic5	NM_172621	224796	chloride intracellular channel 5 [Source:MGI Symbol
+-4.27172250375617	2448	Zbtb32	NM_021397	58206	zinc finger and BTB domain containing 32 [Source:MGI Symbol
+-4.27160487612877	730	Antxr1	NM_054041	69538	anthrax toxin receptor 1 [Source:MGI Symbol
+-4.24919570258469	1668	Itgb8	NM_177290	320910	integrin beta 8 [Source:MGI Symbol
+-4.24084825626122	2713	Tnfsf4	NM_009452	22164	tumor necrosis factor (ligand) superfamily
+-4.23254813547797	2265	Rgs9	NM_011268	19739	regulator of G-protein signaling 9 [Source:MGI Symbol
+-4.226573732013	3717	Rasgrp1	NM_011246	19419	RAS guanyl releasing protein 1 [Source:MGI Symbol
+-4.22493210873844	433	Ifit1bl2	0	112419	interferon induced protein with tetratricopeptide repeats 1B like 2 [Source:MGI Symbol
+-4.21844347772106	308	Met	NM_008591	17295	met proto-oncogene [Source:MGI Symbol
+-4.21043146994356	1310	9330179D12Rik	0	NA	RIKEN cDNA 9330179D12 gene [Source:MGI Symbol
+-4.18257706413632	2989	Fzd1	NM_021457	14362	frizzled class receptor 1 [Source:MGI Symbol
+-4.17155696758991	267	Src	0	20779	Rous sarcoma oncogene [Source:MGI Symbol
+-4.1545717360817	460	Gm16556	0	NA	predicted gene 16556 [Source:MGI Symbol
+-4.14294249654677	1150	Ubd	NM_023137	24108	ubiquitin D [Source:MGI Symbol
+-4.11568010893923	1192	Pacrg	0	69310	PARK2 co-regulated [Source:MGI Symbol
+-4.0942249036588	678	Tnfrsf26	0	244237	tumor necrosis factor receptor superfamily
+-4.09328769436646	152	Clec4d	0	17474	C-type lectin domain family 4
+-4.09075244695597	1484	Gm10516	0	NA	predicted gene 10516 [Source:MGI Symbol
+-4.07106678564835	325	Hspa1a	NM_010479	193740	heat shock protein 1A [Source:MGI Symbol
+-4.05347798924458	685	Plaur	NM_011113	18793	plasminogen activator
+-4.04197715242588	246	Prss46	NM_183103	74306	protease
+-4.03839596611672	2569	Mxd1	NM_010751	17119	MAX dimerization protein 1 [Source:MGI Symbol
+-4.01339357869727	3562	Pcsk1	NM_013628	18548	proprotein convertase subtilisin/kexin type 1 [Source:MGI Symbol
+-4.00242698660596	409	Rhov	NM_145530	228543	ras homolog family member V [Source:MGI Symbol
+-3.99525411592808	174	Gm14005	0	NA	predicted gene 14005 [Source:MGI Symbol
+-3.98943335714355	765	Hspa1b	NM_010478	15511	heat shock protein 1B [Source:MGI Symbol
+-3.98711500784057	2526	Ifit1bl1	NM_001110517	667373	interferon induced protein with tetratricpeptide repeats 1B like 1 [Source:MGI Symbol
+-3.98368370616178	2886	Gm16181	0	NA	predicted gene 16181 [Source:MGI Symbol
+-3.9781569348153	1474	Majin	0	622554	membrane anchored junction protein [Source:MGI Symbol
+-3.97670905038399	422	Fabp7	NM_021272	12140	fatty acid binding protein 7
+-3.97639672364462	1297	Ifi205	NM_172648	226695	interferon activated gene 205 [Source:MGI Symbol
+-3.95832750220394	1460	Olfr56	NM_010999	18356	olfactory receptor 56 [Source:MGI Symbol
+-3.95459575260144	2494	Dhfr	NM_010049	13361	dihydrofolate reductase [Source:MGI Symbol
+-3.9332566220103	986	4930599N23Rik	0	NA	RIKEN cDNA 4930599N23 gene [Source:MGI Symbol
+-3.92658717340033	774	Gm15990	0	NA	predicted gene 15990 [Source:MGI Symbol
+-3.91385548760491	644	Ndrg4	0	234593	N-myc downstream regulated gene 4 [Source:MGI Symbol
+-3.91357393463796	661	Gm11613	0	NA	predicted gene 11613 [Source:MGI Symbol
+-3.91166229791809	699	Ddx60	0	234311	DEAD (Asp-Glu-Ala-Asp) box polypeptide 60 [Source:MGI Symbol
+-3.9014603044377	617	Ms4a14	0	383435	membrane-spanning 4-domains
+-3.86483044008683	901	Ccl5	NM_013653	20304	chemokine (C-C motif) ligand 5 [Source:MGI Symbol
+-3.85955241339861	32	Hmox1	NM_010442	15368	heme oxygenase 1 [Source:MGI Symbol
+-3.85678105294609	521	Tnnc1	NM_009393	21924	troponin C
+-3.85538564699798	2806	Gpr31b	NM_001013832	436440	G protein-coupled receptor 31
+-3.83953583915542	499	Vcan	NM_019389	13003	versican [Source:MGI Symbol
+-3.8372379455497	239	Arg1	NM_007482	11846	arginase
+-3.82932921291308	197	Sphk1	0	20698	sphingosine kinase 1 [Source:MGI Symbol
+-3.82474425787284	1249	Tjp1	NM_009386	21872	tight junction protein 1 [Source:MGI Symbol
+-3.81115700429563	2955	Kcnab1	0	16497	potassium voltage-gated channel
+-3.80728970103809	660	Gng4	0	14706	guanine nucleotide binding protein (G protein)
+-3.80619848067147	2225	Adora2b	NM_007413	11541	adenosine A2b receptor [Source:MGI Symbol
+-3.79189979617844	1809	Plpp1	NM_008247	19012	phospholipid phosphatase 1 [Source:MGI Symbol
+-3.78718917266756	585	E230013L22Rik	0	NA	RIKEN cDNA E230013L22 gene [Source:MGI Symbol
+-3.7768913004715	1338	Gfod1	NM_001033399	328232	glucose-fructose oxidoreductase domain containing 1 [Source:MGI Symbol
+-3.7537133477064	379	2310069B03Rik	0	NA	RIKEN cDNA 2310069B03 gene [Source:MGI Symbol
+-3.75266606544374	448	Ttc26	NM_153600	264134	tetratricopeptide repeat domain 26 [Source:MGI Symbol
+-3.73439328768935	366	Hyal3	0	109685	hyaluronoglucosaminidase 3 [Source:MGI Symbol
+-3.73418151585624	727	Gm12474	0	NA	predicted gene 12474 [Source:MGI Symbol
+-3.72950124817998	810	Gm9845	0	NA	predicted pseudogene 9845 [Source:MGI Symbol
+-3.72926559207527	151	Ctsk	NM_007802	13038	cathepsin K [Source:MGI Symbol
+-3.72733234478871	4360	Peak1os	0	NA	pseudopodium-enriched atypical kinase 1
+-3.72339807348195	729	Dusp4	NM_176933	319520	dual specificity phosphatase 4 [Source:MGI Symbol
+-3.72327848088169	1567	Gm2011	0	NA	predicted gene 2011 [Source:MGI Symbol
+-3.7137538083937	1109	Ccrl2	NM_017466	54199	chemokine (C-C motif) receptor-like 2 [Source:MGI Symbol
+-3.71367583962638	1273	H2-Q6	0	15019	histocompatibility 2
+-3.71283680888975	596	Bhlhe40	NM_011498	20893	basic helix-loop-helix family
+-3.71154882818238	1268	Dusp1	NM_013642	19252	dual specificity phosphatase 1 [Source:MGI Symbol
+-3.70620413468639	301	Isg15	NM_015783	100038882	ISG15 ubiquitin-like modifier [Source:MGI Symbol
+-3.68327720973996	2842	Zswim5	NM_001029912	74464	zinc finger SWIM-type containing 5 [Source:MGI Symbol
+-3.68116241386369	24	Hyal1	0	15586	hyaluronoglucosaminidase 1 [Source:MGI Symbol
+-3.66873184758689	2938	Rnf24	NM_178607	51902	ring finger protein 24 [Source:MGI Symbol
+-3.63794816886958	418	Usp18	NM_011909	24110	ubiquitin specific peptidase 18 [Source:MGI Symbol
+-3.63257747568185	3318	Cxxc5	NM_133687	67393	CXXC finger 5 [Source:MGI Symbol
+-3.63089846708435	624	Ifit1	NM_008331	15957	interferon-induced protein with tetratricopeptide repeats 1 [Source:MGI Symbol
+-3.62885135301153	3972	Fam3b	0	52793	family with sequence similarity 3
+-3.59651536693212	2180	Gpr55	NM_001033290	227326	G protein-coupled receptor 55 [Source:MGI Symbol
+-3.59158113240515	941	Mmp8	NM_008611	17394	matrix metallopeptidase 8 [Source:MGI Symbol
+-3.5875379123138	1471	Gadd45b	NM_008655	17873	growth arrest and DNA-damage-inducible 45 beta [Source:MGI Symbol
+-3.58558317419688	1943	Gm22	0	NA	predicted gene 22 [Source:MGI Symbol
+-3.58189982354184	305	Gm19026	0	NA	predicted gene
+-3.56850117301017	1091	Glis3	NM_175459	226075	GLIS family zinc finger 3 [Source:MGI Symbol
+-3.56306578236908	1246	AW011738	0	NA	expressed sequence AW011738 [Source:MGI Symbol
+-3.55766546344799	399	Clec4n	NM_001190321	56620	C-type lectin domain family 4
+-3.55720169016467	2361	Tnfrsf8	NM_009401	21941	tumor necrosis factor receptor superfamily
+-3.55637306445141	536	Iqck	0	434232	IQ motif containing K [Source:MGI Symbol
+-3.55633324394607	1810	Cish	NM_009895	12700	cytokine inducible SH2-containing protein [Source:MGI Symbol
+-3.52515440528829	1430	Sorbs1	NM_178362	20411	sorbin and SH3 domain containing 1 [Source:MGI Symbol
+-3.5235637056412	3488	Bmp8b	NM_007559	12164	bone morphogenetic protein 8b [Source:MGI Symbol
+-3.51102098590958	229	Gprc5b	NM_022420	64297	G protein-coupled receptor
+-3.49806656830638	883	Gm13986	0	NA	predicted gene 13986 [Source:MGI Symbol
+-3.49783054382483	363	Nqo1	NM_008706	18104	NAD(P)H dehydrogenase
+-3.49315531797438	203	Gm45236	0	NA	predicted gene 45236 [Source:MGI Symbol
+-3.48435761054378	654	Hmga2	NM_010441	15364	high mobility group AT-hook 2 [Source:MGI Symbol
+-3.48048411814003	3342	Slc18a1	NM_153054	110877	solute carrier family 18 (vesicular monoamine)
+-3.47465278219365	997	Ms4a4c	0	64380	membrane-spanning 4-domains
+-3.4703270971721	123	Prdx1	NM_011034	18477	peroxiredoxin 1 [Source:MGI Symbol
+-3.46855465565851	1645	Itgb3	NM_016780	16416	integrin beta 3 [Source:MGI Symbol
+-3.45085992255482	1991	Gm21860	0	NA	predicted gene
+-3.45085992255482	1992	Gm21748	0	NA	predicted gene
+-3.44955142070761	1492	Ptgs2os2	0	NA	prostaglandin-endoperoxide synthase 2
+-3.43376279025143	1451	Nfkbia	NM_010907	18035	nuclear factor of kappa light polypeptide gene enhancer in B cells inhibitor
+-3.42968731358647	1657	H2-Q5	0	NA	histocompatibility 2
+-3.42670934847188	1078	A330074K22Rik	0	NA	RIKEN cDNA A330074K22 gene [Source:MGI Symbol
+-3.42649255943801	2936	1810019N24Rik	0	NA	RIKEN cDNA 1810019N24 gene [Source:MGI Symbol
+-3.42572371277099	62	Tma16	NM_025465	66282	translation machinery associated 16 [Source:MGI Symbol
+-3.41507557874736	163	Nckap1	NM_016965	50884	NCK-associated protein 1 [Source:MGI Symbol
+-3.40973471872546	667	Il15ra	NM_001271497	16169	interleukin 15 receptor
+-3.40720464528856	1834	Tnfrsf1b	NM_011610	21938	tumor necrosis factor receptor superfamily
+-3.38314736153814	2905	Upp1	NM_009477	22271	uridine phosphorylase 1 [Source:MGI Symbol
+-3.3817637373426	508	0	0	NA	0
+-3.37997583998346	494	Dusp5	NM_001085390	240672	dual specificity phosphatase 5 [Source:MGI Symbol
+-3.3798142530058	932	Slpi	NM_011414	20568	secretory leukocyte peptidase inhibitor [Source:MGI Symbol
+-3.37741595252501	1836	Ccdc92	NM_144819	215707	coiled-coil domain containing 92 [Source:MGI Symbol
+-3.3731422542349	2722	Dpy19l3	NM_178704	233115	dpy-19-like 3 (C. elegans) [Source:MGI Symbol
+-3.37096205829446	63	Fth1	NM_010239	14319	ferritin heavy polypeptide 1 [Source:MGI Symbol
+-3.36997889016618	144	Phospho1	0	237928	phosphatase
+-3.36740581921686	370	Ccdc122	NM_175369	108811	coiled-coil domain containing 122 [Source:MGI Symbol
+-3.35378629001835	803	Tmtc2	0	278279	transmembrane and tetratricopeptide repeat containing 2 [Source:MGI Symbol
+-3.34466602778887	4580	Ido1	NM_001293690	15930	indoleamine 2
+-3.34245452590634	625	Ccr1	NM_009912	12768	chemokine (C-C motif) receptor 1 [Source:MGI Symbol
+-3.3352696898792	1180	Gm45138	0	NA	predicted gene 45138 [Source:MGI Symbol
+-3.32750923582294	1479	D330045A20Rik	0	102871	RIKEN cDNA D330045A20 gene [Source:MGI Symbol
+-3.32280677211309	1895	Il1rl2	0	107527	interleukin 1 receptor-like 2 [Source:MGI Symbol
+-3.32227334567567	236	Ifrd1	NM_013562	15982	interferon-related developmental regulator 1 [Source:MGI Symbol
+-3.31678160993461	2578	Magi3	NM_133853	99470	membrane associated guanylate kinase
+-3.30371674896963	3952	Mmp28	NM_172797	118453	matrix metallopeptidase 28 (epilysin) [Source:MGI Symbol
+-3.30064556150097	670	Gm4955	0	102639543	predicted gene 4955 [Source:MGI Symbol
+-3.29956906660645	35	Sh2b2	0	23921	SH2B adaptor protein 2 [Source:MGI Symbol
+-3.29789529887651	107	Gm6977	0	NA	predicted gene 6977 [Source:MGI Symbol
+-3.29740942459728	3411	Dcbld2	NM_028523	73379	discoidin
+-3.28590341561774	3605	Cxcl10	0	15945	chemokine (C-X-C motif) ligand 10 [Source:MGI Symbol
+-3.27925499957643	1999	Gm7609	0	NA	predicted pseudogene 7609 [Source:MGI Symbol
+-3.26889280365026	1952	Il7	NM_008371	16196	interleukin 7 [Source:MGI Symbol
+-3.26660279186709	484	Sod2	NM_013671	20656	superoxide dismutase 2
+-3.25273017712442	1472	Ly6i	NM_020498	57248	lymphocyte antigen 6 complex
+-3.25113972436268	702	Ankrd66	NM_001254953	100043332	ankyrin repeat domain 66 [Source:MGI Symbol
+-3.25099221600946	1866	Nr1h3	0	22259	nuclear receptor subfamily 1
+-3.24635589712388	1030	Aqp9	NM_022026	64008	aquaporin 9 [Source:MGI Symbol
+-3.24313804718748	45	Gde1	NM_019580	56209	glycerophosphodiester phosphodiesterase 1 [Source:MGI Symbol
+-3.24288562337018	2469	Fas	NM_007987	14102	Fas (TNF receptor superfamily member 6) [Source:MGI Symbol
+-3.24264964137932	1115	Nyap2	0	241134	neuronal tyrosine-phophorylated phosphoinositide 3-kinase adaptor 2 [Source:MGI Symbol
+-3.23869738421781	1652	Itga5	NM_010577	16402	integrin alpha 5 (fibronectin receptor alpha) [Source:MGI Symbol
+-3.23393575345728	1684	Mreg	NM_001005423	381269	melanoregulin [Source:MGI Symbol
+-3.23031133632954	1124	Stx11	NM_001163590	74732	syntaxin 11 [Source:MGI Symbol
+-3.22649679525753	2950	Kalrn	NM_001164268	545156	kalirin
+-3.22188313933722	965	Cd274	NM_021893	60533	CD274 antigen [Source:MGI Symbol
+-3.21065384131013	2704	Rhoh	0	74734	ras homolog family member H [Source:MGI Symbol
+-3.20942857028536	1742	Nfkbie	NM_008690	18037	nuclear factor of kappa light polypeptide gene enhancer in B cells inhibitor
+-3.2020412361625	3414	Prm1	NM_013637	19118	protamine 1 [Source:MGI Symbol
+-3.20073967932391	1375	Cacna1b	NM_007579	12287	calcium channel
+-3.19431217633858	728	Cebpb	NM_009883	12608	CCAAT/enhancer binding protein (C/EBP)
+-3.18596615728801	330	Zfp462	0	242466	zinc finger protein 462 [Source:MGI Symbol
+-3.17350182305147	322	Tspan13	NM_025359	66109	tetraspanin 13 [Source:MGI Symbol
+-3.16964870465518	2043	Csprs	NM_033616	114564	component of Sp100-rs [Source:MGI Symbol
+-3.16962902957545	3615	Phlda1	NM_009344	21664	pleckstrin homology like domain
+-3.16262114278547	2073	G530011O06Rik	0	NA	RIKEN cDNA G530011O06 gene [Source:MGI Symbol
+-3.15746693817072	824	Zfp503	NM_145459	218820	zinc finger protein 503 [Source:MGI Symbol
+-3.15583740154693	254	Osbp2	NM_001302630	74309	oxysterol binding protein 2 [Source:MGI Symbol
+-3.1539373989257	1655	Azin2	NM_001301841	242669	antizyme inhibitor 2 [Source:MGI Symbol
+-3.14752885992347	2497	Abtb2	NM_178890	99382	ankyrin repeat and BTB (POZ) domain containing 2 [Source:MGI Symbol
+-3.13349482177095	82	Rnf128	NM_001254761	66889	ring finger protein 128 [Source:MGI Symbol
+-3.12971277397619	2895	Trim72	0	434246	tripartite motif-containing 72 [Source:MGI Symbol
+-3.12618154561082	984	0	0	NA	0
+-3.11573433054343	542	Emp1	0	13730	epithelial membrane protein 1 [Source:MGI Symbol
+-3.11381881094772	153	Lhfpl2	NM_172589	218454	lipoma HMGIC fusion partner-like 2 [Source:MGI Symbol
+-3.10298325246522	446	Mmp14	NM_008608	17387	matrix metallopeptidase 14 (membrane-inserted) [Source:MGI Symbol
+-3.10281503244879	1404	Nupr1	NM_019738	56312	nuclear protein transcription regulator 1 [Source:MGI Symbol
+-3.10220731560535	338	Spsb1	NM_029035	74646	splA/ryanodine receptor domain and SOCS box containing 1 [Source:MGI Symbol
+-3.09087579743227	313	Mmp13	NM_008607	17386	matrix metallopeptidase 13 [Source:MGI Symbol
+-3.08553427482745	875	Lilrb4a	0	14728	leukocyte immunoglobulin-like receptor
+-3.08504721369333	945	Ntn1	0	18208	netrin 1 [Source:MGI Symbol
+-3.08447424325919	1978	Ccne1	NM_007633	12447	cyclin E1 [Source:MGI Symbol
+-3.08295262488898	309	Gm7204	0	NA	predicted pseudogene 7204 [Source:MGI Symbol
+-3.07816114407762	1498	C030037D09Rik	0	NA	RIKEN cDNA C030037D09 gene [Source:MGI Symbol
+-3.07740396065312	456	Pvr	NM_027514	52118	poliovirus receptor [Source:MGI Symbol
+-3.07362803976912	3269	Map1b	NM_008634	17755	microtubule-associated protein 1B [Source:MGI Symbol
+-3.06921489274205	1520	Osgin2	NM_145950	209212	oxidative stress induced growth inhibitor family member 2 [Source:MGI Symbol
+-3.06743892245119	323	Srgn	0	19073	serglycin [Source:MGI Symbol
+-3.06651017973461	238	Car13	NM_024495	71934	carbonic anhydrase 13 [Source:MGI Symbol
+-3.06267636077262	543	Fam20c	NM_030565	80752	family with sequence similarity 20
+-3.06133220079343	3280	Gm43814	0	NA	predicted gene 43814 [Source:MGI Symbol
+-3.05892431121806	1561	Zeb1	NM_011546	21417	zinc finger E-box binding homeobox 1 [Source:MGI Symbol
+-3.05686754565799	2389	Csrnp1	NM_153287	215418	cysteine-serine-rich nuclear protein 1 [Source:MGI Symbol
+-3.05517955129783	1288	Mill2	NM_153761	243864	MHC I like leukocyte 2 [Source:MGI Symbol
+-3.0394758945166	302	B430306N03Rik	NM_177083	320148	RIKEN cDNA B430306N03 gene [Source:MGI Symbol
+-3.03799504373715	2019	Wdr78	0	242584	WD repeat domain 78 [Source:MGI Symbol
+-3.03755104948274	2170	Larp1b	NM_001040399	214048	La ribonucleoprotein domain family
+-3.02205192112501	3130	Hdc	NM_008230	15186	histidine decarboxylase [Source:MGI Symbol
+-3.01538167418521	506	Plcxd2	NM_001134480	433022	phosphatidylinositol-specific phospholipase C
+-3.00170451143525	3249	Gm26616	0	NA	predicted gene
+-3.00102015663711	2333	2310031A07Rik	0	NA	RIKEN cDNA 2310031A07 gene [Source:MGI Symbol
+-2.9985720109745	4654	Gm44292	0	NA	predicted gene
+-2.9913479562336	1650	Tlcd2	0	380712	TLC domain containing 2 [Source:MGI Symbol
+-2.98422245235587	1266	Gm21742	0	NA	predicted gene
+-2.98313607031463	201	Rbpms	NM_001042674	19663	RNA binding protein gene with multiple splicing [Source:MGI Symbol
+-2.97536024211528	1292	Hrh2	NM_001010973	15466	histamine receptor H2 [Source:MGI Symbol
+-2.97474124096245	2594	Nrg4	0	83961	neuregulin 4 [Source:MGI Symbol
+-2.97294600242792	3968	Myo16	0	244281	myosin XVI [Source:MGI Symbol
+-2.95702011730049	1074	Naip3	0	NA	NLR family
+-2.95090621192286	2104	Hrh1	NM_001317124	15465	histamine receptor H1 [Source:MGI Symbol
+-2.94050715868057	1073	Napb	NM_019632	17957	N-ethylmaleimide sensitive fusion protein attachment protein beta [Source:MGI Symbol
+-2.93506296080087	3314	Mefv	NM_019453	54483	Mediterranean fever [Source:MGI Symbol
+-2.92276043694539	958	Cflar	0	12633	CASP8 and FADD-like apoptosis regulator [Source:MGI Symbol
+-2.92107512120623	2140	Ell2	NM_138953	192657	elongation factor RNA polymerase II 2 [Source:MGI Symbol
+-2.91737533246642	691	Rgl1	0	19731	ral guanine nucleotide dissociation stimulator
+-2.91652284595468	767	Tnfaip8l3	NM_001033535	244882	tumor necrosis factor
+-2.91318481736839	4030	Crim1	NM_015800	50766	cysteine rich transmembrane BMP regulator 1 (chordin like) [Source:MGI Symbol
+-2.90489291523672	1083	Bambi-ps1	0	NA	BMP and activin membrane-bound inhibitor
+-2.88116679469314	1459	Uchl1	NM_011670	22223	ubiquitin carboxy-terminal hydrolase L1 [Source:MGI Symbol
+-2.87666204119777	3147	Slc6a12	0	14411	solute carrier family 6 (neurotransmitter transporter
+-2.87269896712886	3536	Gm5150	0	381484	predicted gene 5150 [Source:MGI Symbol
+-2.86370338211159	1579	Cd69	NM_001033122	12515	CD69 antigen [Source:MGI Symbol
+-2.85324167627248	3529	Focad	0	230393	focadhesin [Source:MGI Symbol
+-2.84720769281634	4336	Pilra	NM_153510	231805	paired immunoglobin-like type 2 receptor alpha [Source:MGI Symbol
+-2.84687424038624	4253	Adgb	0	215772	androglobin [Source:MGI Symbol
+-2.83569720846267	1434	H2-Q7	NM_010394	15018	histocompatibility 2
+-2.83264701310459	1159	Aox1	NM_009676	11761	aldehyde oxidase 1 [Source:MGI Symbol
+-2.82478029899701	388	Adamtsl5	0	66548	ADAMTS-like 5 [Source:MGI Symbol
+-2.82308654152957	1057	Treml4	NM_172623	224840	triggering receptor expressed on myeloid cells-like 4 [Source:MGI Symbol
+-2.81810527911067	1353	Map6	0	17760	microtubule-associated protein 6 [Source:MGI Symbol
+-2.81788736177065	487	Ms4a6d	NM_026835	68774	membrane-spanning 4-domains
+-2.81412152951421	705	Atp10a	0	11982	ATPase
+-2.81400686504672	905	Irf7	NM_001252601	54123	interferon regulatory factor 7 [Source:MGI Symbol
+-2.81083490200592	760	Mfsd4b3	NM_001173500	100041085	major facilitator superfamily domain containing 4B3 [Source:MGI Symbol
+-2.81020295708641	778	Mdm2	NM_010786	17246	transformed mouse 3T3 cell double minute 2 [Source:MGI Symbol
+-2.79447708958137	857	Mfsd8	NM_028140	72175	major facilitator superfamily domain containing 8 [Source:MGI Symbol
+-2.79439239729788	1363	Pkp2	0	67451	plakophilin 2 [Source:MGI Symbol
+-2.79262884711177	829	Lilr4b	NM_008147	14727	leukocyte immunoglobulin-like receptor
+-2.78095620866269	4045	Gm29367	0	NA	predicted gene 29367 [Source:MGI Symbol
+-2.78073397875737	708	Kdr	NM_010612	16542	kinase insert domain protein receptor [Source:MGI Symbol
+-2.77993765817805	618	Ifit2	NM_008332	15958	interferon-induced protein with tetratricopeptide repeats 2 [Source:MGI Symbol
+-2.77837232171426	531	Gm15726	0	NA	predicted gene 15726 [Source:MGI Symbol
+-2.77338199507221	2631	Ripk2	NM_138952	192656	receptor (TNFRSF)-interacting serine-threonine kinase 2 [Source:MGI Symbol
+-2.77286317465277	1522	Tgm2	NM_009373	21817	transglutaminase 2
+-2.76404366580725	2110	Plekha4	0	69217	pleckstrin homology domain containing
+-2.76277713750882	2476	Slc43a3	NM_021398	58207	solute carrier family 43
+-2.75430519716235	1296	Il13ra1	NM_133990	16164	interleukin 13 receptor
+-2.75193167570685	1256	Ptgir	NM_008967	19222	prostaglandin I receptor (IP) [Source:MGI Symbol
+-2.74668307658315	1536	Thbs1	NM_001313914	21825	thrombospondin 1 [Source:MGI Symbol
+-2.74607122025509	4041	Colgalt2	0	269132	collagen beta(1-O)galactosyltransferase 2 [Source:MGI Symbol
+-2.74461982199289	442	Btbd19	0	NA	BTB (POZ) domain containing 19 [Source:MGI Symbol
+-2.73999871599727	3790	Pakap	0	11641	paralemmin A kinase anchor protein [Source:MGI Symbol
+-2.73690317028279	150	Esd	NM_016903	13885	esterase D/formylglutathione hydrolase [Source:MGI Symbol
+-2.7309251878151	438	BC022687	NM_145450	217887	cDNA sequence BC022687 [Source:MGI Symbol
+-2.73088068147602	221	Me1	NM_008615	17436	malic enzyme 1
+-2.73065394817036	431	Dennd2a	NM_172477	209773	DENN/MADD domain containing 2A [Source:MGI Symbol
+-2.72575615709319	613	Mcf2l	0	17207	mcf.2 transforming sequence-like [Source:MGI Symbol
+-2.72467608301697	2179	Casp4	0	12363	caspase 4
+-2.71650087123057	1733	Crem	NM_001110858	12916	cAMP responsive element modulator [Source:MGI Symbol
+-2.71364026052184	4294	Gm20186	0	NA	predicted gene
+-2.7034277249577	1842	E030030I06Rik	0	319887	RIKEN cDNA E030030I06 gene [Source:MGI Symbol
+-2.70321854991315	1373	Gab1	NM_001301298	14388	growth factor receptor bound protein 2-associated protein 1 [Source:MGI Symbol
+-2.68990511945767	763	Tuba1a	NM_011653	22142	tubulin
+-2.68237756142419	371	Gpc1	NM_016696	14733	glypican 1 [Source:MGI Symbol
+-2.67457214325602	1611	1600014C10Rik	0	72244	RIKEN cDNA 1600014C10 gene [Source:MGI Symbol
+-2.66804840464723	1052	Serpine2	NM_009255	20720	serine (or cysteine) peptidase inhibitor
+-2.66719738352015	3978	0	0	NA	0
+-2.66157764033214	1012	Jdp2	NM_001205052	81703	Jun dimerization protein 2 [Source:MGI Symbol
+-2.658990952302	4219	Slc2a6	NM_001177627	227659	solute carrier family 2 (facilitated glucose transporter)
+-2.64783823926545	2171	H2-K2	0	NA	histocompatibility 2
+-2.6411744372126	548	Fignl2	NM_001214911	668225	fidgetin-like 2 [Source:MGI Symbol
+-2.64074393380268	2314	Gm15133	0	NA	predicted gene 15133 [Source:MGI Symbol
+-2.64031075830794	2548	Abhd1	0	NA	abhydrolase domain containing 1 [Source:MGI Symbol
+-2.63694848381559	6278	Tmem178	NM_026516	68027	transmembrane protein 178 [Source:MGI Symbol
+-2.63529427755071	2013	Il1r1	NM_008362	16177	interleukin 1 receptor
+-2.6324129166498	3520	Btg3	NM_009770	12228	B cell translocation gene 3 [Source:MGI Symbol
+-2.63232872326896	4130	Malt1	NM_172833	240354	MALT1 paracaspase [Source:MGI Symbol
+-2.62949896031512	142	Gsr	0	14782	glutathione reductase [Source:MGI Symbol
+-2.62801171702424	1454	Msr1	NM_001113326	20288	macrophage scavenger receptor 1 [Source:MGI Symbol
+-2.62650024058841	1070	Slc31a2	0	20530	solute carrier family 31
+-2.62449223458128	212	Serpinb9	0	20723	serine (or cysteine) peptidase inhibitor
+-2.62184473216238	634	Cd164	NM_016898	53599	CD164 antigen [Source:MGI Symbol
+-2.6202245666468	1547	Dtx2	NM_001256096	74198	deltex 2
+-2.61961529237203	2021	Dab2ip	0	69601	disabled 2 interacting protein [Source:MGI Symbol
+-2.61738145761115	1352	Gpr68	NM_175493	238377	G protein-coupled receptor 68 [Source:MGI Symbol
+-2.61711406415113	4831	Mtmr7	0	54384	myotubularin related protein 7 [Source:MGI Symbol
+-2.61487738704922	1867	Rffl	0	67338	ring finger and FYVE like domain containing protein [Source:MGI Symbol
+-2.60111204694533	1981	Zc3h12c	NM_001162921	244871	zinc finger CCCH type containing 12C [Source:MGI Symbol
+-2.60020847064133	191	Grina	NM_023168	66168	glutamate receptor
+-2.59468328027465	1106	Tcta	NM_133986	102791	T cell leukemia translocation altered gene [Source:MGI Symbol
+-2.59213646372424	2613	Dusp16	NM_001048054	70686	dual specificity phosphatase 16 [Source:MGI Symbol
+-2.59068854647927	812	Trib3	NM_175093	228775	tribbles pseudokinase 3 [Source:MGI Symbol
+-2.58685152699989	3017	Prx	NM_198048	19153	periaxin [Source:MGI Symbol
+-2.57892230845271	576	H60b	NM_001177775	667281	histocompatibility 60b [Source:MGI Symbol
+-2.57704903935493	200	Osm	NM_001013365	18413	oncostatin M [Source:MGI Symbol
+-2.57582969940877	4404	Cdc42ep2	NM_026772	104252	CDC42 effector protein (Rho GTPase binding) 2 [Source:MGI Symbol
+-2.56920162473743	891	A930007I19Rik	0	NA	RIKEN cDNA A930007I19 gene [Source:MGI Symbol
+-2.56821204691785	470	0	0	NA	0
+-2.56752821299514	1401	Traf2	NM_009422	22030	TNF receptor-associated factor 2 [Source:MGI Symbol
+-2.56059220093025	1963	Hspa4l	0	18415	heat shock protein 4 like [Source:MGI Symbol
+-2.55288528936667	61	Mcoln2	NM_026656	68279	mucolipin 2 [Source:MGI Symbol
+-2.55067046631926	1101	Ankrd42	0	73845	ankyrin repeat domain 42 [Source:MGI Symbol
+-2.54994887939578	155	Srxn1	0	76650	sulfiredoxin 1 homolog (S. cerevisiae) [Source:MGI Symbol
+-2.54894954051884	1807	Shf	0	435684	Src homology 2 domain containing F [Source:MGI Symbol
+-2.54743826689932	688	Aplp1	NM_007467	11803	amyloid beta (A4) precursor-like protein 1 [Source:MGI Symbol
+-2.54544312317853	674	Bbs4	NM_175325	102774	Bardet-Biedl syndrome 4 (human) [Source:MGI Symbol
+-2.54418400526459	2288	Ms4a4a	NM_001310331	666907	membrane-spanning 4-domains
+-2.53926895776354	714	Plk3	0	12795	polo-like kinase 3 [Source:MGI Symbol
+-2.53746441964278	1406	Rgcc	NM_025427	66214	regulator of cell cycle [Source:MGI Symbol
+-2.53122611327002	2545	0	0	NA	0
+-2.52745923249335	823	Agpat4	0	68262	1-acylglycerol-3-phosphate O-acyltransferase 4 (lysophosphatidic acid acyltransferase
+-2.52283072589278	525	Xaf1	0	327959	XIAP associated factor 1 [Source:MGI Symbol
+-2.51684016770817	565	Rab20	NM_011227	19332	RAB20
+-2.5110207532374	798	Slc15a3	0	65221	solute carrier family 15
+-2.50866859046592	481	Stxbp3	NM_011504	20912	syntaxin binding protein 3 [Source:MGI Symbol
+-2.50711425030532	1827	Mt2	NM_008630	17750	metallothionein 2 [Source:MGI Symbol
+-2.50570110517193	2866	C3	NM_009778	12266	complement component 3 [Source:MGI Symbol
+-2.50387248869389	1659	Slamf6	0	30925	SLAM family member 6 [Source:MGI Symbol
+-2.50279425905872	1513	P4ha2	0	18452	procollagen-proline
+-2.50049094404625	3086	Igf2bp2	NM_183029	319765	insulin-like growth factor 2 mRNA binding protein 2 [Source:MGI Symbol
+-2.5003124723239	1416	Hist1h2bc	NM_023422	68024	histone cluster 1
+-2.5000260165164	2010	Slfn1	NM_011407	20555	schlafen 1 [Source:MGI Symbol
+-2.49975725422079	2087	Hmcn2	0	NA	hemicentin 2 [Source:MGI Symbol
+-2.49793022385229	1971	Gm1070	0	NA	predicted gene 1070 [Source:MGI Symbol
+-2.49644851996287	1819	Phf11a	NM_172603	219131	PHD finger protein 11A [Source:MGI Symbol
+-2.49205493879321	472	AW112010	0	NA	expressed sequence AW112010 [Source:MGI Symbol
+-2.48504251363482	861	Plekhn1	NM_001008233	231002	pleckstrin homology domain containing
+-2.48446124152851	733	Gdf15	NM_011819	23886	growth differentiation factor 15 [Source:MGI Symbol
+-2.48112859101436	6433	Dnah12	0	NA	dynein
+-2.47823681984701	1976	Cfb	0	14962	complement factor B [Source:MGI Symbol
+-2.47342410012712	2934	2010109I03Rik	0	67038	RIKEN cDNA 2010109I03 gene [Source:MGI Symbol
+-2.47248062914083	270	Samd8	NM_026283	67630	sterile alpha motif domain containing 8 [Source:MGI Symbol
+-2.46922057601955	286	Galnt6	NM_172451	207839	UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase 6 [Source:MGI Symbol
+-2.46844728228628	703	Bend6	NM_001310484	320705	BEN domain containing 6 [Source:MGI Symbol
+-2.46253291731618	434	Flrt2	NM_201518	399558	fibronectin leucine rich transmembrane protein 2 [Source:MGI Symbol
+-2.45833029843207	3784	Micalcl	NM_027587	100504195	MICAL C-terminal like [Source:MGI Symbol
+-2.45557647103414	526	Atf4	NM_001287180	11911	activating transcription factor 4 [Source:MGI Symbol
+-2.45478958478709	3675	Gm2666	0	NA	predicted gene 2666 [Source:MGI Symbol
+-2.45166088158444	483	E230032D23Rik	0	NA	RIKEN cDNA E230032D23 gene [Source:MGI Symbol
+-2.4509594492825	2841	Tnf	NM_013693	21926	tumor necrosis factor [Source:MGI Symbol
+-2.44919158543702	1749	Smox	0	228608	spermine oxidase [Source:MGI Symbol
+-2.44599032423575	5054	Gm16340	0	NA	predicted gene 16340 [Source:MGI Symbol
+-2.4352889723952	915	Spa17	NM_011449	20686	sperm autoantigenic protein 17 [Source:MGI Symbol
+-2.43364038930353	789	Airn	0	NA	antisense Igf2r RNA [Source:MGI Symbol
+-2.43234296601515	2984	Pfkfb3	NM_001177758	170768	6-phosphofructo-2-kinase/fructose-2
+-2.43119738403939	769	1700088E04Rik	0	27660	RIKEN cDNA 1700088E04 gene [Source:MGI Symbol
+-2.43013505269957	652	Lrp8	0	16975	low density lipoprotein receptor-related protein 8
+-2.42924661625555	1050	F830045P16Rik	NM_177653	228592	RIKEN cDNA F830045P16 gene [Source:MGI Symbol
+-2.42822463238312	4332	Vcam1	NM_011693	22329	vascular cell adhesion molecule 1 [Source:MGI Symbol
+-2.42814498634191	458	Perm1	NM_172417	74183	PPARGC1 and ESRR induced regulator
+-2.42583348962525	2078	Tnfaip3	NM_009397	21929	tumor necrosis factor
+-2.41672770117272	5016	Pagr1b	0	NA	PAXIP1 associated glutamate rich protein 1B [Source:MGI Symbol
+-2.41340270877271	2327	Klf9	NM_010638	16601	Kruppel-like factor 9 [Source:MGI Symbol
+-2.40637149836251	620	Tmem202	NM_178388	73893	transmembrane protein 202 [Source:MGI Symbol
+-2.40621463520017	119	Prdx6	NM_007453	11758	peroxiredoxin 6 [Source:MGI Symbol
+-2.40536690674612	2937	Il15	NM_001254747	16168	interleukin 15 [Source:MGI Symbol
+-2.40387609518076	1897	Gm16464	0	NA	predicted gene 16464 [Source:MGI Symbol
+-2.40256799503972	1603	4921536K21Rik	NM_026150	67430	RIKEN cDNA 4921536K21 gene [Source:MGI Symbol
+-2.40103957386533	457	Gch1	NM_008102	14528	GTP cyclohydrolase 1 [Source:MGI Symbol
+-2.39724353604969	1441	Serf1	0	20365	small EDRK-rich factor 1 [Source:MGI Symbol
+-2.39529374423677	1649	H2-T10	0	15024	histocompatibility 2
+-2.39379950259139	1324	Pmp22	NM_008885	18858	peripheral myelin protein 22 [Source:MGI Symbol
+-2.3910057663635	2205	Cysltr2	NM_133720	70086	cysteinyl leukotriene receptor 2 [Source:MGI Symbol
+-2.38704022355881	2784	Rgs1	NM_015811	50778	regulator of G-protein signaling 1 [Source:MGI Symbol
+-2.38332203071751	1102	Mtus1	NM_001005864	102103	mitochondrial tumor suppressor 1 [Source:MGI Symbol
+-2.38138304422408	2809	Gm15433	0	NA	predicted pseudogene 15433 [Source:MGI Symbol
+-2.3635802019832	791	Mok	0	26448	MOK protein kinase [Source:MGI Symbol
+-2.36196855583972	4015	Ggct	NM_026637	110175	gamma-glutamyl cyclotransferase [Source:MGI Symbol
+-2.35847731271203	4150	Soat2	NM_146064	223920	sterol O-acyltransferase 2 [Source:MGI Symbol
+-2.35461340477777	1212	Pnp2	NM_001123371	667034	purine-nucleoside phosphorylase 2 [Source:MGI Symbol
+-2.35136375941772	3275	Phf11c	NM_001164289	628705	PHD finger protein 11C [Source:MGI Symbol
+-2.35131637238611	1013	Jag1	NM_013822	16449	jagged 1 [Source:MGI Symbol
+-2.34925505731809	1344	Pyhin1	NM_175026	236312	pyrin and HIN domain family
+-2.34271665885273	1244	Oas1g	NM_011852	23960	2'-5' oligoadenylate synthetase 1G [Source:MGI Symbol
+-2.34119264795552	587	Asf1a	NM_025541	66403	anti-silencing function 1A histone chaperone [Source:MGI Symbol
+-2.34071254177171	4082	Cpd	NM_007754	12874	carboxypeptidase D [Source:MGI Symbol
+-2.33846192507443	419	Adam8	0	11501	a disintegrin and metallopeptidase domain 8 [Source:MGI Symbol
+-2.33678979345407	1602	Pydc4	0	623121	pyrin domain containing 4 [Source:MGI Symbol
+-2.33249559168071	2673	Ets2	NM_011809	23872	E26 avian leukemia oncogene 2
+-2.32875469756984	512	Fam129b	NM_146119	227737	family with sequence similarity 129
+-2.32580049931435	1162	Lck	NM_010693	16818	lymphocyte protein tyrosine kinase [Source:MGI Symbol
+-2.32068056136329	237	Slc7a8	NM_016972	50934	solute carrier family 7 (cationic amino acid transporter
+-2.31792953115789	3329	Gm5424	0	NA	predicted gene 5424 [Source:MGI Symbol
+-2.31720862550187	1354	Pla2g2e	NM_012044	26970	phospholipase A2
+-2.31644488017871	2982	Atrnl1	NM_181415	226255	attractin like 1 [Source:MGI Symbol
+-2.3152901368495	989	Acyp2	NM_029344	75572	acylphosphatase 2
+-2.31483239233099	1503	Tnip1	0	57783	TNFAIP3 interacting protein 1 [Source:MGI Symbol
+-2.31120547987127	592	Serpinb1b	NM_173052	282663	serine (or cysteine) peptidase inhibitor
+-2.31111863721468	2585	Plcd3	0	72469	phospholipase C
+-2.30015186558877	922	Pdlim7	0	67399	PDZ and LIM domain 7 [Source:MGI Symbol
+-2.29685141712509	4086	Gbp4	0	17472	guanylate binding protein 4 [Source:MGI Symbol
+-2.29479061753517	1439	Atf3	NM_007498	11910	activating transcription factor 3 [Source:MGI Symbol
+-2.29256297197087	1426	H2-Q4	NM_001143689	15015	histocompatibility 2
+-2.29117324662471	1658	Ccdc173	NM_001077684	75051	coiled-coil domain containing 173 [Source:MGI Symbol
+-2.29059872609148	897	Csf1	NM_001113529	12977	colony stimulating factor 1 (macrophage) [Source:MGI Symbol
+-2.28404591128944	7412	Cp	NM_007752	12870	ceruloplasmin [Source:MGI Symbol
+-2.2818029303863	1811	Sfmbt2	0	353282	Scm-like with four mbt domains 2 [Source:MGI Symbol
+-2.27974526004252	2241	Slc35e4	0	103710	solute carrier family 35
+-2.27812547833316	417	Lyrm1	NM_001285959	73919	LYR motif containing 1 [Source:MGI Symbol
+-2.27354137458554	1985	Cyb561	NM_007805	13056	cytochrome b-561 [Source:MGI Symbol
+-2.27317471240202	1394	Ccdc134	NM_001326588	76457	coiled-coil domain containing 134 [Source:MGI Symbol
+-2.26903679127417	360	2210408F21Rik	0	NA	RIKEN cDNA 2210408F21 gene [Source:MGI Symbol
+-2.26587018856351	2609	Eef1a2	NM_007906	13628	eukaryotic translation elongation factor 1 alpha 2 [Source:MGI Symbol
+-2.26410373213794	1776	Zmiz1os1	0	NA	Zmiz1 opposite strand 1 [Source:MGI Symbol
+-2.26372589782635	1234	Zfp821	NM_001286391	75871	zinc finger protein 821 [Source:MGI Symbol
+-2.25784181580087	2129	Gm14270	0	NA	predicted gene 14270 [Source:MGI Symbol
+-2.25727943026477	2047	Agpat9	0	231510	1-acylglycerol-3-phosphate O-acyltransferase 9 [Source:MGI Symbol
+-2.25718691160024	5472	Gpr132	NM_019925	56696	G protein-coupled receptor 132 [Source:MGI Symbol
+-2.25406191327263	779	Zdhhc24	0	70605	zinc finger
+-2.25328023509296	1529	Mical2	NM_177282	320878	microtubule associated monooxygenase
+-2.25024076075076	553	Sqstm1	NM_001290769	18412	sequestosome 1 [Source:MGI Symbol
+-2.24949223734444	1241	Ddit3	NM_007837	13198	DNA-damage inducible transcript 3 [Source:MGI Symbol
+-2.24613602565522	5399	Efna2	NM_007909	13637	ephrin A2 [Source:MGI Symbol
+-2.24285414486221	776	Phf11d	NM_199015	219132	PHD finger protein 11D [Source:MGI Symbol
+-2.24168614621331	3380	Gm13270	0	NA	predicted gene 13270 [Source:MGI Symbol
+-2.23525234665077	1915	Pcgf5	NM_029508	76073	polycomb group ring finger 5 [Source:MGI Symbol
+-2.2345786319906	1962	Bzrap1	NM_172449	207777	benzodiazepine receptor associated protein 1 [Source:MGI Symbol
+-2.23152220447796	2254	Serpini1	0	20713	serine (or cysteine) peptidase inhibitor
+-2.22709130404994	1284	Gpr84	NM_030720	80910	G protein-coupled receptor 84 [Source:MGI Symbol
+-2.22499401521888	3641	Gm26698	0	NA	predicted gene
+-2.22347824599307	3858	Maff	NM_010755	17133	v-maf musculoaponeurotic fibrosarcoma oncogene family
+-2.22331520591799	244	Smim3	NM_134133	106878	small integral membrane protein 3 [Source:MGI Symbol
+-2.21986218893396	3083	Ifit3b	NM_001005858	667370	interferon-induced protein with tetratricopeptide repeats 3B [Source:MGI Symbol
+-2.21051665815892	1893	H2-T-ps	0	NA	histocompatibility 2
+-2.20595462305857	2029	Smpdl3b	NM_133888	100340	sphingomyelin phosphodiesterase
+-2.20074012249824	1032	Trim6	0	94088	tripartite motif-containing 6 [Source:MGI Symbol
+-2.19930994998235	453	Chst11	NM_021439	58250	carbohydrate sulfotransferase 11 [Source:MGI Symbol
+-2.19752905659813	1111	Tiparp	NM_178892	99929	TCDD-inducible poly(ADP-ribose) polymerase [Source:MGI Symbol
+-2.19227961044445	1954	Hk1os	0	NA	hexokinase 1
+-2.19069941759414	2948	Gm7582	0	NA	predicted gene 7582 [Source:MGI Symbol
+-2.18473560688613	395	Rhob	NM_007483	11852	ras homolog family member B [Source:MGI Symbol
+-2.18389912938852	3448	Ier3	NM_133662	15937	immediate early response 3 [Source:MGI Symbol
+-2.18240891407828	2289	Tmod1	NM_021883	21916	tropomodulin 1 [Source:MGI Symbol
+-2.17738171933434	1772	Rab37	NM_001163753	58222	RAB37
+-2.17565537784607	839	F630040K05Rik	0	NA	RIKEN cDNA F630040K05 gene [Source:MGI Symbol
+-2.17310736414575	793	Rhoc	0	11853	ras homolog family member C [Source:MGI Symbol
+-2.17167407887576	277	Usb1	NM_133954	101985	U6 snRNA biogenesis 1 [Source:MGI Symbol
+-2.16702513829112	694	Bcl2a1d	NM_007536	12047	B cell leukemia/lymphoma 2 related protein A1d [Source:MGI Symbol
+-2.16414875286452	4579	Fndc7	0	320181	fibronectin type III domain containing 7 [Source:MGI Symbol
+-2.16268179933197	3973	St3gal5	NM_001035228	20454	ST3 beta-galactoside alpha-2
+-2.1610274117114	833	Ifit3	NM_010501	15959	interferon-induced protein with tetratricopeptide repeats 3 [Source:MGI Symbol
+-2.16085670053503	1465	Ggta1	NM_001308300	14594	glycoprotein galactosyltransferase alpha 1
+-2.1608075029294	6197	Lgi4	NM_144556	243914	leucine-rich repeat LGI family
+-2.16073478202249	1142	Ptbp2	NM_001310711	56195	polypyrimidine tract binding protein 2 [Source:MGI Symbol
+-2.15835535755176	2230	Cd33	NM_021293	12489	CD33 antigen [Source:MGI Symbol
+-2.15783808126026	5161	Yy2	NM_001098723	100073351	Yy2 transcription factor [Source:MGI Symbol
+-2.15681010442669	3270	Rab15	NM_134050	104886	RAB15
+-2.1562634390118	677	Alas1	NM_001291835	11655	aminolevulinic acid synthase 1 [Source:MGI Symbol
+-2.14951588223901	375	Hmga1	NM_001166543	15361	high mobility group AT-hook 1 [Source:MGI Symbol
+-2.14774986169179	886	Celsr3	NM_080437	107934	cadherin
+-2.14597952669579	4809	Plod2	NM_011961	26432	procollagen lysine
+-2.14583197148954	3426	Gm15931	0	NA	predicted gene 15931 [Source:MGI Symbol
+-2.14438126227813	1771	Cd86	NM_019388	12524	CD86 antigen [Source:MGI Symbol
+-2.14347258523563	3437	Fam114a1	NM_026667	68303	family with sequence similarity 114
+-2.14057750493187	1592	Stk36	NM_175031	269209	serine/threonine kinase 36 [Source:MGI Symbol
+-2.13979236864147	414	Cd300lf	0	246746	CD300 molecule like family member F [Source:MGI Symbol
+-2.13879192278543	427	Manbal	NM_026968	69161	mannosidase
+-2.13646531132773	570	Slc11a2	NM_008732	18174	solute carrier family 11 (proton-coupled divalent metal ion transporters)
+-2.12624537741429	4497	2810474O19Rik	0	67246	RIKEN cDNA 2810474O19 gene [Source:MGI Symbol
+-2.12568428182262	2501	AI429214	NM_001039220	621080	expressed sequence AI429214 [Source:MGI Symbol
+-2.12544082819749	1223	Tmem140	0	68487	transmembrane protein 140 [Source:MGI Symbol
+-2.121448675062	1236	Tank	0	21353	TRAF family member-associated Nf-kappa B activator [Source:MGI Symbol
+-2.11711174108047	1237	Pkp4	NM_026361	227937	plakophilin 4 [Source:MGI Symbol
+-2.11600783618405	1608	Epn2	0	13855	epsin 2 [Source:MGI Symbol
+-2.11506335317352	1820	Cd244	NM_018729	18106	CD244 natural killer cell receptor 2B4 [Source:MGI Symbol
+-2.11388243485457	2827	Ahnak2	0	NA	AHNAK nucleoprotein 2 [Source:MGI Symbol
+-2.11332597273827	2828	Ifi44	NM_133871	99899	interferon-induced protein 44 [Source:MGI Symbol
+-2.11132181251781	1871	Prokr1	0	58182	prokineticin receptor 1 [Source:MGI Symbol
+-2.10494728444635	495	Pigg	NM_001081234	433931	phosphatidylinositol glycan anchor biosynthesis
+-2.10174956447545	1132	H2-T22	0	15039	histocompatibility 2
+-2.10157784459341	1546	Arrdc4	NM_001042592	66412	arrestin domain containing 4 [Source:MGI Symbol
+-2.10088549608931	2547	9930022D16Rik	0	NA	RIKEN cDNA 9930022D16 gene [Source:MGI Symbol
+-2.09883170882721	3607	Zswim4	NM_172503	212168	zinc finger SWIM-type containing 4 [Source:MGI Symbol
+-2.09872415590765	2630	Irak3	NM_028679	73914	interleukin-1 receptor-associated kinase 3 [Source:MGI Symbol
+-2.09869119925712	3826	Zdhhc2	NM_178395	70546	zinc finger
+-2.09592094311583	3430	A630033H20Rik	NM_175442	213438	RIKEN cDNA A630033H20 gene [Source:MGI Symbol
+-2.09512203789707	2034	Ldlr	NM_001252659	16835	low density lipoprotein receptor [Source:MGI Symbol
+-2.09439152848652	261	Gm13012	0	NA	predicted gene 13012 [Source:MGI Symbol
+-2.09304380428525	1232	4930430E12Rik	0	NA	RIKEN cDNA 4930430E12 gene [Source:MGI Symbol
+-2.09207553972075	1758	Gm28809	0	NA	predicted gene 28809 [Source:MGI Symbol
+-2.0898803184938	3109	Gm5421	0	NA	predicted gene 5421 [Source:MGI Symbol
+-2.08953229105508	384	Cst7	NM_009977	13011	cystatin F (leukocystatin) [Source:MGI Symbol
+-2.08909806794646	3705	Rnd1	0	223881	Rho family GTPase 1 [Source:MGI Symbol
+-2.08632019035146	3993	Gbp2	NM_010260	14469	guanylate binding protein 2 [Source:MGI Symbol
+-2.08594502999895	2660	Med13	NM_001080931	327987	mediator complex subunit 13 [Source:MGI Symbol
+-2.0856304270365	1419	Trim30d	NM_001167828	209387	tripartite motif-containing 30D [Source:MGI Symbol
+-2.08423944310471	3506	Bambi	NM_026505	68010	BMP and activin membrane-bound inhibitor [Source:MGI Symbol
+-2.08377938332593	1783	Iqcg	NM_178378	69707	IQ motif containing G [Source:MGI Symbol
+-2.08017517412029	5041	Gbp11	NM_001039647	634650	guanylate binding protein 11 [Source:MGI Symbol
+-2.0787705410389	3948	Zhx2	NM_199449	387609	zinc fingers and homeoboxes 2 [Source:MGI Symbol
+-2.07872697012362	2668	1110002J07Rik	0	NA	RIKEN cDNA 1110002J07 gene [Source:MGI Symbol
+-2.07252211033854	3501	Gm15448	0	18729	predicted gene 15448 [Source:MGI Symbol
+-2.07127009427378	5171	Gm38048	0	NA	predicted gene
+-2.07078122609277	251	Nat6	0	56441	N-acetyltransferase 6 [Source:MGI Symbol
+-2.06850563208964	522	Mitd1	0	69028	MIT
+-2.06742483269796	3013	Tnfsf9	NM_009404	21950	tumor necrosis factor (ligand) superfamily
+-2.06399029006564	2007	Ceacam19	NM_177036	319930	carcinoembryonic antigen-related cell adhesion molecule 19 [Source:MGI Symbol
+-2.06391222472383	6517	Adm	NM_009627	11535	adrenomedullin [Source:MGI Symbol
+-2.06314643263373	1593	S100a8	NM_013650	20201	S100 calcium binding protein A8 (calgranulin A) [Source:MGI Symbol
+-2.0609602348576	4165	Plk2	NM_152804	20620	polo-like kinase 2 [Source:MGI Symbol
+-2.06057316914158	5368	Ccl12	NM_011331	20293	chemokine (C-C motif) ligand 12 [Source:MGI Symbol
+-2.05919336301697	1362	Herc6	NM_025992	67138	hect domain and RLD 6 [Source:MGI Symbol
+-2.05917814151145	1370	Chpf	NM_001001566	74241	chondroitin polymerizing factor [Source:MGI Symbol
+-2.04740897305313	4669	F11r	NM_172647	16456	F11 receptor [Source:MGI Symbol
+-2.04306334008983	828	Ppp1r15a	0	17872	protein phosphatase 1
+-2.04187015766046	2384	Basp1	NM_027395	70350	brain abundant
+-2.03268859271743	1262	Rptoros	0	NA	regulatory associated protein of MTOR
+-2.03240617716868	1913	Nfil3	NM_017373	18030	nuclear factor
+-2.02813859029535	6792	Ccnd2	NM_009829	12444	cyclin D2 [Source:MGI Symbol
+-2.02497421150964	3657	Cdkn2d	NM_009878	12581	cyclin-dependent kinase inhibitor 2D (p19
+-2.02473411786296	2097	Slc16a3	NM_030696	80879	solute carrier family 16 (monocarboxylic acid transporters)
+-2.02310611254679	1703	Pla2g5	NM_011110	18784	phospholipase A2
+-2.02198225485816	2708	Abhd18	0	269423	abhydrolase domain containing 18 [Source:MGI Symbol
+-2.02174874362805	1794	Efcab7	0	NA	EF-hand calcium binding domain 7 [Source:MGI Symbol
+-2.01811411884375	516	Emp2	NM_007929	13731	epithelial membrane protein 2 [Source:MGI Symbol
+-2.01732647436936	3464	Fam161b	0	217705	family with sequence similarity 161
+-2.01685847864613	189	Tmem120a	NM_172541	215210	transmembrane protein 120A [Source:MGI Symbol
+-2.0164567867728	2356	Large	0	16795	like-glycosyltransferase [Source:MGI Symbol
+-2.01620774606909	629	Klf10	NM_013692	21847	Kruppel-like factor 10 [Source:MGI Symbol
+-2.01399924153473	1264	Prmt2	0	15468	protein arginine N-methyltransferase 2 [Source:MGI Symbol
+-2.00721904765147	220	Sepw1	NM_009156	20364	selenoprotein W
+-2.00625408955787	3766	Klf8	0	245671	Kruppel-like factor 8 [Source:MGI Symbol
+-2.00474405314941	4069	Gm45193	0	NA	predicted gene 45193 [Source:MGI Symbol
+-2.00268281956637	884	H3f3b	0	15081	H3 histone
+-1.99490094789094	3470	Nod2	NM_145857	257632	nucleotide-binding oligomerization domain containing 2 [Source:MGI Symbol
+-1.99460859944249	274	Gbe1	NM_028803	74185	glucan (1
+-1.99095910655396	4272	Ankmy1	0	241158	ankyrin repeat and MYND domain containing 1 [Source:MGI Symbol
+-1.99007720491919	2454	Gcnt2	NM_023887	14538	glucosaminyl (N-acetyl) transferase 2
+-1.99006984949635	4768	Vsig10l	0	75690	V-set and immunoglobulin domain containing 10 like [Source:MGI Symbol
+-1.98963787676763	1532	Gk5	0	235533	glycerol kinase 5 (putative) [Source:MGI Symbol
+-1.98722037440879	1094	Anxa2	NM_007585	12306	annexin A2 [Source:MGI Symbol
+-1.98385053430946	2109	Spata1	0	70951	spermatogenesis associated 1 [Source:MGI Symbol
+-1.98284406844286	3152	Gm20517	0	NA	predicted gene 20517 [Source:MGI Symbol
+-1.97952025870272	2627	Otud7b	0	229603	OTU domain containing 7B [Source:MGI Symbol
+-1.97728020019085	2996	BC029214	NM_153557	227622	cDNA sequence BC029214 [Source:MGI Symbol
+-1.97640705429621	312	Cipc	NM_001289430	217732	CLOCK interacting protein
+-1.97519445433709	2149	Whamm	0	434204	WAS protein homolog associated with actin
+-1.97392810641026	998	Spryd7	NM_025697	66674	SPRY domain containing 7 [Source:MGI Symbol
+-1.97383976400945	2123	Runx3	NM_019732	12399	runt related transcription factor 3 [Source:MGI Symbol
+-1.97319167343224	967	C1rl	NM_181344	232371	complement component 1
+-1.97152150350464	2222	Akap7	0	432442	A kinase (PRKA) anchor protein 7 [Source:MGI Symbol
+-1.97128643949908	777	Ahi1	NM_001177776	52906	Abelson helper integration site 1 [Source:MGI Symbol
+-1.96826828631158	1564	Dagla	NM_198114	269060	diacylglycerol lipase
+-1.96687074743132	1732	Cpeb4	NM_001290678	67579	cytoplasmic polyadenylation element binding protein 4 [Source:MGI Symbol
+-1.96619635958226	9115	Gm14176	0	NA	predicted gene 14176 [Source:MGI Symbol
+-1.96602698870321	4367	Gypc	NM_001048207	71683	glycophorin C [Source:MGI Symbol
+-1.95999250550977	4973	Bcar1	NM_009954	12927	breast cancer anti-estrogen resistance 1 [Source:MGI Symbol
+-1.95973459482868	5039	Col20a1	0	73368	collagen
+-1.95967659409337	447	Hmga1-rs1	NM_001166476	111241	high mobility group AT-hook I
+-1.95170519179567	259	Ninj1	NM_013610	18081	ninjurin 1 [Source:MGI Symbol
+-1.95119718972196	1343	Mfap3l	NM_001293769	71306	microfibrillar-associated protein 3-like [Source:MGI Symbol
+-1.95090720965209	2309	Zfpm1	NM_009569	22761	zinc finger protein
+-1.94813198080832	1675	Cttn	NM_001252572	13043	cortactin [Source:MGI Symbol
+-1.94521882126344	2920	Ehd1	NM_010119	13660	EH-domain containing 1 [Source:MGI Symbol
+-1.94396311768993	1723	Zfp719	NM_172482	210105	zinc finger protein 719 [Source:MGI Symbol
+-1.94150340843721	2038	Dusp18	0	75219	dual specificity phosphatase 18 [Source:MGI Symbol
+-1.9402200003179	5050	Zfp558	0	72230	zinc finger protein 558 [Source:MGI Symbol
+-1.93908655951137	1136	Gm10419	0	NA	predicted gene 10419 [Source:MGI Symbol
+-1.93866459917146	4155	Zfp324	NM_178732	243834	zinc finger protein 324 [Source:MGI Symbol
+-1.93756144464279	2653	Trim13	NM_001164220	66597	tripartite motif-containing 13 [Source:MGI Symbol
+-1.93715669655881	3859	Gm3912	0	NA	predicted gene 3912 [Source:MGI Symbol
+-1.92985283651864	2164	Zfp758	0	224598	zinc finger protein 758 [Source:MGI Symbol
+-1.92978798080147	3871	Ppp1r3f	NM_001290574	54646	protein phosphatase 1
+-1.92500084522739	3962	Gm26910	0	NA	predicted gene
+-1.9233871410851	293	Tspo	NM_009775	12257	translocator protein [Source:MGI Symbol
+-1.9210987062897	2837	Gucd1	NM_175133	68778	guanylyl cyclase domain containing 1 [Source:MGI Symbol
+-1.92052944157352	5186	F830016B08Rik	NM_001101475	240328	RIKEN cDNA F830016B08 gene [Source:MGI Symbol
+-1.9193810455775	3271	Helz2	0	229003	helicase with zinc finger 2
+-1.91847743839191	408	P2ry2	NM_008773	18442	purinergic receptor P2Y
+-1.91825106256967	3393	Clic4	NM_013885	29876	chloride intracellular channel 4 (mitochondrial) [Source:MGI Symbol
+-1.91393967009265	1543	Cd276	0	102657	CD276 antigen [Source:MGI Symbol
+-1.91368424626008	1563	Smurf1	0	75788	SMAD specific E3 ubiquitin protein ligase 1 [Source:MGI Symbol
+-1.91083085872698	792	Ero1l	NM_015774	50527	ERO1-like (S. cerevisiae) [Source:MGI Symbol
+-1.91070787557912	2944	Zfas1	0	NA	zinc finger
+-1.91058951320938	2464	Gm42547	0	NA	predicted gene 42547 [Source:MGI Symbol
+-1.91030504438881	704	Gclm	NM_008129	14630	glutamate-cysteine ligase
+-1.9073889515912	2369	Rassf1	NM_001243748	56289	Ras association (RalGDS/AF-6) domain family member 1 [Source:MGI Symbol
+-1.90485725883992	1635	Grk4	NM_001080743	14772	G protein-coupled receptor kinase 4 [Source:MGI Symbol
+-1.89890802472425	2850	Misp	NM_030218	78906	mitotic spindle positioning [Source:MGI Symbol
+-1.89680046329888	1559	Ddx58	NM_172689	230073	DEAD (Asp-Glu-Ala-Asp) box polypeptide 58 [Source:MGI Symbol
+-1.89678047902212	1824	Nrp2	0	18187	neuropilin 2 [Source:MGI Symbol
+-1.89043738513648	1327	A530013C23Rik	0	NA	RIKEN cDNA A530013C23 gene [Source:MGI Symbol
+-1.88803878659416	413	Bst2	NM_198095	69550	bone marrow stromal cell antigen 2 [Source:MGI Symbol
+-1.88664989747162	319	Akr1a1	NM_021473	58810	aldo-keto reductase family 1
+-1.88076917124078	1263	2210011C24Rik	NM_001291292	70134	RIKEN cDNA 2210011C24 gene [Source:MGI Symbol
+-1.8797571110005	1061	Ctsl	NM_009984	13039	cathepsin L [Source:MGI Symbol
+-1.87939899680681	1874	Cd24a	NM_009846	12484	CD24a antigen [Source:MGI Symbol
+-1.87402274336912	2525	B3gnt5	NM_001159408	108105	UDP-GlcNAc:betaGal beta-1
+-1.87214692542585	6480	Grap	NM_027817	71520	GRB2-related adaptor protein [Source:MGI Symbol
+-1.86937851768887	2329	Carhsp1	NM_025821	52502	calcium regulated heat stable protein 1 [Source:MGI Symbol
+-1.86840749493181	3850	Wdr54	NM_023790	75659	WD repeat domain 54 [Source:MGI Symbol
+-1.86780639503991	1364	Oas1c	NM_033541	114643	2'-5' oligoadenylate synthetase 1C [Source:MGI Symbol
+-1.86652326675573	2487	Junb	0	16477	jun B proto-oncogene [Source:MGI Symbol
+-1.86562362516763	550	Gm15590	0	NA	predicted gene 15590 [Source:MGI Symbol
+-1.86512352587443	464	Slc6a8	NM_133987	102857	solute carrier family 6 (neurotransmitter transporter
+-1.86443190451742	1697	Zbtb18	0	30928	zinc finger and BTB domain containing 18 [Source:MGI Symbol
+-1.86170617009586	6884	Pilrb1	0	170741	paired immunoglobin-like type 2 receptor beta 1 [Source:MGI Symbol
+-1.85958242958314	1902	2010001A14Rik	0	NA	RIKEN cDNA 2010001A14 gene [Source:MGI Symbol
+-1.85814363975875	825	Zdhhc18	NM_001017968	503610	zinc finger
+-1.85461411693971	2489	Bcl3	0	12051	B cell leukemia/lymphoma 3 [Source:MGI Symbol
+-1.85381225458062	1436	Hnrnph3	NM_001079824	432467	heterogeneous nuclear ribonucleoprotein H3 [Source:MGI Symbol
+-1.84743361445979	1189	Slc35b3	NM_001170431	108652	solute carrier family 35
+-1.84620754538827	5184	Gm20634	0	NA	predicted gene 20634 [Source:MGI Symbol
+-1.84219858473409	1291	Fanca	NM_016925	14087	Fanconi anemia
+-1.84156818996506	6315	Nod1	NM_001171007	107607	nucleotide-binding oligomerization domain containing 1 [Source:MGI Symbol
+-1.8401595280721	3149	Brd2	NM_010238	14312	bromodomain containing 2 [Source:MGI Symbol
+-1.83937380344587	5049	Il20rb	NM_001033543	213208	interleukin 20 receptor beta [Source:MGI Symbol
+-1.83871702709672	1239	Acsl1	NM_007981	14081	acyl-CoA synthetase long-chain family member 1 [Source:MGI Symbol
+-1.83801422134044	5531	Gm19412	0	NA	predicted gene
+-1.83629882824428	1715	Tax1bp1	NM_025816	52440	Tax1 (human T cell leukemia virus type I) binding protein 1 [Source:MGI Symbol
+-1.83094765623428	1450	4933430I17Rik	NM_177607	214106	RIKEN cDNA 4933430I17 gene [Source:MGI Symbol
+-1.82967855071939	841	Gpx1	0	14775	glutathione peroxidase 1 [Source:MGI Symbol
+-1.82945404907008	2598	A530040E14Rik	0	NA	RIKEN cDNA A530040E14 gene [Source:MGI Symbol
+-1.82558065965453	3213	0	0	NA	0
+-1.82408574070284	1565	Mocs1	0	56738	molybdenum cofactor synthesis 1 [Source:MGI Symbol
+-1.82402251344254	2804	Gsto2	NM_026619	68214	glutathione S-transferase omega 2 [Source:MGI Symbol
+-1.82376357025622	1325	Fmnl2	0	71409	formin-like 2 [Source:MGI Symbol
+-1.82264232852563	2587	Casp1	NM_009807	12362	caspase 1 [Source:MGI Symbol
+-1.82220041721436	3827	Gm15922	NM_011087	NA	predicted gene 15922 [Source:MGI Symbol
+-1.82141569460729	2789	Tctn1	NM_001039153	654470	tectonic family member 1 [Source:MGI Symbol
+-1.82110158265774	3443	Gm26809	0	NA	predicted gene
+-1.81929759882203	2597	Lmo4	NM_001161769	16911	LIM domain only 4 [Source:MGI Symbol
+-1.81897350435496	1802	Spata6	NM_026470	67946	spermatogenesis associated 6 [Source:MGI Symbol
+-1.81604439052333	1905	Micall2	0	231830	MICAL-like 2 [Source:MGI Symbol
+-1.8158277428472	1743	Fam214b	NM_001253353	230088	family with sequence similarity 214
+-1.81308698320393	1882	Trim30a	NM_009099	20128	tripartite motif-containing 30A [Source:MGI Symbol
+-1.81278135847265	1388	Mex3c	NM_001039214	240396	mex3 RNA binding family member C [Source:MGI Symbol
+-1.811082356687	1683	Arfgef3	NM_001033258	215821	ARFGEF family member 3 [Source:MGI Symbol
+-1.81107472182412	2491	Spic	NM_011461	20728	Spi-C transcription factor (Spi-1/PU.1 related) [Source:MGI Symbol
+-1.81074955747245	5089	Socs1	NM_001271603	12703	suppressor of cytokine signaling 1 [Source:MGI Symbol
+-1.80931544482452	3390	0	0	NA	0
+-1.80859616544592	5497	St3gal1	NM_009177	20442	ST3 beta-galactoside alpha-2
+-1.80826402288537	2432	Igsf11	0	207683	immunoglobulin superfamily
+-1.80803483746187	1765	Angpt2	NM_007426	11601	angiopoietin 2 [Source:MGI Symbol
+-1.80429755029885	2279	Dirc2	NM_153550	224132	disrupted in renal carcinoma 2 (human) [Source:MGI Symbol
+-1.80386900673318	1152	Morn4	NM_198108	226123	MORN repeat containing 4 [Source:MGI Symbol
+-1.80244155154958	611	Exoc3l4	NM_028807	74190	exocyst complex component 3-like 4 [Source:MGI Symbol
+-1.8016700083217	1502	Rpgr	0	19893	retinitis pigmentosa GTPase regulator [Source:MGI Symbol
+-1.8012331199206	726	Cd14	NM_009841	12475	CD14 antigen [Source:MGI Symbol
+-1.80113448639591	532	Cd9	NM_007657	12527	CD9 antigen [Source:MGI Symbol
+-1.80090972619936	1424	Ptges3l	0	73635	prostaglandin E synthase 3 (cytosolic)-like [Source:MGI Symbol
+-1.7992998150051	1329	Gm7160	0	NA	predicted gene 7160 [Source:MGI Symbol
+-1.79905827881636	1255	2810002D19Rik	0	NA	RIKEN cDNA 2810002D19 gene [Source:MGI Symbol
+-1.79745930141233	5842	Jarid2	0	16468	jumonji
+-1.79541480119544	4733	Jak2	NM_008413	16452	Janus kinase 2 [Source:MGI Symbol
+-1.7951340725245	994	Slx4ip	NM_028834	74243	SLX4 interacting protein [Source:MGI Symbol
+-1.79274549386531	245	Card19	NM_026738	68480	caspase recruitment domain family
+-1.79129514440138	533	Lrrfip2	0	71268	leucine rich repeat (in FLII) interacting protein 2 [Source:MGI Symbol
+-1.79004515421819	7598	Tagap	NM_145968	72536	T cell activation Rho GTPase activating protein [Source:MGI Symbol
+-1.78850676390906	3801	Zbtb10	NM_177660	229055	zinc finger and BTB domain containing 10 [Source:MGI Symbol
+-1.78476278875722	1367	Smad6	NM_008542	17130	SMAD family member 6 [Source:MGI Symbol
+-1.78395678465997	2774	Parp3	NM_145619	235587	poly (ADP-ribose) polymerase family
+-1.78344727966303	849	Ankrd33b	NM_027496	67434	ankyrin repeat domain 33B [Source:MGI Symbol
+-1.78242053350713	1664	Ccdc138	NM_001162956	76138	coiled-coil domain containing 138 [Source:MGI Symbol
+-1.78034751650789	4230	Cspg4	NM_139001	121021	chondroitin sulfate proteoglycan 4 [Source:MGI Symbol
+-1.77957056005774	547	Milr1	0	380732	mast cell immunoglobulin like receptor 1 [Source:MGI Symbol
+-1.77886867990603	518	Batf	NM_016767	53314	basic leucine zipper transcription factor
+-1.77874346872666	1832	Gm4951	NM_001033767	240327	predicted gene 4951 [Source:MGI Symbol
+-1.77627535257527	4818	Sh2d4b	NM_177816	328381	SH2 domain containing 4B [Source:MGI Symbol
+-1.77613405503015	4061	Sdc4	NM_011521	20971	syndecan 4 [Source:MGI Symbol
+-1.76968012786818	2682	Cdkl3	NM_153785	213084	cyclin-dependent kinase-like 3 [Source:MGI Symbol
+-1.76935041243815	887	3110043O21Rik	0	73205	RIKEN cDNA 3110043O21 gene [Source:MGI Symbol
+-1.76853965044861	598	1110046J04Rik	0	NA	RIKEN cDNA 1110046J04 gene [Source:MGI Symbol
+-1.76701277086886	2555	Casp7	NM_007611	12369	caspase 7 [Source:MGI Symbol
+-1.76687210437095	1178	Tmem104	0	320534	transmembrane protein 104 [Source:MGI Symbol
+-1.76652685178392	555	Por	0	18984	P450 (cytochrome) oxidoreductase [Source:MGI Symbol
+-1.76561745751448	1888	Plcl2	NM_013880	224860	phospholipase C-like 2 [Source:MGI Symbol
+-1.76495454277794	4628	Gm8369	0	666926	predicted gene 8369 [Source:MGI Symbol
+-1.76389856169035	2872	Ctsh	0	13036	cathepsin H [Source:MGI Symbol
+-1.76326291204593	4787	9330175E14Rik	0	NA	RIKEN cDNA 9330175E14 gene [Source:MGI Symbol
+-1.75927573223266	1386	Ccdc57	NM_027745	71276	coiled-coil domain containing 57 [Source:MGI Symbol
+-1.75910140308888	2516	Slamf7	NM_144539	75345	SLAM family member 7 [Source:MGI Symbol
+-1.75798503607623	4437	Pacsin1	0	23969	protein kinase C and casein kinase substrate in neurons 1 [Source:MGI Symbol
+-1.75509591376981	773	Cd151	0	12476	CD151 antigen [Source:MGI Symbol
+-1.75057767167975	2729	Snx18	NM_130796	170625	sorting nexin 18 [Source:MGI Symbol
+-1.74966522289813	1116	Plxna1	NM_008881	18844	plexin A1 [Source:MGI Symbol
+-1.74890686852939	3402	Slc9a1	NM_016981	20544	solute carrier family 9 (sodium/hydrogen exchanger)
+-1.74412761832797	475	Arhgap24	NM_029270	231532	Rho GTPase activating protein 24 [Source:MGI Symbol
+-1.74184424476585	551	Rnf149	NM_001033135	67702	ring finger protein 149 [Source:MGI Symbol
+-1.74162416955809	1948	Irak2	NM_172161	108960	interleukin-1 receptor-associated kinase 2 [Source:MGI Symbol
+-1.74124548547865	1287	Tlr3	NM_126166	142980	toll-like receptor 3 [Source:MGI Symbol
+-1.73773126002576	7112	Itgam	0	NA	integrin alpha M [Source:MGI Symbol
+-1.73562862611046	2238	Sh3yl1	NM_013709	24057	Sh3 domain YSC-like 1 [Source:MGI Symbol
+-1.73425824694528	5877	Hist1h2br	0	665622	histone cluster 1 H2br [Source:MGI Symbol
+-1.72997562536017	1148	Dnajb4	0	67035	DnaJ heat shock protein family (Hsp40) member B4 [Source:MGI Symbol
+-1.72951031435985	2541	Plekha5	NM_144920	109135	pleckstrin homology domain containing
+-1.72857718787969	2217	Sfn	NM_018754	55948	stratifin [Source:MGI Symbol
+-1.72616286286833	4311	Ppfia3	0	76787	protein tyrosine phosphatase
+-1.72586413132594	4047	Stx2	NM_007941	13852	syntaxin 2 [Source:MGI Symbol
+-1.7227397258367	1154	Mrgpre	NM_175534	244238	MAS-related GPR
+-1.7195158090058	5907	Zfp36	NM_011756	22695	zinc finger protein 36 [Source:MGI Symbol
+-1.7168825827821	908	Mlkl	NM_001310613	74568	mixed lineage kinase domain-like [Source:MGI Symbol
+-1.71504800141829	2484	Plau	NM_008873	18792	plasminogen activator
+-1.71399537824445	389	Mfsd7b	0	226844	major facilitator superfamily domain containing 7B [Source:MGI Symbol
+-1.71395809764785	2194	Rims3	0	242662	regulating synaptic membrane exocytosis 3 [Source:MGI Symbol
+-1.71304857178257	528	Snx7	NM_029655	76561	sorting nexin 7 [Source:MGI Symbol
+-1.71285898319474	1808	A230028O05Rik	0	NA	RIKEN cDNA A230028O05 gene [Source:MGI Symbol
+-1.71235247629434	2612	Dennd6b	NM_027081	69440	DENN/MADD domain containing 6B [Source:MGI Symbol
+-1.71169755143521	1712	4930589L23Rik	0	NA	RIKEN cDNA 4930589L23 gene [Source:MGI Symbol
+-1.71081410236341	814	Ptger2	NM_008964	19217	prostaglandin E receptor 2 (subtype EP2) [Source:MGI Symbol
+-1.71050950735327	347	2010111I01Rik	0	72061	RIKEN cDNA 2010111I01 gene [Source:MGI Symbol
+-1.70965736613801	3570	Zc3h12a	NM_153159	230738	zinc finger CCCH type containing 12A [Source:MGI Symbol
+-1.70693514662138	351	Ndfip2	NM_029561	76273	Nedd4 family interacting protein 2 [Source:MGI Symbol
+-1.70607351686478	2605	Gm8989	0	NA	predicted gene 8989 [Source:MGI Symbol
+-1.70544648389759	1155	Gpsm2	NM_029522	76123	G-protein signalling modulator 2 (AGS3-like
+-1.70435703318559	6178	Trim17	0	56631	tripartite motif-containing 17 [Source:MGI Symbol
+-1.70053027113505	3791	Tgtp1	NM_011579	21822	T cell specific GTPase 1 [Source:MGI Symbol
+-1.69521716196324	2052	Setdb2	NM_001320720	239122	SET domain
+-1.69452068161115	2128	Arhgap22	0	239027	Rho GTPase activating protein 22 [Source:MGI Symbol
+-1.69181614530229	1506	Inca1	NM_001252484	103844	inhibitor of CDK
+-1.69136430045772	2808	4930539E08Rik	NM_172450	207819	RIKEN cDNA 4930539E08 gene [Source:MGI Symbol
+-1.68946343288374	491	Ap3s1	NM_009681	11777	adaptor-related protein complex 3
+-1.68821697812294	1524	Ube2m	0	22192	ubiquitin-conjugating enzyme E2M [Source:MGI Symbol
+-1.68696846322323	5822	Gbp5	0	229898	guanylate binding protein 5 [Source:MGI Symbol
+-1.68609126050979	3720	Zfp446	NM_001168561	269870	zinc finger protein 446 [Source:MGI Symbol
+-1.68416125408833	1595	Mcm9	NM_027830	71567	minichromosome maintenance 9 homologous recombination repair factor [Source:MGI Symbol
+-1.68202807419271	7806	Ccl3	NM_011337	20302	chemokine (C-C motif) ligand 3 [Source:MGI Symbol
+-1.67967747113275	3777	Bach2	0	12014	BTB and CNC homology
+-1.67876423406497	1028	2310001H17Rik	0	NA	RIKEN cDNA 2310001H17 gene [Source:MGI Symbol
+-1.67873423142371	2795	Acbd4	0	67131	acyl-Coenzyme A binding domain containing 4 [Source:MGI Symbol
+-1.67868622691612	1175	Gm16675	0	NA	predicted gene
+-1.67822590316121	10969	mt-Co3	17710	17710	mitochondrially encoded cytochrome c oxidase III [Source:MGI Symbol
+-1.67797890849654	3478	Pcdhga5	NM_033588	93713	protocadherin gamma subfamily A
+-1.67757484833765	2251	Tmbim1	NM_027154	69660	transmembrane BAX inhibitor motif containing 1 [Source:MGI Symbol
+-1.67594882408448	929	Rai14	NM_030690	75646	retinoic acid induced 14 [Source:MGI Symbol
+-1.67581980798972	2832	Slc8b1	NM_133221	170756	solute carrier family 8 (sodium/lithium/calcium exchanger)
+-1.67547749875275	1541	Tmem181b-ps	0	NA	transmembrane protein 181B
+-1.67477200113448	2814	Oas2	NM_145227	246728	2'-5' oligoadenylate synthetase 2 [Source:MGI Symbol
+-1.67361086225606	1337	Tbc1d2	NM_198664	381605	TBC1 domain family
+-1.67197702167587	2162	Pmaip1	NM_021451	58801	phorbol-12-myristate-13-acetate-induced protein 1 [Source:MGI Symbol
+-1.67180979616472	1315	Syk	0	20963	spleen tyrosine kinase [Source:MGI Symbol
+-1.67006026974521	1818	Slfn2	NM_011408	20556	schlafen 2 [Source:MGI Symbol
+-1.66659256149885	493	Homer3	0	26558	homer scaffolding protein 3 [Source:MGI Symbol
+-1.66575373466795	1008	Gm10031	0	NA	predicted pseudogene 10031 [Source:MGI Symbol
+-1.66486291785715	1118	Tmem216	0	68642	transmembrane protein 216 [Source:MGI Symbol
+-1.66352291680774	5232	Pde4b	0	18578	phosphodiesterase 4B
+-1.66158586109472	1015	Odf2l	0	52184	outer dense fiber of sperm tails 2-like [Source:MGI Symbol
+-1.66157183009924	1035	Oas1a	NM_145211	246730	2'-5' oligoadenylate synthetase 1A [Source:MGI Symbol
+-1.65912950263546	206	Id2	NM_010496	15902	inhibitor of DNA binding 2 [Source:MGI Symbol
+-1.65869920188011	2571	B4galt5	0	56336	UDP-Gal:betaGlcNAc beta 1
+-1.6581336329247	5700	Gm27624	0	NA	predicted gene
+-1.65666012803695	383	Azin1	NM_001301688	54375	antizyme inhibitor 1 [Source:MGI Symbol
+-1.6546828672656	1516	Stra6l	0	74152	STRA6-like [Source:MGI Symbol
+-1.65225348301077	720	Eif5	NM_173363	217869	eukaryotic translation initiation factor 5 [Source:MGI Symbol
+-1.65204202476156	1042	Suco	NM_172645	226551	SUN domain containing ossification factor [Source:MGI Symbol
+-1.65100382254176	2517	Pmepa1	NM_022995	65112	prostate transmembrane protein
+-1.64807692643306	1935	Gm20559	0	NA	predicted gene
+-1.64515444109225	3658	Ubc	0	22190	ubiquitin C [Source:MGI Symbol
+-1.64513962012487	2523	Gm15440	0	NA	predicted gene 15440 [Source:MGI Symbol
+-1.64454016502298	252	Mocs2	NM_013826	17434	molybdenum cofactor synthesis 2 [Source:MGI Symbol
+-1.64422624937253	1195	Vps37b	NM_177876	330192	vacuolar protein sorting 37B [Source:MGI Symbol
+-1.64350798228525	1557	Tyw5	NM_001302963	68736	tRNA-yW synthesizing protein 5 [Source:MGI Symbol
+-1.6419580849623	1640	Nfkbib	NM_010908	18036	nuclear factor of kappa light polypeptide gene enhancer in B cells inhibitor
+-1.64085652906406	2318	Pls3	NM_001166453	102866	plastin 3 (T-isoform) [Source:MGI Symbol
+-1.64029447489104	3140	Cxcl9	NM_008599	17329	chemokine (C-X-C motif) ligand 9 [Source:MGI Symbol
+-1.64010263037909	2860	Bnip3	NM_009760	12176	BCL2/adenovirus E1B interacting protein 3 [Source:MGI Symbol
+-1.63085137958892	7211	Ccl4	NM_013652	20303	chemokine (C-C motif) ligand 4 [Source:MGI Symbol
+-1.63068280381003	4456	Slc2a1	NM_011400	20525	solute carrier family 2 (facilitated glucose transporter)
+-1.62657297611896	4702	Kcnn4	NM_008433	16534	potassium intermediate/small conductance calcium-activated channel
+-1.62634602632884	407	Txnrd1	NM_001042523	50493	thioredoxin reductase 1 [Source:MGI Symbol
+-1.62587142017039	1372	Tspan3	NM_019793	56434	tetraspanin 3 [Source:MGI Symbol
+-1.62423923581586	1685	Edil3	NM_001037987	13612	EGF-like repeats and discoidin I-like domains 3 [Source:MGI Symbol
+-1.62355773726167	830	B4galt7	NM_001311137	218271	xylosylprotein beta1
+-1.62090661329721	6229	Zfp112	0	57745	zinc finger protein 112 [Source:MGI Symbol
+-1.61991887609186	7299	Srgap3	NM_080448	259302	SLIT-ROBO Rho GTPase activating protein 3 [Source:MGI Symbol
+-1.61839396509277	1509	Fbxo36	NM_025386	66153	F-box protein 36 [Source:MGI Symbol
+-1.61541504665515	2056	Sec61a2	NM_021305	57743	Sec61
+-1.61499525169734	5008	Map4	NM_001205330	17758	microtubule-associated protein 4 [Source:MGI Symbol
+-1.61378759104835	6381	Glrx	NM_053108	93692	glutaredoxin [Source:MGI Symbol
+-1.61289573612771	904	Il7r	NM_008372	16197	interleukin 7 receptor [Source:MGI Symbol
+-1.61248922585938	2565	Camsap1	NM_001276360	227634	calmodulin regulated spectrin-associated protein 1 [Source:MGI Symbol
+-1.61211632094995	443	Blcap	0	53619	bladder cancer associated protein [Source:MGI Symbol
+-1.61089125280926	5573	Gm15050	0	NA	predicted gene 15050 [Source:MGI Symbol
+-1.61042795285499	556	Gpr137b	NM_031999	83924	G protein-coupled receptor 137B [Source:MGI Symbol
+-1.60643082805107	4314	Trim7	NM_053166	94089	tripartite motif-containing 7 [Source:MGI Symbol
+-1.60567594656324	1399	Zfp938	NM_001105557	237411	zinc finger protein 938 [Source:MGI Symbol
+-1.60479053775106	1054	Snx1	NM_019727	56440	sorting nexin 1 [Source:MGI Symbol
+-1.60335673427633	650	Pef1	0	67898	penta-EF hand domain containing 1 [Source:MGI Symbol
+-1.59908178877533	682	Zfand2a	0	100494	zinc finger
+-1.59881592826315	1176	Gm7334	0	NA	predicted gene 7334 [Source:MGI Symbol
+-1.59824933427806	2869	Hist1h1c	NM_015786	50708	histone cluster 1
+-1.59807280758112	933	Tmem62	NM_175285	96957	transmembrane protein 62 [Source:MGI Symbol
+-1.59666216502948	952	Sirt6	NM_001163430	50721	sirtuin 6 [Source:MGI Symbol
+-1.59329212163228	466	Prr13	0	66151	proline rich 13 [Source:MGI Symbol
+-1.59258670352458	852	Ralgps1	NM_001290572	241308	Ral GEF with PH domain and SH3 binding motif 1 [Source:MGI Symbol
+-1.59192631599979	1445	Gm10425	0	NA	predicted gene 10425 [Source:MGI Symbol
+-1.59180964318084	1350	Tnfaip2	NM_009396	21928	tumor necrosis factor
+-1.58884191992029	4624	Vwf	0	22371	Von Willebrand factor [Source:MGI Symbol
+-1.58784110854452	5190	Pdgfrl	0	68797	platelet-derived growth factor receptor-like [Source:MGI Symbol
+-1.58690672946277	2878	Cldn34c1	NM_001310652	73061	claudin 34C1 [Source:MGI Symbol
+-1.58678334761095	4515	Sipa1l1	NM_001167983	217692	signal-induced proliferation-associated 1 like 1 [Source:MGI Symbol
+-1.58666062611908	1491	Nkiras2	0	71966	NFKB inhibitor interacting Ras-like protein 2 [Source:MGI Symbol
+-1.58620480654967	1553	Akap3	NM_009650	11642	A kinase (PRKA) anchor protein 3 [Source:MGI Symbol
+-1.58095545763713	3260	Tmem116	0	77462	transmembrane protein 116 [Source:MGI Symbol
+-1.58021609787628	317	Eaf1	NM_028932	74427	ELL associated factor 1 [Source:MGI Symbol
+-1.57757603599298	1254	Capn10	NM_011796	23830	calpain 10 [Source:MGI Symbol
+-1.57559751241275	7193	Dnhd1	0	77505	dynein heavy chain domain 1 [Source:MGI Symbol
+-1.57451637016426	2150	Ccdc189	NM_001033040	233899	coiled-coil domain containing 189 [Source:MGI Symbol
+-1.5725148714005	5784	Pde1b	NM_008800	18574	phosphodiesterase 1B
+-1.57058466722679	3175	C1s1	NM_144938	50908	complement component 1
+-1.56841804903712	4392	Rapgef2	NM_001310536	76089	Rap guanine nucleotide exchange factor (GEF) 2 [Source:MGI Symbol
+-1.56675270840513	1566	Smpd5	NM_001195537	100503915	sphingomyelin phosphodiesterase 5 [Source:MGI Symbol
+-1.56587481408486	3655	1700055D18Rik	0	NA	RIKEN cDNA 1700055D18 gene [Source:MGI Symbol
+-1.56543593022594	2817	Mfsd9	NM_172499	211798	major facilitator superfamily domain containing 9 [Source:MGI Symbol
+-1.565179887945	3401	Slc39a14	NM_144808	213053	solute carrier family 39 (zinc transporter)
+-1.56428939408983	3550	Slfn8	NM_181545	276950	schlafen 8 [Source:MGI Symbol
+-1.56292132014315	3614	Stat2	0	20847	signal transducer and activator of transcription 2 [Source:MGI Symbol
+-1.56204463029382	2191	Vopp1	0	232023	vesicular
+-1.55957654862129	2037	Gorab	NM_001313738	98376	golgin
+-1.55953752246945	4421	9130208D14Rik	0	NA	RIKEN cDNA 9130208D14 gene [Source:MGI Symbol
+-1.55845719102389	3479	Pim1	NM_008842	18712	proviral integration site 1 [Source:MGI Symbol
+-1.55838091402057	1925	Pqlc2	0	212555	PQ loop repeat containing 2 [Source:MGI Symbol
+-1.55807968826145	568	Adssl1	0	11565	adenylosuccinate synthetase like 1 [Source:MGI Symbol
+-1.55794922605967	1833	Gm15487	0	NA	predicted gene 15487 [Source:MGI Symbol
+-1.55603178043849	1293	Plekhj1	NM_023900	78670	pleckstrin homology domain containing
+-1.55453070050097	4185	Stk40	NM_028800	74178	serine/threonine kinase 40 [Source:MGI Symbol
+-1.55389344193545	1856	Malsu1	NM_029353	75593	mitochondrial assembly of ribosomal large subunit 1 [Source:MGI Symbol
+-1.55365981409321	2551	Gm20604	NM_001142939	100859931	predicted gene 20604 [Source:MGI Symbol
+-1.55336989462765	9858	Gm28635	0	12388	predicted gene 28635 [Source:MGI Symbol
+-1.55334459245244	1549	Slc9a3r1	NM_012030	26941	solute carrier family 9 (sodium/hydrogen exchanger)
+-1.55166248312582	1790	Casz1	NM_027195	69743	castor zinc finger 1 [Source:MGI Symbol
+-1.54952111483714	796	Lrrc8d	NM_001122768	231549	leucine rich repeat containing 8D [Source:MGI Symbol
+-1.54693616525306	1305	Sbds	NM_023248	66711	Shwachman-Bodian-Diamond syndrome homolog (human) [Source:MGI Symbol
+-1.54599490191336	781	Riok3	NM_024182	66878	RIO kinase 3 [Source:MGI Symbol
+-1.54599204771862	1233	Bbs5	NM_028284	72569	Bardet-Biedl syndrome 5 (human) [Source:MGI Symbol
+-1.54588251695447	2175	Cd82	NM_001271430	12521	CD82 antigen [Source:MGI Symbol
+-1.54568058362115	1854	Parp10	0	671535	poly (ADP-ribose) polymerase family
+-1.54329283297157	1211	Ptk2	NM_007982	14083	PTK2 protein tyrosine kinase 2 [Source:MGI Symbol
+-1.54243456766156	3176	Bbs1	NM_001033128	52028	Bardet-Biedl syndrome 1 (human) [Source:MGI Symbol
+-1.54103373012882	1281	Katnbl1	NM_024254	72425	katanin p80 subunit B like 1 [Source:MGI Symbol
+-1.53250489903616	3486	Cytip	NM_139200	227929	cytohesin 1 interacting protein [Source:MGI Symbol
+-1.53196666621324	3526	Erdr1	0	170942	erythroid differentiation regulator 1 [Source:MGI Symbol
+-1.5277239709347	4511	Fam102b	0	329739	family with sequence similarity 102
+-1.5274873954984	5280	Ebi3	NM_015766	50498	Epstein-Barr virus induced gene 3 [Source:MGI Symbol
+-1.52682410532136	5369	Cdc42ep4	NM_020006	56699	CDC42 effector protein (Rho GTPase binding) 4 [Source:MGI Symbol
+-1.52359359611465	4438	Cenpj	NM_001014996	219103	centromere protein J [Source:MGI Symbol
+-1.52345815931713	1110	Ass1	NM_007494	11898	argininosuccinate synthetase 1 [Source:MGI Symbol
+-1.52202089959084	3376	Rnf135	NM_028019	71956	ring finger protein 135 [Source:MGI Symbol
+-1.52051151373375	2377	Rdh5	NM_134006	19682	retinol dehydrogenase 5 [Source:MGI Symbol
+-1.52032851195811	1589	Cav1	NM_007616	12389	caveolin 1
+-1.51857357738793	4110	Prelid2	NM_029942	77619	PRELI domain containing 2 [Source:MGI Symbol
+-1.51794896458687	1138	Gm20632	0	NA	predicted gene 20632 [Source:MGI Symbol
+-1.51744822196881	1002	Tmem161b	NM_175187	72745	transmembrane protein 161B [Source:MGI Symbol
+-1.51720035294182	3558	Dot1l	NM_199322	208266	DOT1-like
+-1.51676666321313	809	Gtf2h2	0	23894	general transcription factor II H
+-1.51498987210901	8554	Zc3hav1l	NM_172467	209032	zinc finger CCCH-type
+-1.51439915091095	3057	Phf11b	NM_001164327	236451	PHD finger protein 11B [Source:MGI Symbol
+-1.51353315509602	1100	Zcchc2	NM_001122676	227449	zinc finger
+-1.51339294700288	3365	F5	NM_007976	14067	coagulation factor V [Source:MGI Symbol
+-1.5108560364942	5836	Pnpla1	0	433091	patatin-like phospholipase domain containing 1 [Source:MGI Symbol
+-1.51085469458471	1253	Mafg	0	17134	v-maf musculoaponeurotic fibrosarcoma oncogene family
+-1.50826841553428	2528	Sertad1	NM_018820	55942	SERTA domain containing 1 [Source:MGI Symbol
+-1.50805676146616	2744	Pkp3	NM_001162924	56460	plakophilin 3 [Source:MGI Symbol
+-1.50791375494902	1828	Fabp3	NM_010174	14077	fatty acid binding protein 3
+-1.50767542852047	6936	Atp8a2	NM_015803	50769	ATPase
+-1.50740843590752	5482	Fbxl5	0	242960	F-box and leucine-rich repeat protein 5 [Source:MGI Symbol
+-1.50698083838769	5514	Cfap43	NM_027559	414801	cilia and flagella associated protein 43 [Source:MGI Symbol
+-1.50690746461421	1391	Ribc1	NM_025660	66611	RIB43A domain with coiled-coils 1 [Source:MGI Symbol
+-1.50609932002612	3695	Ap3s1-ps1	0	NA	adaptor-related protein complex 3
+-1.50496559953617	2428	Ktn1	0	16709	kinectin 1 [Source:MGI Symbol
+-1.50309798278084	2909	Cdkn2b	NM_007670	12579	cyclin-dependent kinase inhibitor 2B (p15
+-1.49945336874704	1135	Alg12	0	223774	asparagine-linked glycosylation 12 (alpha-1
+-1.49886792296205	1133	Cdkn1a	NM_001111099	12575	cyclin-dependent kinase inhibitor 1A (P21) [Source:MGI Symbol
+-1.49885614735754	1800	Prkab1	NM_031869	19079	protein kinase
+-1.49852273968152	2240	Nol3	NM_030152	78688	nucleolar protein 3 (apoptosis repressor with CARD domain) [Source:MGI Symbol
+-1.49750250459015	5288	Rab11fip1	NM_001080813	75767	RAB11 family interacting protein 1 (class I) [Source:MGI Symbol
+-1.49700035547712	1953	Tmem220	NM_177392	338369	transmembrane protein 220 [Source:MGI Symbol
+-1.49675277021542	4661	Gm12708	0	NA	predicted gene 12708 [Source:MGI Symbol
+-1.4963042937353	7191	Gm12764	0	NA	predicted gene 12764 [Source:MGI Symbol
+-1.49580904663038	5714	Ankrd37	NM_001039562	654824	ankyrin repeat domain 37 [Source:MGI Symbol
+-1.49546064255568	2211	Mrgbp	0	73247	MRG/MORF4L binding protein [Source:MGI Symbol
+-1.49089041495242	1619	Zfp800	NM_001081678	627049	zinc finger protein 800 [Source:MGI Symbol
+-1.49072422173972	1519	Hemk1	NM_133984	69536	HemK methyltransferase family member 1 [Source:MGI Symbol
+-1.49004286466662	2769	Mipol1	0	73490	mirror-image polydactyly 1 [Source:MGI Symbol
+-1.48943884376882	578	Slfn3	NM_011409	20557	schlafen 3 [Source:MGI Symbol
+-1.48846100220722	2385	Gm10359	0	NA	predicted gene 10359 [Source:MGI Symbol
+-1.48767874437594	2763	Ptpn12	NM_011203	19248	protein tyrosine phosphatase
+-1.48717840622656	1497	Gm11425	0	NA	predicted gene 11425 [Source:MGI Symbol
+-1.4863442746261	671	Slfn10-ps	0	NA	schlafen 10
+-1.48280545194371	4724	Vnn3	NM_011979	26464	vanin 3 [Source:MGI Symbol
+-1.47890184685325	1402	Fnip2	0	329679	folliculin interacting protein 2 [Source:MGI Symbol
+-1.47614805741503	990	Mief2	NM_001009927	237781	mitochondrial elongation factor 2 [Source:MGI Symbol
+-1.47496641055536	2147	Msmo1	NM_025436	66234	methylsterol monoxygenase 1 [Source:MGI Symbol
+-1.47481735896052	935	Stac2	NM_146028	217154	SH3 and cysteine rich domain 2 [Source:MGI Symbol
+-1.47471786062074	2485	Zfp677	NM_172486	210503	zinc finger protein 677 [Source:MGI Symbol
+-1.47398493679028	1817	1500011B03Rik	0	NA	RIKEN cDNA 1500011B03 gene [Source:MGI Symbol
+-1.47333038487297	3772	Nfkb2	NM_001177369	18034	nuclear factor of kappa light polypeptide gene enhancer in B cells 2
+-1.47088161906591	1047	Bsg	NM_001077184	12215	basigin [Source:MGI Symbol
+-1.4700570182421	7215	Kctd12	NM_177715	239217	potassium channel tetramerisation domain containing 12 [Source:MGI Symbol
+-1.46990446788782	5068	Cpne1	0	266692	copine I [Source:MGI Symbol
+-1.46932770414821	1380	1700047I17Rik2	NM_001100116	100101807	RIKEN cDNA 1700047I17 gene 2 [Source:MGI Symbol
+-1.46729745453602	3667	Gm15247	0	NA	predicted gene 15247 [Source:MGI Symbol
+-1.46714809169637	8794	Ntng2	0	171171	netrin G2 [Source:MGI Symbol
+-1.46695761375999	3098	Gm6904	NM_001164329	628693	predicted gene 6904 [Source:MGI Symbol
+-1.46525973481496	4141	Gm16973	0	NA	predicted gene
+-1.4642229152256	4581	Tmcc3	NM_172051	319880	transmembrane and coiled coil domains 3 [Source:MGI Symbol
+-1.46383372252694	4790	Klf6	NM_011803	23849	Kruppel-like factor 6 [Source:MGI Symbol
+-1.46177410160485	1482	Mgst2	0	211666	microsomal glutathione S-transferase 2 [Source:MGI Symbol
+-1.45842289554436	3200	Daxx	0	13163	Fas death domain-associated protein [Source:MGI Symbol
+-1.4563150508683	4915	Ralgds	0	19730	ral guanine nucleotide dissociation stimulator [Source:MGI Symbol
+-1.45623861733615	614	Baiap2	NM_001037755	108100	brain-specific angiogenesis inhibitor 1-associated protein 2 [Source:MGI Symbol
+-1.45585972797571	5233	Gm11131	0	NA	predicted gene 11131 [Source:MGI Symbol
+-1.45409726444365	4315	Zufsp	NM_028287	72580	zinc finger with UFM1-specific peptidase domain [Source:MGI Symbol
+-1.45340675041699	2939	Pcdhgb2	NM_033575	93700	protocadherin gamma subfamily B
+-1.45046300995294	712	1110008F13Rik	NM_026124	67388	RIKEN cDNA 1110008F13 gene [Source:MGI Symbol
+-1.44937392626751	2145	Galns	NM_016722	50917	galactosamine (N-acetyl)-6-sulfate sulfatase [Source:MGI Symbol
+-1.44924053152163	668	Tgds	NM_029578	76355	TDP-glucose 4
+-1.44898851319392	751	Tmem35b	0	100039968	transmembrane protein 35B [Source:MGI Symbol
+-1.44569112788004	1511	Lamc1	NM_010683	226519	laminin
+-1.44325815230318	4032	Mier3	NM_172593	218613	MIER family member 3 [Source:MGI Symbol
+-1.44256516776551	3278	Samd9l	NM_010156	209086	sterile alpha motif domain containing 9-like [Source:MGI Symbol
+-1.44213400364563	1449	Tmem184b	NM_001253819	223693	transmembrane protein 184b [Source:MGI Symbol
+-1.44179721953752	5703	Ifitm1	NM_026820	68713	interferon induced transmembrane protein 1 [Source:MGI Symbol
+-1.44118152151569	4441	Akt3	0	23797	thymoma viral proto-oncogene 3 [Source:MGI Symbol
+-1.44113159510002	1425	Nkiras1	NM_001316712	69721	NFKB inhibitor interacting Ras-like protein 1 [Source:MGI Symbol
+-1.4401421706824	1427	Raet1e	0	379043	retinoic acid early transcript 1E [Source:MGI Symbol
+-1.4396441564127	1076	Atf5	0	107503	activating transcription factor 5 [Source:MGI Symbol
+-1.43754245742936	649	Cln5	NM_001033242	211286	ceroid-lipofuscinosis
+-1.43728420096345	3561	Pla2g4a	NM_008869	18783	phospholipase A2
+-1.43606464658852	628	Lrp11	0	237253	low density lipoprotein receptor-related protein 11 [Source:MGI Symbol
+-1.43390896568311	3101	BC017643	NM_001254735	217370	cDNA sequence BC017643 [Source:MGI Symbol
+-1.4337418168597	3645	Gm10557	0	NA	predicted gene 10557 [Source:MGI Symbol
+-1.43204951868018	5229	Gm7008	0	NA	predicted gene 7008 [Source:MGI Symbol
+-1.43203498212577	1990	Rusc2	NM_001037709	100213	RUN and SH3 domain containing 2 [Source:MGI Symbol
+-1.4302751859648	805	Gm10145	0	NA	predicted gene 10145 [Source:MGI Symbol
+-1.43003108913322	2662	Mmp27	NM_001310717	234911	matrix metallopeptidase 27 [Source:MGI Symbol
+-1.42995663830288	10357	Gm11175	0	NA	predicted gene 11175 [Source:MGI Symbol
+-1.42967776572373	485	Zfand5	NM_009551	22682	zinc finger
+-1.4295431675021	5354	Tle3	NM_009389	21887	transducin-like enhancer of split 3 [Source:MGI Symbol
+-1.42901242590334	7600	Gm14636	0	NA	predicted gene 14636 [Source:MGI Symbol
+-1.42654504089151	4384	Sowahc	NM_172939	268301	sosondowah ankyrin repeat domain family member C [Source:MGI Symbol
+-1.4262622447389	2988	Junos	0	NA	jun proto-oncogene
+-1.42197199749809	8069	H2-Q10	0	15007	histocompatibility 2
+-1.42135545873823	695	Ftl1	NM_010240	14325	ferritin light polypeptide 1 [Source:MGI Symbol
+-1.42028295677905	7147	Ralgapa2	NM_001033348	241694	Ral GTPase activating protein
+-1.41911788785054	5329	Ms4a4b	0	60361	membrane-spanning 4-domains
+-1.41765870844366	2116	Aldh1b1	NM_028270	72535	aldehyde dehydrogenase 1 family
+-1.41757364870168	2292	Gm10297	0	NA	predicted pseudogene 10297 [Source:MGI Symbol
+-1.41592957150594	2574	Gm21887	0	NA	predicted gene
+-1.41545515911038	3447	Wnt9a	0	216795	wingless-type MMTV integration site family
+-1.4150778332816	5692	Gpr35	0	64095	G protein-coupled receptor 35 [Source:MGI Symbol
+-1.41265886353492	1413	Pex11a	NM_011068	18631	peroxisomal biogenesis factor 11 alpha [Source:MGI Symbol
+-1.41213741091767	2957	Tor3a	0	30935	torsin family 3
+-1.41064654253036	6031	Gm8979	0	NA	predicted gene 8979 [Source:MGI Symbol
+-1.41057310856456	938	Eml2	0	72205	echinoderm microtubule associated protein like 2 [Source:MGI Symbol
+-1.41054597673868	1250	Tatdn2	NM_001033463	381801	TatD DNase domain containing 2 [Source:MGI Symbol
+-1.40885384893916	3458	N4bp2	NM_001024917	333789	NEDD4 binding protein 2 [Source:MGI Symbol
+-1.40624481303177	2072	Plgrkt	NM_026362	67759	plasminogen receptor
+-1.4059689719757	3841	C330011M18Rik	0	NA	RIKEN cDNA C330011M18 gene [Source:MGI Symbol
+-1.40554552439021	647	Isca2	NM_028863	74316	iron-sulfur cluster assembly 2 [Source:MGI Symbol
+-1.40544923382249	5109	Cnbd2	NM_027585	70873	cyclic nucleotide binding domain containing 2 [Source:MGI Symbol
+-1.40480601002244	3611	Pgs1	NM_133757	74451	phosphatidylglycerophosphate synthase 1 [Source:MGI Symbol
+-1.40401274527957	3760	Xylt2	NM_145828	217119	xylosyltransferase II [Source:MGI Symbol
+-1.40164516331297	4044	Treml2	NM_001033405	328833	triggering receptor expressed on myeloid cells-like 2 [Source:MGI Symbol
+-1.40106153433779	4507	Cd109	NM_153098	235505	CD109 antigen [Source:MGI Symbol
+-1.40106029621013	2345	Faap24	NM_178643	101831	Fanconi anemia core complex associated protein 24 [Source:MGI Symbol
+-1.3982484365984	2255	Gm11427	0	NA	predicted gene 11427 [Source:MGI Symbol
+-1.39696248056004	3033	Mgea5	NM_023799	76055	meningioma expressed antigen 5 (hyaluronidase) [Source:MGI Symbol
+-1.39653516149506	1053	Med10	NM_138596	28077	mediator complex subunit 10 [Source:MGI Symbol
+-1.39328948740557	4356	Arrdc2	0	70807	arrestin domain containing 2 [Source:MGI Symbol
+-1.39275097994584	5341	Slc39a13	NM_001290765	68427	solute carrier family 39 (metal ion transporter)
+-1.39203597203016	7303	2810047C21Rik1	0	NA	RIKEN cDNA 2810047C21 gene 1 [Source:MGI Symbol
+-1.39166105737096	1170	Immp1l	NM_028260	66541	IMP1 inner mitochondrial membrane peptidase-like (S. cerevisiae) [Source:MGI Symbol
+-1.39088495036565	1007	Insl6	NM_013754	27356	insulin-like 6 [Source:MGI Symbol
+-1.38969530115307	2036	Prrg2	0	65116	proline-rich Gla (G-carboxyglutamic acid) polypeptide 2 [Source:MGI Symbol
+-1.38891297006515	1763	Tbc1d9	NM_027758	71310	TBC1 domain family
+-1.38877726036247	1665	Pttg1ip	NM_145925	108705	pituitary tumor-transforming 1 interacting protein [Source:MGI Symbol
+-1.38571978524705	2050	Cxcl16	NM_023158	66102	chemokine (C-X-C motif) ligand 16 [Source:MGI Symbol
+-1.38566875869584	3350	5430405H02Rik	0	NA	RIKEN cDNA 5430405H02 gene [Source:MGI Symbol
+-1.38422102222809	5779	Fstl3	NM_031380	83554	follistatin-like 3 [Source:MGI Symbol
+-1.38227997063949	2203	Ciapin1	NM_134141	109006	cytokine induced apoptosis inhibitor 1 [Source:MGI Symbol
+-1.38185123461409	1332	Emilin2	NM_145158	246707	elastin microfibril interfacer 2 [Source:MGI Symbol
+-1.38112512768769	925	Dcun1d3	NM_001163703	233805	DCN1
+-1.38042744510802	600	Hyal2	0	15587	hyaluronoglucosaminidase 2 [Source:MGI Symbol
+-1.38022709297853	2089	Dgat1	NM_010046	13350	diacylglycerol O-acyltransferase 1 [Source:MGI Symbol
+-1.37990168400248	4884	Spred3	NM_182927	101809	sprouty-related
+-1.3785489920269	4917	Gm13205	0	NA	predicted gene 13205 [Source:MGI Symbol
+-1.37704164152327	9381	6430590A07Rik	0	NA	RIKEN cDNA 6430590A07 gene [Source:MGI Symbol
+-1.37663255300747	4466	Birc3	NM_007464	11796	baculoviral IAP repeat-containing 3 [Source:MGI Symbol
+-1.37564640199953	9582	Art3	0	109979	ADP-ribosyltransferase 3 [Source:MGI Symbol
+-1.37556025085859	2028	Gm38166	0	NA	predicted gene
+-1.37526122941223	8293	Nup210l	0	77595	nucleoporin 210-like [Source:MGI Symbol
+-1.37413514875265	1247	Zfp35	NM_011755	22694	zinc finger protein 35 [Source:MGI Symbol
+-1.37405954064857	2488	Apbb2	0	11787	amyloid beta (A4) precursor protein-binding
+-1.37341065812729	1555	S1pr1	NM_007901	13609	sphingosine-1-phosphate receptor 1 [Source:MGI Symbol
+-1.37271805138979	3491	Tmem170	NM_025781	66817	transmembrane protein 170 [Source:MGI Symbol
+-1.3725861392858	4904	Gm6483	0	NA	predicted gene 6483 [Source:MGI Symbol
+-1.37180318284772	2702	Parp12	NM_172893	243771	poly (ADP-ribose) polymerase family
+-1.37164533185468	3368	Cacnb1	NM_145121	12295	calcium channel
+-1.37082087153079	1160	Snx16	NM_001127191	74718	sorting nexin 16 [Source:MGI Symbol
+-1.37046727788148	4452	Rela	NM_009045	19697	v-rel reticuloendotheliosis viral oncogene homolog A (avian) [Source:MGI Symbol
+-1.36838162487064	2584	Tmem138	NM_028411	72982	transmembrane protein 138 [Source:MGI Symbol
+-1.36781674088933	2572	Prdx5	0	54683	peroxiredoxin 5 [Source:MGI Symbol
+-1.36688174585068	4815	Gm21092	0	NA	predicted gene
+-1.36675872654824	2881	Tfcp2	NM_033476	21422	transcription factor CP2 [Source:MGI Symbol
+-1.36549923318776	1194	Mapk6	0	50772	mitogen-activated protein kinase 6 [Source:MGI Symbol
+-1.36510690657938	1016	Ptch1	NM_008957	19206	patched 1 [Source:MGI Symbol
+-1.36399002110952	2907	Mnda	NM_001033450	381308	myeloid cell nuclear differentiation antigen [Source:MGI Symbol
+-1.36260561790437	3622	Numb	NM_001272056	18222	numb homolog (Drosophila) [Source:MGI Symbol
+-1.36209200309793	2426	Catsper2	0	212670	cation channel
+-1.36208361372474	2589	Spred2	0	114716	sprouty-related
+-1.36193788796068	2994	Parp11	0	101187	poly (ADP-ribose) polymerase family
+-1.36173540613028	1535	Mpp5	NM_019579	56217	membrane protein
+-1.36112296498236	534	Zwint	NM_001293683	52696	ZW10 interactor [Source:MGI Symbol
+-1.36103547348817	2693	Tha1	NM_027919	71776	threonine aldolase 1 [Source:MGI Symbol
+-1.35794135268928	7184	2310043P16Rik	0	NA	RIKEN cDNA 2310043P16 gene [Source:MGI Symbol
+-1.35590595617431	2130	Insig2	NM_133748	72999	insulin induced gene 2 [Source:MGI Symbol
+-1.3546568809338	8236	Galnt3	NM_015736	14425	UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase 3 [Source:MGI Symbol
+-1.35460424099363	4060	Rcl1	NM_021525	59028	RNA terminal phosphate cyclase-like 1 [Source:MGI Symbol
+-1.35453993016838	1467	BC051226	0	NA	cDNA sequence BC051226 [Source:MGI Symbol
+-1.35383273866441	676	Rilpl2	NM_030259	80291	Rab interacting lysosomal protein-like 2 [Source:MGI Symbol
+-1.35181776418507	2620	Lrrc51	0	69358	leucine rich repeat containing 51 [Source:MGI Symbol
+-1.35158923061548	2111	1300002E11Rik	0	NA	RIKEN cDNA 1300002E11 gene [Source:MGI Symbol
+-1.34904575361722	8998	Gbp10	NM_001039646	626578	guanylate-binding protein 10 [Source:MGI Symbol
+-1.34864445729618	1036	Dnajb2	NM_001159883	56812	DnaJ heat shock protein family (Hsp40) member B2 [Source:MGI Symbol
+-1.34782807477477	5384	Evi5l	0	213027	ecotropic viral integration site 5 like [Source:MGI Symbol
+-1.34734392241461	906	Vamp4	0	53330	vesicle-associated membrane protein 4 [Source:MGI Symbol
+-1.3470179550704	3544	Rbpj	0	19664	recombination signal binding protein for immunoglobulin kappa J region [Source:MGI Symbol
+-1.34551291384052	3534	Irf2bpl	NM_145836	238330	interferon regulatory factor 2 binding protein-like [Source:MGI Symbol
+-1.3453636900499	6231	Hivep2	0	15273	human immunodeficiency virus type I enhancer binding protein 2 [Source:MGI Symbol
+-1.34353743120135	6012	Xcr1	NM_011798	23832	chemokine (C motif) receptor 1 [Source:MGI Symbol
+-1.34286265196345	4820	Ifih1	NM_027835	71586	interferon induced with helicase C domain 1 [Source:MGI Symbol
+-1.34024815962986	2874	Gm11110	0	NA	predicted gene 11110 [Source:MGI Symbol
+-1.33938747514194	1077	Ube2l6	NM_019949	56791	ubiquitin-conjugating enzyme E2L 6 [Source:MGI Symbol
+-1.33722611606149	9431	Pilrb2	0	545812	paired immunoglobin-like type 2 receptor beta 2 [Source:MGI Symbol
+-1.33589454655858	1149	Klhl12	0	240756	kelch-like 12 [Source:MGI Symbol
+-1.33278152244189	1987	Rabgef1	NM_001199059	56715	RAB guanine nucleotide exchange factor (GEF) 1 [Source:MGI Symbol
+-1.33060122771101	2057	Slfn5	0	327978	schlafen 5 [Source:MGI Symbol
+-1.33031535448331	6008	Gtpbp2	0	56055	GTP binding protein 2 [Source:MGI Symbol
+-1.32980606168984	2204	Mir22hg	0	NA	Mir22 host gene (non-protein coding) [Source:MGI Symbol
+-1.32932412981974	916	Hat1	0	107435	histone aminotransferase 1 [Source:MGI Symbol
+-1.32926616439602	546	Ftl1-ps1	0	NA	ferritin light polypeptide 1
+-1.32873059392175	2269	Tdrd7	NM_001290475	100121	tudor domain containing 7 [Source:MGI Symbol
+-1.32636236223907	2068	Coq10b	NM_026424	67876	coenzyme Q10B [Source:MGI Symbol
+-1.32590042676491	3878	Rps6kb2	NM_021485	58988	ribosomal protein S6 kinase
+-1.32582872227771	3681	Rbpsuh-rs3	0	NA	recombining binding protein suppressor of hairless (Drosophila)
+-1.32444254292348	7114	Fgr	NM_010208	14191	FGR proto-oncogene
+-1.32370211041565	3832	Tor1aip2	NM_172843	240832	torsin A interacting protein 2 [Source:MGI Symbol
+-1.32327723329839	1673	Idnk	NM_198004	75731	idnK gluconokinase homolog (E. coli) [Source:MGI Symbol
+-1.32302762816498	7910	Marcksl1	NM_010807	17357	MARCKS-like 1 [Source:MGI Symbol
+-1.32241223984643	549	Atp6v0e	NM_025272	11974	ATPase
+-1.32191393667334	1179	Nphp1	NM_016902	53885	nephronophthisis 1 (juvenile) homolog (human) [Source:MGI Symbol
+-1.32183901514115	4653	Rab3ip	NM_001003950	216363	RAB3A interacting protein [Source:MGI Symbol
+-1.3204718400417	2870	Raet1d	NM_009016	19368	retinoic acid early transcript delta [Source:MGI Symbol
+-1.32046475127573	527	Htatip2	0	53415	HIV-1 Tat interactive protein 2 [Source:MGI Symbol
+-1.32037857911373	6022	Tas1r3	NM_031872	83771	taste receptor
+-1.31997562019224	2095	Pla2g7	0	27226	phospholipase A2
+-1.3196907091942	3128	Arl5b	0	75869	ADP-ribosylation factor-like 5B [Source:MGI Symbol
+-1.31846656527521	5156	Msh3	NM_010829	17686	mutS homolog 3 [Source:MGI Symbol
+-1.31834247749193	1581	Gm26811	0	NA	predicted gene
+-1.31773267895633	3379	N4bp1	0	80750	NEDD4 binding protein 1 [Source:MGI Symbol
+-1.31693446213332	7199	Nr3c1	0	14815	nuclear receptor subfamily 3
+-1.31599806002437	2017	Dtnb	0	13528	dystrobrevin
+-1.31564284878532	3202	Bcl2l1	NM_009743	12048	BCL2-like 1 [Source:MGI Symbol
+-1.31539822498991	1432	Akr1b8	NM_008012	14187	aldo-keto reductase family 1
+-1.31494281173282	1823	Klc2	0	16594	kinesin light chain 2 [Source:MGI Symbol
+-1.31408350870906	1745	Fam83h	NM_134087	105732	family with sequence similarity 83
+-1.31319120372086	1791	Psmd10	NM_016883	53380	proteasome (prosome
+-1.31307483442104	4921	Gm10642	0	NA	predicted gene 10642 [Source:MGI Symbol
+-1.31249245737811	937	Phospho2	0	73373	phosphatase
+-1.31235600463189	681	Itpa	NM_025922	16434	inosine triphosphatase (nucleoside triphosphate pyrophosphatase) [Source:MGI Symbol
+-1.31141035453144	2115	Zfp688	0	69234	zinc finger protein 688 [Source:MGI Symbol
+-1.31053822821586	1421	Micall1	NM_177461	27008	microtubule associated monooxygenase
+-1.31031325473937	2094	Tnfrsf22	NM_001311145	79202	tumor necrosis factor receptor superfamily
+-1.30988276620312	1768	Nmrk1	0	225994	nicotinamide riboside kinase 1 [Source:MGI Symbol
+-1.30956839485432	2579	Zfp438	NM_178722	240186	zinc finger protein 438 [Source:MGI Symbol
+-1.30956739952316	6510	Rnf19b	0	75234	ring finger protein 19B [Source:MGI Symbol
+-1.30950590333595	1756	Txndc12	NM_025334	66073	thioredoxin domain containing 12 (endoplasmic reticulum) [Source:MGI Symbol
+-1.3090806347847	5042	Gm37376	0	NA	predicted gene
+-1.30858663512362	4923	Zfp429	0	72807	zinc finger protein 429 [Source:MGI Symbol
+-1.30831325263028	1216	Pttg1	NM_001131054	30939	pituitary tumor-transforming gene 1 [Source:MGI Symbol
+-1.30719035819398	4282	Trpm4	0	68667	transient receptor potential cation channel
+-1.30608911656147	2462	Dst	NM_001276764	13518	dystonin [Source:MGI Symbol
+-1.30559429581091	4827	Sco1	0	52892	SCO1 cytochrome c oxidase assembly protein [Source:MGI Symbol
+-1.30548884355972	930	Ctsz	NM_022325	64138	cathepsin Z [Source:MGI Symbol
+-1.30540743494629	3578	Lims1	NM_201242	110829	LIM and senescent cell antigen-like domains 1 [Source:MGI Symbol
+-1.30505223187419	2169	Sp3os	0	NA	trans-acting transcription factor 3
+-1.30455784855051	4449	Tapbpl	NM_145391	213233	TAP binding protein-like [Source:MGI Symbol
+-1.30399104886056	3669	Arid5a	0	214855	AT rich interactive domain 5A (MRF1-like) [Source:MGI Symbol
+-1.30335025558741	3151	Moap1	NM_022323	64113	modulator of apoptosis 1 [Source:MGI Symbol
+-1.30286660228812	1891	Zfp410	NM_144833	52708	zinc finger protein 410 [Source:MGI Symbol
+-1.3022919995817	482	Tapt1	NM_173764	231225	transmembrane anterior posterior transformation 1 [Source:MGI Symbol
+-1.30124434186144	3460	P2rx4	NM_011026	18438	purinergic receptor P2X
+-1.29927761292926	1681	Rab12	0	19328	RAB12
+-1.2991249416366	1869	Ctla2a	NM_007796	13024	cytotoxic T lymphocyte-associated protein 2 alpha [Source:MGI Symbol
+-1.29891660268626	1345	Zbtb21	NM_175428	114565	zinc finger and BTB domain containing 21 [Source:MGI Symbol
+-1.29890144992951	2602	Oas3	NM_145226	246727	2'-5' oligoadenylate synthetase 3 [Source:MGI Symbol
+-1.29842005786472	1968	Tmem218	NM_001310096	66279	transmembrane protein 218 [Source:MGI Symbol
+-1.29754102735823	2452	H2afy2	NM_207000	404634	H2A histone family
+-1.29739266083134	2098	Smap1	0	98366	small ArfGAP 1 [Source:MGI Symbol
+-1.29722588369147	718	Emc7	NM_133749	73024	ER membrane protein complex subunit 7 [Source:MGI Symbol
+-1.29697272249847	4955	Pou3f1	NM_011141	18991	POU domain
+-1.29561536598794	7146	Gm27177	0	NA	predicted gene 27177 [Source:MGI Symbol
+-1.29485382686877	2810	Gtf3c5	NM_001290484	70239	general transcription factor IIIC
+-1.29415063934461	3728	Gm37787	0	NA	predicted gene
+-1.29356676007708	1759	Stam2	NM_019667	56324	signal transducing adaptor molecule (SH3 domain and ITAM motif) 2 [Source:MGI Symbol
+-1.29329488161689	4244	Ifnar1	NM_010508	15975	interferon (alpha and beta) receptor 1 [Source:MGI Symbol
+-1.29052007351615	2295	Ccdc125	NM_183115	76041	coiled-coil domain containing 125 [Source:MGI Symbol
+-1.29013320383923	3559	Arl16	0	70317	ADP-ribosylation factor-like 16 [Source:MGI Symbol
+-1.2894955401291	870	Psmd8	0	57296	proteasome (prosome
+-1.28878714871153	1470	Eif1	NM_011508	20918	eukaryotic translation initiation factor 1 [Source:MGI Symbol
+-1.28767824418487	3650	C330013E15Rik	0	NA	RIKEN cDNA C330013E15 gene [Source:MGI Symbol
+-1.28747952131141	1944	Tmem167b	0	67495	transmembrane protein 167B [Source:MGI Symbol
+-1.28634350462853	6082	Msi2	0	76626	musashi RNA-binding protein 2 [Source:MGI Symbol
+-1.28594084183987	1095	Apool	NM_001313733	68117	apolipoprotein O-like [Source:MGI Symbol
+-1.28587551014649	4107	Dr1	NM_026106	13486	down-regulator of transcription 1 [Source:MGI Symbol
+-1.28422571829858	3264	Ogfr	NM_031373	72075	opioid growth factor receptor [Source:MGI Symbol
+-1.28398227311347	3222	Nyap1	NM_175521	243300	neuronal tyrosine-phosphorylated phosphoinositide 3-kinase adaptor 1 [Source:MGI Symbol
+-1.28064653898247	995	Gfpt1	0	14583	glutamine fructose-6-phosphate transaminase 1 [Source:MGI Symbol
+-1.28015386017505	1422	Slc35f6	NM_175675	74919	solute carrier family 35
+-1.2799741241741	7434	Eps8	NM_007945	13860	epidermal growth factor receptor pathway substrate 8 [Source:MGI Symbol
+-1.27859709344564	1201	Diablo	0	66593	diablo
+-1.27800203552046	7295	Ak4	NM_001177605	11639	adenylate kinase 4 [Source:MGI Symbol
+-1.27694103866325	3102	Gm19253	0	NA	predicted gene
+-1.27535132678597	4136	Tmem171	NM_001025606	380863	transmembrane protein 171 [Source:MGI Symbol
+-1.27520110130187	4036	2500002B13Rik	0	NA	RIKEN cDNA 2500002B13 gene [Source:MGI Symbol
+-1.2736049537455	8214	Gja1	NM_010288	14609	gap junction protein
+-1.27326798303294	8748	Ndrg1	NM_008681	17988	N-myc downstream regulated gene 1 [Source:MGI Symbol
+-1.27077212210587	2367	Siah1a	NM_009172	20437	seven in absentia 1A [Source:MGI Symbol
+-1.27034560263002	832	Clpp	NM_017393	53895	caseinolytic mitochondrial matrix peptidase proteolytic subunit [Source:MGI Symbol
+-1.26925956246542	2716	Gm20784	0	NA	predicted gene
+-1.26925956246542	2717	Gm21378	0	NA	predicted gene
+-1.2689544689077	1977	Ist1	NM_028018	71955	increased sodium tolerance 1 homolog (yeast) [Source:MGI Symbol
+-1.26884765397851	856	Gpx4	0	625249	glutathione peroxidase 4 [Source:MGI Symbol
+-1.26571043113952	5519	Plag1	NM_019969	56711	pleiomorphic adenoma gene 1 [Source:MGI Symbol
+-1.26536666028789	7524	Tnip3	0	414084	TNFAIP3 interacting protein 3 [Source:MGI Symbol
+-1.26533196466349	872	Ift22	0	67286	intraflagellar transport 22 [Source:MGI Symbol
+-1.26502092647229	2917	Casp8	NM_009812	12370	caspase 8 [Source:MGI Symbol
+-1.26491628411294	3247	Tjap1	NM_028751	74094	tight junction associated protein 1 [Source:MGI Symbol
+-1.26407268233949	2358	Sirt3	0	64384	sirtuin 3 [Source:MGI Symbol
+-1.26374852477612	8509	Gm26778	0	NA	predicted gene
+-1.26215321698249	510	Hax1	NM_011826	23897	HCLS1 associated X-1 [Source:MGI Symbol
+-1.26159315407505	5385	Cpe	NM_013494	12876	carboxypeptidase E [Source:MGI Symbol
+-1.26107104785272	3626	Tes	NM_207176	21753	testis derived transcript [Source:MGI Symbol
+-1.26098791670425	3485	Zfp983	NM_001166497	73229	zinc finger protein 983 [Source:MGI Symbol
+-1.25992490725857	4106	Ccdc109b	NM_025779	66815	coiled-coil domain containing 109B [Source:MGI Symbol
+-1.25980825630169	2998	Wfdc17	NM_001081957	100034251	WAP four-disulfide core domain 17 [Source:MGI Symbol
+-1.259450601092	8337	Il4ra	NM_001008700	16190	interleukin 4 receptor
+-1.25853059253503	2807	Alcam	NM_009655	11658	activated leukocyte cell adhesion molecule [Source:MGI Symbol
+-1.25746824847337	1361	Taf7	NM_175770	24074	TATA-box binding protein associated factor 7 [Source:MGI Symbol
+-1.25732857948396	2701	Fam46c	0	74645	family with sequence similarity 46
+-1.25593976850466	3629	Tbk1	NM_019786	56480	TANK-binding kinase 1 [Source:MGI Symbol
+-1.25585149770883	1518	Rpgrip1l	NM_173431	244585	Rpgrip1-like [Source:MGI Symbol
+-1.2538715340937	968	Slc3a2	NM_001161413	17254	solute carrier family 3 (activators of dibasic and neutral amino acid transport)
+-1.25227589782774	4484	Gm10645	0	NA	predicted gene 10645 [Source:MGI Symbol
+-1.25005233190279	3643	Znf41-ps	0	NA	ZNF41
+-1.24660741184022	2264	Snx10	NM_001127349	71982	sorting nexin 10 [Source:MGI Symbol
+-1.24646307890839	5297	Ube2e2	0	218793	ubiquitin-conjugating enzyme E2E 2 [Source:MGI Symbol
+-1.24400934328234	3041	Relb	NM_009046	19698	avian reticuloendotheliosis viral (v-rel) oncogene related B [Source:MGI Symbol
+-1.24304515831649	7493	Rin2	0	74030	Ras and Rab interactor 2 [Source:MGI Symbol
+-1.24202383512868	1089	Yipf5	NM_023311	67180	Yip1 domain family
+-1.24169442852449	3950	Serpinb8	NM_011459	20725	serine (or cysteine) peptidase inhibitor
+-1.24146474020992	4313	Morn1	0	76866	MORN repeat containing 1 [Source:MGI Symbol
+-1.24133340240162	3824	Fzd5	NM_022721	14367	frizzled class receptor 5 [Source:MGI Symbol
+-1.24046339407541	2274	Kctd7	NM_172509	212919	potassium channel tetramerisation domain containing 7 [Source:MGI Symbol
+-1.24042229290074	996	1810037I17Rik	NM_024461	67704	RIKEN cDNA 1810037I17 gene [Source:MGI Symbol
+-1.23982114849988	859	Hras	NM_008284	15461	Harvey rat sarcoma virus oncogene [Source:MGI Symbol
+-1.23844973304568	1814	Zfp523	0	224656	zinc finger protein 523 [Source:MGI Symbol
+-1.23780952056665	2983	Usp42	NM_029749	76800	ubiquitin specific peptidase 42 [Source:MGI Symbol
+-1.23727760693566	2867	Cfap45	0	71870	cilia and flagella associated protein 45 [Source:MGI Symbol
+-1.23669260520742	4286	Tmem63b	NM_198167	224807	transmembrane protein 63b [Source:MGI Symbol
+-1.23658810537409	3289	Azi2	0	27215	5-azacytidine induced gene 2 [Source:MGI Symbol
+-1.23471355740725	1378	Trdmt1	NM_010067	13434	tRNA aspartic acid methyltransferase 1 [Source:MGI Symbol
+-1.23408291910718	6360	Gbp6	0	100702	guanylate binding protein 6 [Source:MGI Symbol
+-1.2329488152256	1126	Lgals9	NM_001159301	16859	lectin
+-1.23174367689338	7163	Nfat5	0	54446	nuclear factor of activated T cells 5 [Source:MGI Symbol
+-1.23015198294662	3353	Trim16	NM_053169	94092	tripartite motif-containing 16 [Source:MGI Symbol
+-1.22978681709592	5783	Mtdh	0	67154	metadherin [Source:MGI Symbol
+-1.22795866201993	2154	Ndel1	NM_023668	83431	nudE neurodevelopment protein 1 like 1 [Source:MGI Symbol
+-1.22755306269295	8976	Nrap	0	18175	nebulin-related anchoring protein [Source:MGI Symbol
+-1.22681639723084	1001	Zdhhc12	0	66220	zinc finger
+-1.22592897166844	4919	Mgarp	0	67749	mitochondria localized glutamic acid rich protein [Source:MGI Symbol
+-1.22579307788988	2952	Smg7	NM_001005507	226517	Smg-7 homolog
+-1.2250741463516	3988	Gys1	NM_030678	14936	glycogen synthase 1
+-1.22476588182527	1728	Mesdc1	NM_030705	80889	mesoderm development candidate 1 [Source:MGI Symbol
+-1.22378524133304	2131	Nup50	NM_016714	18141	nucleoporin 50 [Source:MGI Symbol
+-1.22157152272001	3172	Tlk2	NM_001294331	24086	tousled-like kinase 2 (Arabidopsis) [Source:MGI Symbol
+-1.21959581890057	1446	Ncf4	NM_008677	17972	neutrophil cytosolic factor 4 [Source:MGI Symbol
+-1.21831968602284	7351	Park2	0	50873	Parkinson disease (autosomal recessive
+-1.21831774607858	2811	Tchp	NM_029992	77832	trichoplein
+-1.21668527204541	1153	Gla	NM_013463	11605	galactosidase
+-1.21646560082071	4715	Fbxw17	NM_175401	109082	F-box and WD-40 domain protein 17 [Source:MGI Symbol
+-1.215043883176	5061	Afmid	NM_027827	71562	arylformamidase [Source:MGI Symbol
+-1.21503262624248	3734	Atg4d	NM_153583	235040	autophagy related 4D
+-1.21476718785424	2406	Snrnp48	NM_026382	67797	small nuclear ribonucleoprotein 48 (U11/U12) [Source:MGI Symbol
+-1.21456510425962	1982	Cfl2	NM_007688	12632	cofilin 2
+-1.2142715655458	6080	Tgtp2	NM_001145164	100039796	T cell specific GTPase 2 [Source:MGI Symbol
+-1.21379009593739	6175	Gm43737	0	NA	predicted gene 43737 [Source:MGI Symbol
+-1.21361990948244	3319	Prkce	NM_011104	18754	protein kinase C
+-1.21282748736313	1238	Rabl3	NM_001042499	67657	RAB
+-1.21254486907234	1017	Mrpl53	NM_026744	68499	mitochondrial ribosomal protein L53 [Source:MGI Symbol
+-1.21241583967164	2965	Qsox1	0	104009	quiescin Q6 sulfhydryl oxidase 1 [Source:MGI Symbol
+-1.2124091551105	8025	Tgm1	NM_001161715	21816	transglutaminase 1
+-1.21138559489238	5401	Tap2	NM_011530	21355	transporter 2
+-1.21099932556914	2976	Nub1	NM_001305264	53312	negative regulator of ubiquitin-like proteins 1 [Source:MGI Symbol
+-1.2102467550921	4406	Plp2	NM_019755	18824	proteolipid protein 2 [Source:MGI Symbol
+-1.20992701157851	5162	Cept1	NM_133869	99712	choline/ethanolaminephosphotransferase 1 [Source:MGI Symbol
+-1.20961482202844	6803	Gm7367	0	NA	predicted pseudogene 7367 [Source:MGI Symbol
+-1.20853078068024	2470	Zfp51	NM_001308323	22709	zinc finger protein 51 [Source:MGI Symbol
+-1.20844840171579	4261	Lemd3	NM_001081193	380664	LEM domain containing 3 [Source:MGI Symbol
+-1.20842398738865	1892	Atg4a	NM_174875	666468	autophagy related 4A
+-1.20790969247046	2142	Fzd7	NM_008057	14369	frizzled class receptor 7 [Source:MGI Symbol
+-1.20753053356821	1069	Lrp12	NM_172814	239393	low density lipoprotein-related protein 12 [Source:MGI Symbol
+-1.20677528547948	988	Slc38a7	NM_172758	234595	solute carrier family 38
+-1.20676872799948	867	Gpr137b-ps	0	NA	G protein-coupled receptor 137B
+-1.20645257857022	1806	Zfp52	NM_144515	22710	zinc finger protein 52 [Source:MGI Symbol
+-1.20550728089035	2451	Txnrd3	NM_153162	232223	thioredoxin reductase 3 [Source:MGI Symbol
+-1.20467996842062	2172	Rras	NM_009101	20130	related RAS viral (r-ras) oncogene [Source:MGI Symbol
+-1.20150307515648	2395	Shoc2	NM_001168505	56392	soc-2 (suppressor of clear) homolog (C. elegans) [Source:MGI Symbol
+-1.20072012789727	6551	Ubash3b	NM_176860	72828	ubiquitin associated and SH3 domain containing
+-1.20015461900183	1075	Dpm2	0	13481	dolichol-phosphate (beta-D) mannosyltransferase 2 [Source:MGI Symbol
+-1.20009857972736	2263	Oasl2	NM_011854	23962	2'-5' oligoadenylate synthetase-like 2 [Source:MGI Symbol
+-1.20001230118348	2992	Ccp110	NM_182995	101565	centriolar coiled coil protein 110 [Source:MGI Symbol
+-1.19921581953144	2621	Gdpd1	NM_025638	66569	glycerophosphodiester phosphodiesterase domain containing 1 [Source:MGI Symbol
+-1.19898465053706	2281	Pnp	NM_013632	18950	purine-nucleoside phosphorylase [Source:MGI Symbol
+-1.19890348373932	4393	Cyp4f13	NM_130882	170716	cytochrome P450
+-1.19836627921348	3425	Gm15446	0	NA	predicted gene 15446 [Source:MGI Symbol
+-1.19796137938241	2993	Osgepl1	NM_001285839	72085	O-sialoglycoprotein endopeptidase-like 1 [Source:MGI Symbol
+-1.1975543878334	784	Gpcpd1	0	74182	glycerophosphocholine phosphodiesterase 1 [Source:MGI Symbol
+-1.19745517846383	7879	Tpx2	0	72119	TPX2
+-1.19744766077495	1487	Tal1	NM_001287388	21349	T cell acute lymphocytic leukemia 1 [Source:MGI Symbol
+-1.19657318794815	4619	Ccdc114	0	211535	coiled-coil domain containing 114 [Source:MGI Symbol
+-1.19657148586869	2229	Ubtd1	NM_145500	226122	ubiquitin domain containing 1 [Source:MGI Symbol
+-1.19654317121224	5243	Sbno2	NM_183426	216161	strawberry notch homolog 2 (Drosophila) [Source:MGI Symbol
+-1.19592628090425	3631	Sipa1l2	0	244668	signal-induced proliferation-associated 1 like 2 [Source:MGI Symbol
+-1.19560985103509	5764	Mthfr	NM_010840	17769	5
+-1.19510802166735	1933	C920009B18Rik	0	NA	RIKEN cDNA  C920009B18 gene [Source:MGI Symbol
+-1.19421623196231	1816	2310011J03Rik	NM_025521	66374	RIKEN cDNA 2310011J03 gene [Source:MGI Symbol
+-1.19252594105452	2436	Ezr	NM_009510	22350	ezrin [Source:MGI Symbol
+-1.19204554113752	3408	Ppp4r2	NM_182939	232314	protein phosphatase 4
+-1.19179666415292	2192	A830010M20Rik	0	231570	RIKEN cDNA A830010M20 gene [Source:MGI Symbol
+-1.19142859494603	2315	Ttc39c	0	72747	tetratricopeptide repeat domain 39C [Source:MGI Symbol
+-1.19054410749062	2188	Layn	NM_001033534	244864	layilin [Source:MGI Symbol
+-1.1905244121141	3804	Hist1h4i	NM_175656	319158	histone cluster 1
+-1.19049793114468	1365	Inf2	NM_198411	70435	inverted formin
+-1.19034051038951	3238	Zfp942	NM_001199048	73233	zinc finger protein 942 [Source:MGI Symbol
+-1.18942038913958	7405	Tnfsf10	NM_009425	22035	tumor necrosis factor (ligand) superfamily
+-1.18915186688343	2904	Map2k3os	0	NA	mitogen-activated protein kinase kinase 3
+-1.18895475647378	1270	Slc25a22	NM_026646	68267	solute carrier family 25 (mitochondrial carrier
+-1.18871310222719	1770	9530082P21Rik	0	NA	RIKEN cDNA 9530082P21 gene [Source:MGI Symbol
+-1.18866364688124	1411	Prkrip1	0	66801	Prkr interacting protein 1 (IL11 inducible) [Source:MGI Symbol
+-1.18792359876567	2779	Trappc5	NM_025701	66682	trafficking protein particle complex 5 [Source:MGI Symbol
+-1.18680904276159	3735	Thada	NM_183021	240174	thyroid adenoma associated [Source:MGI Symbol
+-1.18583780562814	2466	Trim34a	0	94094	tripartite motif-containing 34A [Source:MGI Symbol
+-1.18562925238631	877	Arid3a	NM_007880	13496	AT rich interactive domain 3A (BRIGHT-like) [Source:MGI Symbol
+-1.18407072149578	1623	Tollip	0	54473	toll interacting protein [Source:MGI Symbol
+-1.18314020236002	5594	Ccl22	NM_009137	20299	chemokine (C-C motif) ligand 22 [Source:MGI Symbol
+-1.18086328818634	4076	Phf1	NM_001302397	21652	PHD finger protein 1 [Source:MGI Symbol
+-1.18045756254499	3078	Cuedc1	0	103841	CUE domain containing 1 [Source:MGI Symbol
+-1.17970511718978	2685	Map3k6	NM_016693	53608	mitogen-activated protein kinase kinase kinase 6 [Source:MGI Symbol
+-1.17948036030107	1039	Rassf8	0	71323	Ras association (RalGDS/AF-6) domain family (N-terminal) member 8 [Source:MGI Symbol
+-1.17932243947428	1312	Ttc12	NM_172770	235330	tetratricopeptide repeat domain 12 [Source:MGI Symbol
+-1.17759156151461	5090	Fam46a	NM_001160378	212943	family with sequence similarity 46
+-1.17662908498094	7848	Folr2	NM_001303231	14276	folate receptor 2 (fetal) [Source:MGI Symbol
+-1.17594679389989	826	Ikbkg	0	16151	inhibitor of kappaB kinase gamma [Source:MGI Symbol
+-1.17445928980953	3856	Stoml1	NM_026942	69106	stomatin-like 1 [Source:MGI Symbol
+-1.17398323716823	1199	Gm13509	0	NA	predicted gene 13509 [Source:MGI Symbol
+-1.17368617839003	8203	Plekhg2	NM_138752	101497	pleckstrin homology domain containing
+-1.17337425218213	3123	Mpp7	NM_001081287	75739	membrane protein
+-1.17314913272654	2447	Pgk1-rs7	0	NA	phosphoglycerate kinase-1
+-1.17247253016235	1940	Cdk20	NM_053180	105278	cyclin-dependent kinase 20 [Source:MGI Symbol
+-1.17211457339373	6542	C130026I21Rik	0	620078	RIKEN cDNA C130026I21 gene [Source:MGI Symbol
+-1.17209005066803	2539	Coq4	0	227683	coenzyme Q4 [Source:MGI Symbol
+-1.17169488529421	1573	Laptm4b	NM_033521	114128	lysosomal-associated protein transmembrane 4B [Source:MGI Symbol
+-1.17132591005278	1457	Tmem134	0	NA	transmembrane protein 134 [Source:MGI Symbol
+-1.17026455089611	5949	Dusp6	NM_026268	67603	dual specificity phosphatase 6 [Source:MGI Symbol
+-1.17023773708527	2622	1700052K11Rik	0	NA	RIKEN cDNA 1700052K11 gene [Source:MGI Symbol
+-1.16959291643337	3295	Particl	0	NA	promoter of Mat2a antisense radiation induced circulating long non-coding RNA [Source:MGI Symbol
+-1.16953721544901	6419	Arl4a	NM_001039515	11861	ADP-ribosylation factor-like 4A [Source:MGI Symbol
+-1.16882156390124	1556	Prkar2b	0	19088	protein kinase
+-1.16866663900068	3900	Phldb1	0	102693	pleckstrin homology like domain
+-1.16860025038662	3044	Fbxl2	NM_178624	72179	F-box and leucine-rich repeat protein 2 [Source:MGI Symbol
+-1.16836870256881	2732	Tmem119	NM_146162	231633	transmembrane protein 119 [Source:MGI Symbol
+-1.16830681009756	3022	Nt5c3	NM_001252374	107569	5'-nucleotidase
+-1.16810223009232	744	Pdzd11	0	72621	PDZ domain containing 11 [Source:MGI Symbol
+-1.16770712320743	2509	Fabp4	NM_024406	11770	fatty acid binding protein 4
+-1.16672178777232	1087	Gm6055	0	NA	predicted gene 6055 [Source:MGI Symbol
+-1.16650938982694	6273	Batf2	0	74481	basic leucine zipper transcription factor
+-1.16550198882514	1134	Atp6v0c	0	11984	ATPase
+-1.1653850654464	5798	Lmtk2	NM_001081109	231876	lemur tyrosine kinase 2 [Source:MGI Symbol
+-1.16451589692499	1624	Lace1	NM_145743	215951	lactation elevated 1 [Source:MGI Symbol
+-1.16439332426777	2503	Itpa-ps1	0	NA	inosine triphosphatase (nucleoside triphosphate pyrophosphatase) pseudogene 1 [Source:MGI Symbol
+-1.16395030882852	2947	Fam8a1	NM_001033192	97863	family with sequence similarity 8
+-1.16251030250111	1792	Mocos	NM_026779	68591	molybdenum cofactor sulfurase [Source:MGI Symbol
+-1.16199112988458	1671	Cnep1r1	NM_029074	382030	CTD nuclear envelope phosphatase 1 regulatory subunit 1 [Source:MGI Symbol
+-1.16168919347306	3489	Nab1	0	17936	Ngfi-A binding protein 1 [Source:MGI Symbol
+-1.16160785187696	3808	Zfp597	0	71063	zinc finger protein 597 [Source:MGI Symbol
+-1.16104872831185	3374	Tab3	0	66724	TGF-beta activated kinase 1/MAP3K7 binding protein 3 [Source:MGI Symbol
+-1.16098143036131	2626	Cox11	NM_199008	69802	cytochrome c oxidase assembly protein 11 [Source:MGI Symbol
+-1.16026756724942	2478	Ptgfrn	NM_011197	19221	prostaglandin F2 receptor negative regulator [Source:MGI Symbol
+-1.16007656376666	2014	Cxxc1	NM_028868	74322	CXXC finger 1 (PHD domain) [Source:MGI Symbol
+-1.15995747172578	1357	Slc35d2	NM_001001321	70484	solute carrier family 35
+-1.15854282622017	1526	Necap1	NM_026267	67602	NECAP endocytosis associated 1 [Source:MGI Symbol
+-1.15727821164525	3831	Usp4	NM_011678	22258	ubiquitin specific peptidase 4 (proto-oncogene) [Source:MGI Symbol
+-1.15538705371307	5864	Gna13	NM_010303	14674	guanine nucleotide binding protein
+-1.15350015114979	1480	Htra2	0	64704	HtrA serine peptidase 2 [Source:MGI Symbol
+-1.15341408679068	2911	Xylt1	0	233781	xylosyltransferase 1 [Source:MGI Symbol
+-1.15309302700974	1309	Il18bp	NM_010531	16068	interleukin 18 binding protein [Source:MGI Symbol
+-1.15251037086693	5635	Pirb	NM_011095	18733	paired Ig-like receptor B [Source:MGI Symbol
+-1.152190340545	6330	Gm12263	0	NA	predicted gene 12263 [Source:MGI Symbol
+-1.15209603754861	5793	Plagl2	NM_018807	54711	pleiomorphic adenoma gene-like 2 [Source:MGI Symbol
+-1.15074503072744	6338	Cenpl	NM_027429	70454	centromere protein L [Source:MGI Symbol
+-1.15063525081599	1161	S100a10	NM_009112	20194	S100 calcium binding protein A10 (calpactin) [Source:MGI Symbol
+-1.15051928543527	5918	Gm37305	0	NA	predicted gene
+-1.15041798750193	4319	4930402H24Rik	NM_029432	228602	RIKEN cDNA 4930402H24 gene [Source:MGI Symbol
+-1.15037641546069	1390	2610301B20Rik	0	67157	RIKEN cDNA 2610301B20 gene [Source:MGI Symbol
+-1.15008893962324	5492	Rhbdf2	NM_001167680	217344	rhomboid 5 homolog 2 [Source:MGI Symbol
+-1.14882668932112	2210	Ppp2r5b	NM_198168	225849	protein phosphatase 2
+-1.14870980266969	3708	Hnrnph1	0	59013	heterogeneous nuclear ribonucleoprotein H1 [Source:MGI Symbol
+-1.14847490672832	1041	Pi4k2b	NM_025951	67073	phosphatidylinositol 4-kinase type 2 beta [Source:MGI Symbol
+-1.14817060649261	7069	Prr5l	0	72446	proline rich 5 like [Source:MGI Symbol
+-1.14771004278395	1612	Fam126b	NM_001310599	213056	family with sequence similarity 126
+-1.14765961231228	6625	Lgr4	NM_172671	107515	leucine-rich repeat-containing G protein-coupled receptor 4 [Source:MGI Symbol
+-1.14551892810986	2507	Smg9	0	71997	smg-9 homolog
+-1.14459991835107	1395	Trim25	0	217069	tripartite motif-containing 25 [Source:MGI Symbol
+-1.14386827262006	3867	H2-T24	NM_008207	15042	histocompatibility 2
+-1.14379350802552	4342	Rcbtb1	0	71330	regulator of chromosome condensation (RCC1) and BTB (POZ) domain containing protein 1 [Source:MGI Symbol
+-1.14364703539305	2508	Zfp993	0	NA	zinc finger protein 993 [Source:MGI Symbol
+-1.1433994593234	1231	Anxa7	NM_001110794	11750	annexin A7 [Source:MGI Symbol
+-1.14313108905272	2083	Taf12	NM_025579	66464	TATA-box binding protein associated factor 12 [Source:MGI Symbol
+-1.14166229395179	3744	Tm9sf4	0	99237	transmembrane 9 superfamily protein member 4 [Source:MGI Symbol
+-1.14058371932991	1710	1810013L24Rik	NM_001081400	69053	RIKEN cDNA 1810013L24 gene [Source:MGI Symbol
+-1.13970461559895	1911	Tusc3	NM_030254	80286	tumor suppressor candidate 3 [Source:MGI Symbol
+-1.13843668510486	4928	Rbm39	NM_133242	170791	RNA binding motif protein 39 [Source:MGI Symbol
+-1.1381438221375	1797	Yipf1	NM_145550	230584	Yip1 domain family
+-1.13668728146537	2105	Tm4sf19	NM_001160402	277203	transmembrane 4 L six family member 19 [Source:MGI Symbol
+-1.13615960896077	2912	4933427D14Rik	NM_028963	74477	RIKEN cDNA 4933427D14 gene [Source:MGI Symbol
+-1.13573302858774	2770	Nck2	0	17974	non-catalytic region of tyrosine kinase adaptor protein 2 [Source:MGI Symbol
+-1.13457834845213	4968	Zfp772	NM_145577	232855	zinc finger protein 772 [Source:MGI Symbol
+-1.13393082980673	7496	Slfn9	NM_172796	237886	schlafen 9 [Source:MGI Symbol
+-1.13378266753362	1720	Bad	NM_007522	12015	BCL2-associated agonist of cell death [Source:MGI Symbol
+-1.13216775829333	1849	Pgk1	NM_008828	18655	phosphoglycerate kinase 1 [Source:MGI Symbol
+-1.13197724354359	2502	Cd80	NM_009855	12519	CD80 antigen [Source:MGI Symbol
+-1.1303006379505	4227	Usp25	NM_013918	30940	ubiquitin specific peptidase 25 [Source:MGI Symbol
+-1.12986345621868	1762	Pigl	NM_001039536	327942	phosphatidylinositol glycan anchor biosynthesis
+-1.12938962718267	1964	Nlgn2	NM_198862	216856	neuroligin 2 [Source:MGI Symbol
+-1.12929263522713	1942	Tmem33	NM_028975	67878	transmembrane protein 33 [Source:MGI Symbol
+-1.12888832801882	1062	Polr2c	NM_009090	20021	polymerase (RNA) II (DNA directed) polypeptide C [Source:MGI Symbol
+-1.12855660626492	3312	Inpp5a	NM_001127363	212111	inositol polyphosphate-5-phosphatase A [Source:MGI Symbol
+-1.12838450108053	2875	Kpna4	0	16649	karyopherin (importin) alpha 4 [Source:MGI Symbol
+-1.12822993310555	9054	Gm4841	NM_001034859	225594	predicted gene 4841 [Source:MGI Symbol
+-1.12784202900004	2407	Pcgf3	0	69587	polycomb group ring finger 3 [Source:MGI Symbol
+-1.12782439550497	1846	Armc8	NM_028768	74125	armadillo repeat containing 8 [Source:MGI Symbol
+-1.125844495192	6878	Gbp3	0	55932	guanylate binding protein 3 [Source:MGI Symbol
+-1.12576915320552	3567	Cul2	NM_029402	71745	cullin 2 [Source:MGI Symbol
+-1.12562406631141	2600	Rnf215	NM_027859	71673	ring finger protein 215 [Source:MGI Symbol
+-1.12530221303265	2931	Ofd1	NM_177429	237222	oral-facial-digital syndrome 1 gene homolog (human) [Source:MGI Symbol
+-1.12461954996023	2093	Slc25a33	NM_027460	70556	solute carrier family 25
+-1.12369289080063	7760	Itgam	NM_001082960	16409	integrin alpha M [Source:MGI Symbol
+-1.12315143922253	2946	Fndc3a	NM_207636	319448	fibronectin type III domain containing 3A [Source:MGI Symbol
+-1.12275432350614	1210	Tmem189	0	407243	transmembrane protein 189 [Source:MGI Symbol
+-1.12189636857508	8077	Mndal	0	100040462	myeloid nuclear differentiation antigen like [Source:MGI Symbol
+-1.1218162235853	1117	Anxa1	NM_010730	16952	annexin A1 [Source:MGI Symbol
+-1.12159164268155	2754	Smcr8	NM_175491	237782	Smith-Magenis syndrome chromosome region
+-1.12124008898767	2460	Kctd18	NM_001159864	51960	potassium channel tetramerisation domain containing 18 [Source:MGI Symbol
+-1.12025880998045	2568	Zc2hc1a	NM_173181	67306	zinc finger
+-1.1198468075648	2404	Zfp984	0	100041677	zinc finger protein 984 [Source:MGI Symbol
+-1.11929831250051	7913	Fsd1l	NM_001195284	319636	fibronectin type III and SPRY domain containing 1-like [Source:MGI Symbol
+-1.11887831507972	1864	Swt1	NM_025819	66875	SWT1 RNA endoribonuclease homolog (S. cerevisiae) [Source:MGI Symbol
+-1.11886947278264	2812	Pex16	0	18633	peroxisomal biogenesis factor 16 [Source:MGI Symbol
+-1.11862388419616	7437	Irf1	NM_008390	16362	interferon regulatory factor 1 [Source:MGI Symbol
+-1.11799412345252	3819	Nsun6	NM_028950	74455	NOL1/NOP2/Sun domain family member 6 [Source:MGI Symbol
+-1.11755872691736	9093	Lox	NM_001286181	16948	lysyl oxidase [Source:MGI Symbol
+-1.1171297122983	1342	Pqlc3	0	217430	PQ loop repeat containing [Source:MGI Symbol
+-1.11712875458255	3640	Cdk15	0	271697	cyclin-dependent kinase 15 [Source:MGI Symbol
+-1.11639998258044	3843	Sppl2a	NM_023220	66552	signal peptide peptidase like 2A [Source:MGI Symbol
+-1.11617955216678	2964	Stard3	NM_021547	59045	START domain containing 3 [Source:MGI Symbol
+-1.11597188407508	5246	Ttl	NM_027192	69737	tubulin tyrosine ligase [Source:MGI Symbol
+-1.1155267971556	3594	Rmdn3	NM_001033136	67809	regulator of microtubule dynamics 3 [Source:MGI Symbol
+-1.11500435710314	738	Fam63a	0	75007	family with sequence similarity 63
+-1.11432146516497	1544	Arl6	NM_019665	56297	ADP-ribosylation factor-like 6 [Source:MGI Symbol
+-1.11380550276875	3545	Msantd2	0	235184	Myb/SANT-like DNA-binding domain containing 2 [Source:MGI Symbol
+-1.11338793274791	3294	Pi4k2a	NM_145501	84095	phosphatidylinositol 4-kinase type 2 alpha [Source:MGI Symbol
+-1.11310222225278	5965	Prkd2	NM_001252458	101540	protein kinase D2 [Source:MGI Symbol
+-1.11242596130613	3754	Apobec1	NM_001134391	11810	apolipoprotein B mRNA editing enzyme
+-1.11130417685794	3072	Rcor3	NM_001290278	214742	REST corepressor 3 [Source:MGI Symbol
+-1.11109110541797	4618	Mfsd6	NM_133829	98682	major facilitator superfamily domain containing 6 [Source:MGI Symbol
+-1.11097386924225	2755	Dusp28	NM_175118	67446	dual specificity phosphatase 28 [Source:MGI Symbol
+-1.10982618993595	3254	Zfp458	NM_001001152	238690	zinc finger protein 458 [Source:MGI Symbol
+-1.10967538140982	4872	Rnf114	0	81018	ring finger protein 114 [Source:MGI Symbol
+-1.10946438169003	635	Edem2	NM_145537	108687	ER degradation enhancer
+-1.10912465352988	2300	Tldc1	NM_028883	74347	TBC/LysM associated domain containing 1 [Source:MGI Symbol
+-1.10751763260998	1751	Cby1	NM_028634	73739	chibby homolog 1 (Drosophila) [Source:MGI Symbol
+-1.10703172288957	3673	Snx11	NM_028965	74479	sorting nexin 11 [Source:MGI Symbol
+-1.10699243254338	6639	Gm26603	0	NA	predicted gene
+-1.10650185281667	4750	Mark4	NM_172279	232944	MAP/microtubule affinity regulating kinase 4 [Source:MGI Symbol
+-1.10578235944515	7223	Piwil2	NM_021308	57746	piwi-like RNA-mediated gene silencing 2 [Source:MGI Symbol
+-1.10322828292664	2067	Them4	NM_029431	75778	thioesterase superfamily member 4 [Source:MGI Symbol
+-1.10270981648883	2694	C77080	NM_001285866	97130	expressed sequence C77080 [Source:MGI Symbol
+-1.10202068289598	4350	Ascc3	NM_198007	77987	activating signal cointegrator 1 complex subunit 3 [Source:MGI Symbol
+-1.10200817801152	4446	Bcdin3d	NM_029236	75284	BCDIN3 domain containing [Source:MGI Symbol
+-1.1012632757982	3387	Map2k1	NM_008927	26395	mitogen-activated protein kinase kinase 1 [Source:MGI Symbol
+-1.10093188725099	2386	Vim	0	22352	vimentin [Source:MGI Symbol
+-1.10071336333896	1922	Gtf2e2	NM_001167921	68153	general transcription factor II E
+-1.09983533412013	2298	Fam53c	0	66306	family with sequence similarity 53
+-1.09977315749555	8334	Icam1	NM_010493	15894	intercellular adhesion molecule 1 [Source:MGI Symbol
+-1.09877179076802	1505	Anapc16	NM_025514	52717	anaphase promoting complex subunit 16 [Source:MGI Symbol
+-1.09604290628608	2190	Cbwd1	NM_146097	226043	COBW domain containing 1 [Source:MGI Symbol
+-1.09603670511226	2610	Uri1	NM_011274	19777	URI1
+-1.09574079306025	1860	Gpr137	NM_001177362	107173	G protein-coupled receptor 137 [Source:MGI Symbol
+-1.0955542768562	5099	Gm5931	0	NA	predicted pseudogene 5931 [Source:MGI Symbol
+-1.09470732828736	4753	Ppp1r15b	NM_133819	108954	protein phosphatase 1
+-1.09396640463342	5556	Dcakd	NM_026551	68087	dephospho-CoA kinase domain containing [Source:MGI Symbol
+-1.09316188055596	2678	Nkain1	0	67149	Na+/K+ transporting ATPase interacting 1 [Source:MGI Symbol
+-1.09297210534359	1294	Atg12	NM_026217	67526	autophagy related 12 [Source:MGI Symbol
+-1.09276361196484	7802	Inpp1	NM_008384	16329	inositol polyphosphate-1-phosphatase [Source:MGI Symbol
+-1.09202536736531	3881	Ccser2	0	72972	coiled-coil serine rich 2 [Source:MGI Symbol
+-1.09190664118193	1221	Vmp1	NM_029478	75909	vacuole membrane protein 1 [Source:MGI Symbol
+-1.09172171982279	3498	Sun1	NM_024451	77053	Sad1 and UNC84 domain containing 1 [Source:MGI Symbol
+-1.09147225899919	3518	Ifi35	NM_027320	70110	interferon-induced protein 35 [Source:MGI Symbol
+-1.09084803672893	4736	Nrf1	NM_001164226	18181	nuclear respiratory factor 1 [Source:MGI Symbol
+-1.09007189832348	4370	Oraov1	0	72284	oral cancer overexpressed 1 [Source:MGI Symbol
+-1.08792885706781	1678	Mgst1	NM_019946	56615	microsomal glutathione S-transferase 1 [Source:MGI Symbol
+-1.08611602208787	7501	Gm12743	0	NA	predicted gene 12743 [Source:MGI Symbol
+-1.08597504474794	7895	Cd46	NM_010778	17221	CD46 antigen
+-1.08578644016133	4104	Chst12	NM_021528	59031	carbohydrate sulfotransferase 12 [Source:MGI Symbol
+-1.08541367367234	5709	0	0	NA	0
+-1.08528246324671	6072	Zbtb42	0	382639	zinc finger and BTB domain containing 42 [Source:MGI Symbol
+-1.08527608029646	5421	Flt3l	0	14256	FMS-like tyrosine kinase 3 ligand [Source:MGI Symbol
+-1.08393302763954	7963	Gm16026	0	NA	predicted pseudogene 16026 [Source:MGI Symbol
+-1.08331099700845	3644	Dopey2	NM_027293	70028	dopey family member 2 [Source:MGI Symbol
+-1.08262412428357	3654	Pqlc1	0	66943	PQ loop repeat containing 1 [Source:MGI Symbol
+-1.08245612715262	5075	Tmem221	NM_001100462	434325	transmembrane protein 221 [Source:MGI Symbol
+-1.08176109822966	2692	Wdtc1	NM_199306	230796	WD and tetratricopeptide repeats 1 [Source:MGI Symbol
+-1.08056742711491	4037	Cptp	NM_024472	79554	ceramide-1-phosphate transfer protein [Source:MGI Symbol
+-1.08045743249982	4284	H1f0	NM_008197	14958	H1 histone family
+-1.07986266381928	1878	Ppfibp2	0	19024	PTPRF interacting protein
+-1.07891299674522	2781	Osbpl8	NM_175489	237542	oxysterol binding protein-like 8 [Source:MGI Symbol
+-1.0782416569671	2044	Phyh	NM_010726	16922	phytanoyl-CoA hydroxylase [Source:MGI Symbol
+-1.07823484105462	4409	Slc27a4	NM_011989	26569	solute carrier family 27 (fatty acid transporter)
+-1.07819532877321	3462	Bloc1s6	NM_019788	18457	biogenesis of lysosomal organelles complex-1
+-1.07777571947901	6623	Gm5970	0	NA	predicted gene 5970 [Source:MGI Symbol
+-1.07644014876298	3413	Thap6	0	NA	THAP domain containing 6 [Source:MGI Symbol
+-1.07616300780449	9193	Tmem2	NM_031997	83921	transmembrane protein 2 [Source:MGI Symbol
+-1.07458160490494	2382	Hgsnat	NM_029884	52120	heparan-alpha-glucosaminide N-acetyltransferase [Source:MGI Symbol
+-1.07440430862414	1114	Lgals8	0	56048	lectin
+-1.07438340356101	1348	Gpnmb	0	93695	glycoprotein (transmembrane) nmb [Source:MGI Symbol
+-1.0741907885973	4874	Trim12a	0	76681	tripartite motif-containing 12A [Source:MGI Symbol
+-1.07374913860749	2638	Tmem129	NM_026698	68366	transmembrane protein 129 [Source:MGI Symbol
+-1.07337022799586	8152	Cks2	NM_025415	66197	CDC28 protein kinase regulatory subunit 2 [Source:MGI Symbol
+-1.07325932573869	1438	Lztfl1	0	93730	leucine zipper transcription factor-like 1 [Source:MGI Symbol
+-1.07148365113308	5724	Etnk1	0	75320	ethanolamine kinase 1 [Source:MGI Symbol
+-1.07122627257079	7546	1600020E01Rik	0	NA	RIKEN cDNA 1600020E01 gene [Source:MGI Symbol
+-1.07118766837939	1625	Ubap1	NM_023305	67123	ubiquitin-associated protein 1 [Source:MGI Symbol
+-1.07113958757515	2739	Kctd9	NM_001285933	105440	potassium channel tetramerisation domain containing 9 [Source:MGI Symbol
+-1.07090983903721	5549	Atp1b3	NM_007502	11933	ATPase
+-1.07025848241524	1920	Pigc	NM_001039045	67292	phosphatidylinositol glycan anchor biosynthesis
+-1.06920185786591	2588	8030462N17Rik	NM_178670	212163	RIKEN cDNA 8030462N17 gene [Source:MGI Symbol
+-1.06835263987703	3265	Stard10	0	56018	START domain containing 10 [Source:MGI Symbol
+-1.06828789686618	3916	Zfp180	NM_172483	210135	zinc finger protein 180 [Source:MGI Symbol
+-1.06774616686595	1799	1110059E24Rik	0	66206	RIKEN cDNA 1110059E24 gene [Source:MGI Symbol
+-1.06766556203839	8047	Mob3b	NM_178061	214944	MOB kinase activator 3B [Source:MGI Symbol
+-1.06737280870102	4220	Plscr1	NM_011636	22038	phospholipid scramblase 1 [Source:MGI Symbol
+-1.06550821959068	6973	Rac2	NM_009008	19354	RAS-related C3 botulinum substrate 2 [Source:MGI Symbol
+-1.06532379078525	6049	Kansl1l	NM_001122738	68691	KAT8 regulatory NSL complex subunit 1-like [Source:MGI Symbol
+-1.06475533860982	4154	Slc35f5	0	74150	solute carrier family 35
+-1.06471703178146	2825	Ap3m2	NM_001122820	64933	adaptor-related protein complex 3
+-1.06420537531343	4451	Ms4a6b	0	69774	membrane-spanning 4-domains
+-1.06193822145146	10072	Fbn1	NM_007993	14118	fibrillin 1 [Source:MGI Symbol
+-1.06159289200438	2325	Abcb1a	NM_011076	18671	ATP-binding cassette
+-1.05947477736751	4510	Vps37c	NM_181403	107305	vacuolar protein sorting 37C [Source:MGI Symbol
+-1.05928379326061	2012	Gstm1	NM_010358	14862	glutathione S-transferase
+-1.05885980869017	2883	Stx6	NM_021433	58244	syntaxin 6 [Source:MGI Symbol
+-1.05837328525868	2927	Unc119b	NM_175352	106840	unc-119 lipid binding chaperone B [Source:MGI Symbol
+-1.05833244085261	911	Tusc2	NM_019742	80385	tumor suppressor candidate 2 [Source:MGI Symbol
+-1.05760754058017	2423	C330018D20Rik	NM_029909	77422	RIKEN cDNA C330018D20 gene [Source:MGI Symbol
+-1.05702899186651	2197	9330159M07Rik	0	NA	RIKEN cDNA 9330159M07 gene [Source:MGI Symbol
+-1.05700186130119	5786	Zc3h7a	NM_145931	106205	zinc finger CCCH type containing 7 A [Source:MGI Symbol
+-1.05539085368546	1540	Rasa2	NM_053268	114713	RAS p21 protein activator 2 [Source:MGI Symbol
+-1.05470665503718	2788	Ccnj	NM_172839	240665	cyclin J [Source:MGI Symbol
+-1.05464331398147	4021	Coq8b	NM_133770	76889	coenzyme Q8B [Source:MGI Symbol
+-1.05456380850933	1098	Tmem41b	NM_153525	233724	transmembrane protein 41B [Source:MGI Symbol
+-1.05380939365334	4506	Stk19	NM_019442	54402	serine/threonine kinase 19 [Source:MGI Symbol
+-1.05326942409714	2506	Nme6	0	54369	NME/NM23 nucleoside diphosphate kinase 6 [Source:MGI Symbol
+-1.05250897031287	3825	Rabl2	NM_026817	68708	RAB
+-1.05249094804401	3345	Ccpg1os	NM_001198789	546143	cell cycle progression 1
+-1.05184171140259	2341	Camk2n2	NM_028420	73047	calcium/calmodulin-dependent protein kinase II inhibitor 2 [Source:MGI Symbol
+-1.05173379420716	3055	Fam204a	NM_029648	76539	family with sequence similarity 204
+-1.05163532236723	8243	Ikbke	0	56489	inhibitor of kappaB kinase epsilon [Source:MGI Symbol
+-1.05135810611207	3246	5730508B09Rik	NM_027482	70617	RIKEN cDNA 5730508B09 gene [Source:MGI Symbol
+-1.05134523303887	1786	Ppcdc	NM_176831	66812	phosphopantothenoylcysteine decarboxylase [Source:MGI Symbol
+-1.05107349692573	7079	Gm15512	0	NA	predicted gene 15512 [Source:MGI Symbol
+-1.05064157165045	3311	Trit1	NM_025873	66966	tRNA isopentenyltransferase 1 [Source:MGI Symbol
+-1.05035758162925	1679	Tmbim4	0	68212	transmembrane BAX inhibitor motif containing 4 [Source:MGI Symbol
+-1.0502430384398	2247	0	0	108168395	0
+-1.04998517545652	5953	Cdkn2aip	0	70925	CDKN2A interacting protein [Source:MGI Symbol
+-1.04987904843604	4188	Gnpda2	0	67980	glucosamine-6-phosphate deaminase 2 [Source:MGI Symbol
+-1.04916503017916	2039	Optn	0	71648	optineurin [Source:MGI Symbol
+-1.04854652558772	2403	Tmem128	NM_025480	66309	transmembrane protein 128 [Source:MGI Symbol
+-1.04699955291359	7683	Rbfox2	NM_175387	93686	RNA binding protein
+-1.04696169762729	4519	Gcc1	NM_028900	74375	golgi coiled coil 1 [Source:MGI Symbol
+-1.04620544834541	5470	Mapk8ip3	0	30957	mitogen-activated protein kinase 8 interacting protein 3 [Source:MGI Symbol
+-1.04616314998451	811	Ttc1	0	66827	tetratricopeptide repeat domain 1 [Source:MGI Symbol
+-1.04566055133823	3596	Zbtb11os1	0	NA	zinc finger and BTB domain containing 11
+-1.04526718850814	2573	Stam	NM_011484	20844	signal transducing adaptor molecule (SH3 domain and ITAM motif) 1 [Source:MGI Symbol
+-1.04522260969566	2906	Gatad2a	0	234366	GATA zinc finger domain containing 2A [Source:MGI Symbol
+-1.04297471997616	1851	Dnase1l1	NM_027109	69537	deoxyribonuclease 1-like 1 [Source:MGI Symbol
+-1.04251342132913	2512	Colec12	NM_130449	140792	collectin sub-family member 12 [Source:MGI Symbol
+-1.04235537825812	3903	Cep19	NM_025892	66994	centrosomal protein 19 [Source:MGI Symbol
+-1.04205505920332	4483	Skil	NM_001039090	20482	SKI-like [Source:MGI Symbol
+-1.04180699739517	6322	Nat8f4	NM_001145895	75541	N-acetyltransferase 8 (GCN5-related) family member 4 [Source:MGI Symbol
+-1.04103895360742	3315	Magee1	NM_053201	107528	melanoma antigen
+-1.04076136703508	7402	Tubb4a	NM_009451	22153	tubulin
+-1.04028454123002	1127	Tpm1	NM_001164253	22003	tropomyosin 1
+-1.04001639301772	2751	Lekr1	NM_001037923	624866	leucine
+-1.03968574753934	4635	Prpf38b	0	66921	PRP38 pre-mRNA processing factor 38 (yeast) domain containing B [Source:MGI Symbol
+-1.03951066349612	4057	Zfp943	NM_001025373	74670	zinc finger prtoein 943 [Source:MGI Symbol
+-1.03827308056164	1392	Ugt1a6a	NM_145079	94284	UDP glucuronosyltransferase 1 family
+-1.038183108581	4782	Tmem115	NM_019704	56395	transmembrane protein 115 [Source:MGI Symbol
+-1.03805292754541	4139	Rhbdd1	NM_029777	76867	rhomboid domain containing 1 [Source:MGI Symbol
+-1.03803214155125	2360	P4ha1	NM_001316371	18451	procollagen-proline
+-1.03707887657604	920	Kmt5a	NM_001310725	67956	lysine methyltransferase 5A [Source:MGI Symbol
+-1.03655434319445	4415	Ppp1r2	NM_025800	66849	protein phosphatase 1
+-1.03653931093414	4778	Map10	NM_028908	74393	microtubule-associated protein 10 [Source:MGI Symbol
+-1.03471051467317	2069	Tmem30a	NM_133718	69981	transmembrane protein 30A [Source:MGI Symbol
+-1.03450078390251	4073	Lamp2	NM_001290485	16784	lysosomal-associated membrane protein 2 [Source:MGI Symbol
+-1.03336859690942	1764	Atg10	NM_025770	66795	autophagy related 10 [Source:MGI Symbol
+-1.03299490794797	7490	Spag1	0	26942	sperm associated antigen 1 [Source:MGI Symbol
+-1.03249032920899	1965	Gm20431	0	NA	predicted gene 20431 [Source:MGI Symbol
+-1.02874661386039	3005	A830080D01Rik	NM_001033472	382252	RIKEN cDNA A830080D01 gene [Source:MGI Symbol
+-1.02868764953784	4938	Eme2	0	193838	essential meiotic structure-specific endonuclease subunit 2 [Source:MGI Symbol
+-1.02828563851616	6346	Lmbr1l	0	74775	limb region 1 like [Source:MGI Symbol
+-1.02823485939679	2398	1700123O20Rik	NM_021437	58248	RIKEN cDNA 1700123O20 gene [Source:MGI Symbol
+-1.02812631281345	1737	Ghitm	NM_001199122	66092	growth hormone inducible transmembrane protein [Source:MGI Symbol
+-1.0255134530515	7413	Spred1	NM_033524	114715	sprouty protein with EVH-1 domain 1
+-1.02536543319914	2913	Ccdc181	NM_029115	74895	coiled-coil domain containing 181 [Source:MGI Symbol
+-1.02519466628329	1387	Nat9	0	66176	N-acetyltransferase 9 (GCN5-related
+-1.02453103659347	2590	Pip5k1a	NM_008847	18720	phosphatidylinositol-4-phosphate 5-kinase
+-1.02438164903512	3915	Arf5	NM_007480	11844	ADP-ribosylation factor 5 [Source:MGI Symbol
+-1.02436778816854	1227	Sec22b	NM_011342	20333	SEC22 homolog B
+-1.02351003374528	2077	Hsf2	NM_008297	15500	heat shock factor 2 [Source:MGI Symbol
+-1.02289725529249	7075	Parp14	NM_001039530	547253	poly (ADP-ribose) polymerase family
+-1.02279844285203	4677	Lrba	NM_001077687	80877	LPS-responsive beige-like anchor [Source:MGI Symbol
+-1.02112932924006	10790	Hcar2	NM_030701	80885	hydroxycarboxylic acid receptor 2 [Source:MGI Symbol
+-1.02075076519011	2640	Napepld	0	242864	N-acyl phosphatidylethanolamine phospholipase D [Source:MGI Symbol
+-1.02066726215926	1873	B230118H07Rik	NM_026592	68170	RIKEN cDNA B230118H07 gene [Source:MGI Symbol
+-1.01998455742616	2209	Tti2	NM_144927	234138	TELO2 interacting protein 2 [Source:MGI Symbol
+-1.01957884953898	4178	Mad2l1bp	NM_025649	66591	MAD2L1 binding protein [Source:MGI Symbol
+-1.01857969201862	838	Ttc39b	NM_027238	69863	tetratricopeptide repeat domain 39B [Source:MGI Symbol
+-1.01751779098848	1141	Plekha8	NM_001164361	231999	pleckstrin homology domain containing
+-1.0172222280965	2674	Slc11a1	0	18173	solute carrier family 11 (proton-coupled divalent metal ion transporters)
+-1.01481523744397	3157	Tpi1	NM_009415	21991	triosephosphate isomerase 1 [Source:MGI Symbol
+-1.01463362822298	4159	Xkr8	NM_201368	381560	X-linked Kx blood group related 8 [Source:MGI Symbol
+-1.01461826309178	2652	Pyroxd1	NM_183165	232491	pyridine nucleotide-disulphide oxidoreductase domain 1 [Source:MGI Symbol
+-1.01451902439134	5829	Tspan17	NM_028841	74257	tetraspanin 17 [Source:MGI Symbol
+-1.01387382651916	7314	Ccdc71l	NM_001162903	72123	coiled-coil domain containing 71 like [Source:MGI Symbol
+-1.01345492897474	2699	4930486L24Rik	NM_178098	214639	RIKEN cDNA 4930486L24 gene [Source:MGI Symbol
+-1.01315913436152	2332	Col4a3bp	0	68018	collagen
+-1.01257495401237	2259	Arrdc3	NM_001042591	105171	arrestin domain containing 3 [Source:MGI Symbol
+-1.01251091490611	5216	Trex1	NM_011637	22040	three prime repair exonuclease 1 [Source:MGI Symbol
+-1.01029946344064	3568	Ppp2r2d	0	52432	protein phosphatase 2
+-1.01006298260243	5618	Zfyve9	0	230597	zinc finger
+-1.00896300541311	3258	Bak1	NM_007523	12018	BCL2-antagonist/killer 1 [Source:MGI Symbol
+-1.00891233040231	2633	Gm38335	0	NA	predicted gene
+-1.00760117820374	2411	Gabpb1	NM_001271468	14391	GA repeat binding protein
+-1.00745215992013	3089	Dedd	NM_001128609	21945	death effector domain-containing [Source:MGI Symbol
+-1.0071239119028	2728	Slc44a1	NM_001159633	100434	solute carrier family 44
+-1.00659785010919	3064	Zfp775	0	243372	zinc finger protein 775 [Source:MGI Symbol
+-1.00588435421632	1045	Psmd5	NM_080554	66998	proteasome (prosome
+-1.00545061302774	1688	Gipc1	NM_018771	67903	GIPC PDZ domain containing family
+-1.00517293755259	3691	Abhd17b	NM_146096	226016	abhydrolase domain containing 17B [Source:MGI Symbol
+-1.00297419398917	4716	Glyctk	NM_174846	235582	glycerate kinase [Source:MGI Symbol
+-1.00281891331354	3141	Itgb2	NM_008404	16414	integrin beta 2 [Source:MGI Symbol
